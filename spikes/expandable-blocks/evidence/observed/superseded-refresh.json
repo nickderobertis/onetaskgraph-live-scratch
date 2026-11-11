@@ -1,0 +1,58 @@
+{
+  "github": {
+    "in-fenced-code": {
+      "url": "https://github.com/nickderobertis/onetaskgraph-live-scratch/issues/6533",
+      "stored_equals_sent": true
+    },
+    "all-forms": {
+      "url": "https://github.com/nickderobertis/onetaskgraph-live-scratch/issues/6534",
+      "stored_equals_sent": true
+    }
+  },
+  "linear": {
+    "issue-in-fenced-code": {
+      "record": "TES2-2395",
+      "f13": {
+        "id": "F13",
+        "probe": "body",
+        "summary_variant": "plain",
+        "body_variant": "nested",
+        "parsed_as": "literal text in code_block",
+        "literal_text": "<details>\n<summary>Probe F13: Body — nested</summary>\n\n```markdown\n<details>\n<summary>Probe F13i: nested inner summary</summary>\n\nNested body of probe F13.\n\n</details>\n```\n\nEnd of probe F13.\n\n</details>"
+      }
+    },
+    "issue-all-forms": {
+      "record": "TES2-2396",
+      "f13": {
+        "id": "F13",
+        "probe": "body",
+        "summary_variant": "plain",
+        "body_variant": "nested",
+        "parsed_as": "literal text in code_block",
+        "literal_text": "<details>\n<summary>Probe F13: Body — nested</summary>\n\n```markdown\n<details>\n<summary>Probe F13i: nested inner summary</summary>\n\nNested body of probe F13.\n\n</details>\n```\n\nEnd of probe F13.\n\n</details>"
+      }
+    },
+    "document-in-fenced-code": {
+      "record": "document d1dd640b7ce5",
+      "f13": {
+        "id": "F13",
+        "probe": "body",
+        "summary_variant": "plain",
+        "body_variant": "nested",
+        "parsed_as": "literal text in code_block",
+        "literal_text": "<details>\n<summary>Probe F13: Body — nested</summary>\n\n```markdown\n<details>\n<summary>Probe F13i: nested inner summary</summary>\n\nNested body of probe F13.\n\n</details>\n```\n\nEnd of probe F13.\n\n</details>"
+      }
+    },
+    "document-all-forms": {
+      "record": "document 6cd9c4d075fd",
+      "f13": {
+        "id": "F13",
+        "probe": "body",
+        "summary_variant": "plain",
+        "body_variant": "nested",
+        "parsed_as": "literal text in code_block",
+        "literal_text": "<details>\n<summary>Probe F13: Body — nested</summary>\n\n```markdown\n<details>\n<summary>Probe F13i: nested inner summary</summary>\n\nNested body of probe F13.\n\n</details>\n```\n\nEnd of probe F13.\n\n</details>"
+      }
+    }
+  }
+}

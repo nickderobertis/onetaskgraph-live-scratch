@@ -1,64 +1,64 @@
 {
   "issues": {
     "authored": {
-      "number": 6540,
-      "url": "https://github.com/nickderobertis/onetaskgraph-live-scratch/issues/6540",
-      "title": "Expandable-blocks spike 20261111-001346: probe, form A (authored)"
+      "number": 6553,
+      "url": "https://github.com/nickderobertis/onetaskgraph-live-scratch/issues/6553",
+      "title": "Expandable-blocks spike 20261111-003454: probe, form A (authored)"
     },
     "no-blank-after-summary": {
-      "number": 6541,
-      "url": "https://github.com/nickderobertis/onetaskgraph-live-scratch/issues/6541",
-      "title": "Expandable-blocks spike 20261111-001346: probe, form T (no-blank-after-summary)"
+      "number": 6554,
+      "url": "https://github.com/nickderobertis/onetaskgraph-live-scratch/issues/6554",
+      "title": "Expandable-blocks spike 20261111-003454: probe, form T (no-blank-after-summary)"
     },
     "linear-plus": {
-      "number": 6542,
-      "url": "https://github.com/nickderobertis/onetaskgraph-live-scratch/issues/6542",
-      "title": "Expandable-blocks spike 20261111-001346: probe, form P (linear-plus)"
+      "number": 6555,
+      "url": "https://github.com/nickderobertis/onetaskgraph-live-scratch/issues/6555",
+      "title": "Expandable-blocks spike 20261111-003454: probe, form P (linear-plus)"
     },
     "linear-arrow": {
-      "number": 6543,
-      "url": "https://github.com/nickderobertis/onetaskgraph-live-scratch/issues/6543",
-      "title": "Expandable-blocks spike 20261111-001346: probe, form R (linear-arrow)"
+      "number": 6556,
+      "url": "https://github.com/nickderobertis/onetaskgraph-live-scratch/issues/6556",
+      "title": "Expandable-blocks spike 20261111-003454: probe, form R (linear-arrow)"
     },
     "details-open": {
-      "number": 6544,
-      "url": "https://github.com/nickderobertis/onetaskgraph-live-scratch/issues/6544",
-      "title": "Expandable-blocks spike 20261111-001346: probe, form O (details-open)"
+      "number": 6557,
+      "url": "https://github.com/nickderobertis/onetaskgraph-live-scratch/issues/6557",
+      "title": "Expandable-blocks spike 20261111-003454: probe, form O (details-open)"
     },
     "in-list-item": {
-      "number": 6545,
-      "url": "https://github.com/nickderobertis/onetaskgraph-live-scratch/issues/6545",
-      "title": "Expandable-blocks spike 20261111-001346: probe, form L (in-list-item)"
+      "number": 6558,
+      "url": "https://github.com/nickderobertis/onetaskgraph-live-scratch/issues/6558",
+      "title": "Expandable-blocks spike 20261111-003454: probe, form L (in-list-item)"
     },
     "in-fenced-code": {
-      "number": 6546,
-      "url": "https://github.com/nickderobertis/onetaskgraph-live-scratch/issues/6546",
-      "title": "Expandable-blocks spike 20261111-001346: probe, form F (in-fenced-code)"
+      "number": 6559,
+      "url": "https://github.com/nickderobertis/onetaskgraph-live-scratch/issues/6559",
+      "title": "Expandable-blocks spike 20261111-003454: probe, form F (in-fenced-code)"
     },
     "all-forms": {
-      "number": 6547,
-      "url": "https://github.com/nickderobertis/onetaskgraph-live-scratch/issues/6547",
-      "title": "Expandable-blocks spike 20261111-001346: probe, every form"
+      "number": 6560,
+      "url": "https://github.com/nickderobertis/onetaskgraph-live-scratch/issues/6560",
+      "title": "Expandable-blocks spike 20261111-003454: probe, every form"
     },
     "sample-before": {
-      "number": 6548,
-      "url": "https://github.com/nickderobertis/onetaskgraph-live-scratch/issues/6548",
-      "title": "Expandable-blocks spike 20261111-001346: design-document sample, today layout"
+      "number": 6561,
+      "url": "https://github.com/nickderobertis/onetaskgraph-live-scratch/issues/6561",
+      "title": "Expandable-blocks spike 20261111-003454: design-document sample, today layout"
     },
     "sample-after": {
-      "number": 6549,
-      "url": "https://github.com/nickderobertis/onetaskgraph-live-scratch/issues/6549",
-      "title": "Expandable-blocks spike 20261111-001346: design-document sample, new layout"
+      "number": 6562,
+      "url": "https://github.com/nickderobertis/onetaskgraph-live-scratch/issues/6562",
+      "title": "Expandable-blocks spike 20261111-003454: design-document sample, new layout"
     }
   },
   "attachments": {
     "probe": {
-      "url": "https://github.com/user-attachments/assets/2e8cd95e-1270-4ec5-a544-5f2bf64b6c62",
+      "url": "https://github.com/user-attachments/assets/8ba85cb4-a1bf-4090-a4ca-6e0d46c74e33",
       "anonymous_get": 404,
       "authenticated_get": 400
     },
     "graph": {
-      "url": "https://github.com/user-attachments/assets/4f85bd0c-823b-4a54-a8c3-5f7339a3a444",
+      "url": "https://github.com/user-attachments/assets/a24ab540-c2e6-4034-9927-ba1add1591d7",
       "anonymous_get": 404,
       "authenticated_get": 400
     }
@@ -68,15 +68,15 @@
     "before": "https://github.com/nickderobertis/onetaskgraph-live-scratch/blob/expandable-blocks-spike/spikes/expandable-blocks/before.md",
     "after": "https://github.com/nickderobertis/onetaskgraph-live-scratch/blob/expandable-blocks-spike/spikes/expandable-blocks/after.md"
   },
-  "scratch_commit": "edd6f0e12b37522b397ad6e72002f100659d6649",
+  "scratch_commit": "2e4e1ba946fcf098b4be57063446642b94e5025a",
   "sample_shots": {
-    "reversible-decisions-before": "samples/shots/reversible-decisions-before.png",
-    "high-cost-examples-before": "samples/shots/high-cost-examples-before.png",
-    "task-table-before": "samples/shots/task-table-before.png",
-    "vscode-preview-before": "samples/shots/vscode-preview-before.png",
-    "reversible-decisions-after": "samples/shots/reversible-decisions-after.png",
-    "high-cost-examples-after": "samples/shots/high-cost-examples-after.png",
-    "task-table-after": "samples/shots/task-table-after.png",
-    "vscode-preview-after": "samples/shots/vscode-preview-after.png"
+    "reversible-decisions-before": "/home/nick/projects/ai-orchestrator/runs/design-doc-collapsible-repair-2-spikes/scratch/217799-0/run3/sample-shots/reversible-decisions-before.png",
+    "high-cost-examples-before": "/home/nick/projects/ai-orchestrator/runs/design-doc-collapsible-repair-2-spikes/scratch/217799-0/run3/sample-shots/high-cost-examples-before.png",
+    "task-table-before": "/home/nick/projects/ai-orchestrator/runs/design-doc-collapsible-repair-2-spikes/scratch/217799-0/run3/sample-shots/task-table-before.png",
+    "vscode-preview-before": "/home/nick/projects/ai-orchestrator/runs/design-doc-collapsible-repair-2-spikes/scratch/217799-0/run3/sample-shots/vscode-preview-before.png",
+    "reversible-decisions-after": "/home/nick/projects/ai-orchestrator/runs/design-doc-collapsible-repair-2-spikes/scratch/217799-0/run3/sample-shots/reversible-decisions-after.png",
+    "high-cost-examples-after": "/home/nick/projects/ai-orchestrator/runs/design-doc-collapsible-repair-2-spikes/scratch/217799-0/run3/sample-shots/high-cost-examples-after.png",
+    "task-table-after": "/home/nick/projects/ai-orchestrator/runs/design-doc-collapsible-repair-2-spikes/scratch/217799-0/run3/sample-shots/task-table-after.png",
+    "vscode-preview-after": "/home/nick/projects/ai-orchestrator/runs/design-doc-collapsible-repair-2-spikes/scratch/217799-0/run3/sample-shots/vscode-preview-after.png"
   }
 }
