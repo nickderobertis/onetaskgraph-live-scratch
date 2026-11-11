@@ -1,6 +1,6 @@
 {
   "github-issue/authored": {
-    "url": "https://github.com/nickderobertis/onetaskgraph-live-scratch/issues/6527",
+    "url": "https://github.com/nickderobertis/onetaskgraph-live-scratch/issues/6540",
     "blocks": [
       {
         "id": "A01",
@@ -161,7 +161,7 @@
         "summary_html": "Probe A11: Body — image",
         "summary_text": "Probe A11: Body — image",
         "image_loaded": true,
-        "image_src": "https://private-user-images.githubusercontent.com/19440155/701666428-a4681902-ddeb-4c4f-9a3e-7c99efef8200.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTQzNTU3MTQsIm5iZiI6MTc5NDM1NTQxNCwicGF0aCI6Ii8xOTQ0MDE1NS83MDE2NjY0MjgtYTQ2ODE5MDItZGRlYi00YzRmLTlhM2UtN2M5OWVmZWY4MjAwLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjExMTElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYxMTExVDAwMDMzNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTc1YzdhMDI5MzE2ZTdlMDBiZWVhMmIyZjIwMTU2MmNiYzVhNDI4MWFiN2YwYTM0OGE4ZjUzODU2OGU2OWE5YzEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.omZQBTnRBn5bZSvN4hf_3y7hJS_u4lwGJnGM1RLPooY",
+        "image_src": "https://private-user-images.githubusercontent.com/19440155/701694477-2e8cd95e-1270-4ec5-a544-5f2bf64b6c62.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTQzNTY0NTEsIm5iZiI6MTc5NDM1NjE1MSwicGF0aCI6Ii8xOTQ0MDE1NS83MDE2OTQ0NzctMmU4Y2Q5NWUtMTI3MC00ZWM1LWE1NDQtNWYyYmY2NGI2YzYyLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjExMTElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYxMTExVDAwMTU1MVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTI2MzNlOTc1NWEwYTBhYzYwMWZjNDFhNjJiMGY0ZTZmOTVjMDkyNjZjYTAyOGY5NmM0NzJmODNjNDZjZDE1NDcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.u1g7Ak0pP83tGmoe2yJSmCluWXDUCbRDe847nn7IJKQ",
         "body_rendered": true,
         "end_marker_inside": true,
         "body_text": "\nEnd of probe A11."
@@ -198,7 +198,7 @@
     "details_count": 14
   },
   "github-issue/no-blank-after-summary": {
-    "url": "https://github.com/nickderobertis/onetaskgraph-live-scratch/issues/6528",
+    "url": "https://github.com/nickderobertis/onetaskgraph-live-scratch/issues/6541",
     "blocks": [
       {
         "id": "T01",
@@ -396,7 +396,7 @@
     "details_count": 14
   },
   "github-issue/linear-plus": {
-    "url": "https://github.com/nickderobertis/onetaskgraph-live-scratch/issues/6529",
+    "url": "https://github.com/nickderobertis/onetaskgraph-live-scratch/issues/6542",
     "blocks": [
       {
         "id": "P01",
@@ -519,7 +519,7 @@
     "details_count": 0
   },
   "github-issue/linear-arrow": {
-    "url": "https://github.com/nickderobertis/onetaskgraph-live-scratch/issues/6530",
+    "url": "https://github.com/nickderobertis/onetaskgraph-live-scratch/issues/6543",
     "blocks": [
       {
         "id": "R01",
@@ -642,7 +642,7 @@
     "details_count": 0
   },
   "github-issue/details-open": {
-    "url": "https://github.com/nickderobertis/onetaskgraph-live-scratch/issues/6531",
+    "url": "https://github.com/nickderobertis/onetaskgraph-live-scratch/issues/6544",
     "blocks": [
       {
         "id": "O01",
@@ -803,7 +803,7 @@
         "summary_html": "Probe O11: Body — image",
         "summary_text": "Probe O11: Body — image",
         "image_loaded": true,
-        "image_src": "https://private-user-images.githubusercontent.com/19440155/701666428-a4681902-ddeb-4c4f-9a3e-7c99efef8200.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTQzNTU3MzEsIm5iZiI6MTc5NDM1NTQzMSwicGF0aCI6Ii8xOTQ0MDE1NS83MDE2NjY0MjgtYTQ2ODE5MDItZGRlYi00YzRmLTlhM2UtN2M5OWVmZWY4MjAwLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjExMTElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYxMTExVDAwMDM1MVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWM5MDhjYjllYTljNTExYjBkZDU1MjAzMzU2ZTczOTNjM2RmMDBmYzIyNGIyZjg1NDQzMDc2ZTM0MmViOTc0MzkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.kv2UwDgUA7f5xywD_85_WIacQs3eq1T4gNNszdKBpFw",
+        "image_src": "https://private-user-images.githubusercontent.com/19440155/701694477-2e8cd95e-1270-4ec5-a544-5f2bf64b6c62.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTQzNTY0NjksIm5iZiI6MTc5NDM1NjE2OSwicGF0aCI6Ii8xOTQ0MDE1NS83MDE2OTQ0NzctMmU4Y2Q5NWUtMTI3MC00ZWM1LWE1NDQtNWYyYmY2NGI2YzYyLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjExMTElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYxMTExVDAwMTYwOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTIxMWM5MmUxYTE3YmI0ZjYzMDYwYmJlZTdhYmI1NjA3NzhlNzNmZjE0MTA0MzBiMTM5OGE2NWU3MTQ5MjhiMjMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.aU8NiVK2A2JEn33Q06BUzzuIC_sZvMZUv5bnOaqNSPM",
         "body_rendered": true,
         "end_marker_inside": true,
         "body_text": "\nEnd of probe O11."
@@ -840,7 +840,7 @@
     "details_count": 14
   },
   "github-issue/in-list-item": {
-    "url": "https://github.com/nickderobertis/onetaskgraph-live-scratch/issues/6532",
+    "url": "https://github.com/nickderobertis/onetaskgraph-live-scratch/issues/6545",
     "blocks": [
       {
         "id": "L01",
@@ -1001,7 +1001,7 @@
         "summary_html": "Probe L11: Body — image",
         "summary_text": "Probe L11: Body — image",
         "image_loaded": true,
-        "image_src": "https://private-user-images.githubusercontent.com/19440155/701666428-a4681902-ddeb-4c4f-9a3e-7c99efef8200.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTQzNTU3MzYsIm5iZiI6MTc5NDM1NTQzNiwicGF0aCI6Ii8xOTQ0MDE1NS83MDE2NjY0MjgtYTQ2ODE5MDItZGRlYi00YzRmLTlhM2UtN2M5OWVmZWY4MjAwLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjExMTElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYxMTExVDAwMDM1NlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTQzYjNiZDUwMWQ1ZGY1YThjZTVhZjMwYzVhMzQ3MTE4ZDc1MzMyNmZmOGUzZDk2NTM5NGQyYTk4NTQxODc2NmYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.zV0gNoP1fi80Kw2wUuseGILPVzd_xzZtWOix3bRXo0c",
+        "image_src": "https://private-user-images.githubusercontent.com/19440155/701694477-2e8cd95e-1270-4ec5-a544-5f2bf64b6c62.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTQzNTY0NzMsIm5iZiI6MTc5NDM1NjE3MywicGF0aCI6Ii8xOTQ0MDE1NS83MDE2OTQ0NzctMmU4Y2Q5NWUtMTI3MC00ZWM1LWE1NDQtNWYyYmY2NGI2YzYyLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjExMTElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYxMTExVDAwMTYxM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTFiNWI2OWQ2MDE5OWUzYmEzYmZkNmQzMTA0Mjk2ODI2Mzg2NWE0YzkxMjFiZWNlZGFlYWVhNmMzZDlkMTY1NDYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.Jbf1Pg7Plh_3ZWhj4mL6sSlBAvvkPEmjrqafddF-PHA",
         "body_rendered": true,
         "end_marker_inside": true,
         "body_text": "\nEnd of probe L11."
@@ -1038,7 +1038,7 @@
     "details_count": 14
   },
   "github-issue/in-fenced-code": {
-    "url": "https://github.com/nickderobertis/onetaskgraph-live-scratch/issues/6533",
+    "url": "https://github.com/nickderobertis/onetaskgraph-live-scratch/issues/6546",
     "blocks": [
       {
         "id": "F01",
@@ -1136,7 +1136,7 @@
         "body_variant": "image",
         "rendered_as": "literal",
         "literal_in": "code block",
-        "literal_text": "<details>\n<summary>Probe F11: Body — image</summary>\n\n![Probe image in F11](https://github.com/user-attachments/assets/a4681902-ddeb-4c4f-9a3e-7c99efef8200)\n\nEnd of probe F11.\n\n</details>",
+        "literal_text": "<details>\n<summary>Probe F11: Body — image</summary>\n\n![Probe image in F11](https://github.com/user-attachments/assets/2e8cd95e-1270-4ec5-a544-5f2bf64b6c62)\n\nEnd of probe F11.\n\n</details>",
         "literal_visible": true
       },
       {
@@ -1154,14 +1154,14 @@
         "body_variant": "nested",
         "rendered_as": "literal",
         "literal_in": "code block",
-        "literal_text": "<details>\n<summary>Probe F13: Body — nested</summary>\n\n````markdown\n<details>\n<summary>Probe F13i: nested inner summary</summary>\n\nNested body of probe F13.\n\n</details>",
+        "literal_text": "<details>\n<summary>Probe F13: Body — nested</summary>\n\n```markdown\n<details>\n<summary>Probe F13i: nested inner summary</summary>\n\nNested body of probe F13.\n\n</details>\n```\n\nEnd of probe F13.\n\n</details>",
         "literal_visible": true
       }
     ],
     "details_count": 0
   },
   "github-issue/all-forms": {
-    "url": "https://github.com/nickderobertis/onetaskgraph-live-scratch/issues/6534",
+    "url": "https://github.com/nickderobertis/onetaskgraph-live-scratch/issues/6547",
     "blocks": [
       {
         "id": "A01",
@@ -1322,7 +1322,7 @@
         "summary_html": "Probe A11: Body — image",
         "summary_text": "Probe A11: Body — image",
         "image_loaded": true,
-        "image_src": "https://private-user-images.githubusercontent.com/19440155/701666428-a4681902-ddeb-4c4f-9a3e-7c99efef8200.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTQzNTU3NDQsIm5iZiI6MTc5NDM1NTQ0NCwicGF0aCI6Ii8xOTQ0MDE1NS83MDE2NjY0MjgtYTQ2ODE5MDItZGRlYi00YzRmLTlhM2UtN2M5OWVmZWY4MjAwLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjExMTElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYxMTExVDAwMDQwNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWZhYzJjOWE2NDhkNDcyZjk5ZDI1NTYxNzcwODQ3MmY2MGQ3ZjkyNDIzNjA3MDFiY2EzODZhODY1OWViOTE2OWEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.P_X9aD9Wc9VgcO2JVsu53yDTiU9CfgyLIDkgYiT5qRU",
+        "image_src": "https://private-user-images.githubusercontent.com/19440155/701694477-2e8cd95e-1270-4ec5-a544-5f2bf64b6c62.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTQzNTY0ODIsIm5iZiI6MTc5NDM1NjE4MiwicGF0aCI6Ii8xOTQ0MDE1NS83MDE2OTQ0NzctMmU4Y2Q5NWUtMTI3MC00ZWM1LWE1NDQtNWYyYmY2NGI2YzYyLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjExMTElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYxMTExVDAwMTYyMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTJjMWRjZDlmYmMzNDkwZTUwZWQ0MWE0MzVmMzRiZGJkMmM3ODY1M2JhZWRjNjc0NjhmZmUzNmQ5MmExYmUzODYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.m0zO0P0h0_F7JWE40y5pKQKL7-lYrPs46lE6PpFWSJE",
         "body_rendered": true,
         "end_marker_inside": true,
         "body_text": "\nEnd of probe A11."
@@ -1940,7 +1940,7 @@
         "summary_html": "Probe O11: Body — image",
         "summary_text": "Probe O11: Body — image",
         "image_loaded": true,
-        "image_src": "https://private-user-images.githubusercontent.com/19440155/701666428-a4681902-ddeb-4c4f-9a3e-7c99efef8200.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTQzNTU3NDQsIm5iZiI6MTc5NDM1NTQ0NCwicGF0aCI6Ii8xOTQ0MDE1NS83MDE2NjY0MjgtYTQ2ODE5MDItZGRlYi00YzRmLTlhM2UtN2M5OWVmZWY4MjAwLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjExMTElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYxMTExVDAwMDQwNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWZhYzJjOWE2NDhkNDcyZjk5ZDI1NTYxNzcwODQ3MmY2MGQ3ZjkyNDIzNjA3MDFiY2EzODZhODY1OWViOTE2OWEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.P_X9aD9Wc9VgcO2JVsu53yDTiU9CfgyLIDkgYiT5qRU",
+        "image_src": "https://private-user-images.githubusercontent.com/19440155/701694477-2e8cd95e-1270-4ec5-a544-5f2bf64b6c62.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTQzNTY0ODIsIm5iZiI6MTc5NDM1NjE4MiwicGF0aCI6Ii8xOTQ0MDE1NS83MDE2OTQ0NzctMmU4Y2Q5NWUtMTI3MC00ZWM1LWE1NDQtNWYyYmY2NGI2YzYyLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjExMTElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYxMTExVDAwMTYyMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTJjMWRjZDlmYmMzNDkwZTUwZWQ0MWE0MzVmMzRiZGJkMmM3ODY1M2JhZWRjNjc0NjhmZmUzNmQ5MmExYmUzODYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.m0zO0P0h0_F7JWE40y5pKQKL7-lYrPs46lE6PpFWSJE",
         "body_rendered": true,
         "end_marker_inside": true,
         "body_text": "\nEnd of probe O11."
@@ -2132,7 +2132,7 @@
         "summary_html": "Probe L11: Body — image",
         "summary_text": "Probe L11: Body — image",
         "image_loaded": true,
-        "image_src": "https://private-user-images.githubusercontent.com/19440155/701666428-a4681902-ddeb-4c4f-9a3e-7c99efef8200.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTQzNTU3NDQsIm5iZiI6MTc5NDM1NTQ0NCwicGF0aCI6Ii8xOTQ0MDE1NS83MDE2NjY0MjgtYTQ2ODE5MDItZGRlYi00YzRmLTlhM2UtN2M5OWVmZWY4MjAwLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjExMTElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYxMTExVDAwMDQwNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWZhYzJjOWE2NDhkNDcyZjk5ZDI1NTYxNzcwODQ3MmY2MGQ3ZjkyNDIzNjA3MDFiY2EzODZhODY1OWViOTE2OWEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.P_X9aD9Wc9VgcO2JVsu53yDTiU9CfgyLIDkgYiT5qRU",
+        "image_src": "https://private-user-images.githubusercontent.com/19440155/701694477-2e8cd95e-1270-4ec5-a544-5f2bf64b6c62.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTQzNTY0ODIsIm5iZiI6MTc5NDM1NjE4MiwicGF0aCI6Ii8xOTQ0MDE1NS83MDE2OTQ0NzctMmU4Y2Q5NWUtMTI3MC00ZWM1LWE1NDQtNWYyYmY2NGI2YzYyLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjExMTElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYxMTExVDAwMTYyMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTJjMWRjZDlmYmMzNDkwZTUwZWQ0MWE0MzVmMzRiZGJkMmM3ODY1M2JhZWRjNjc0NjhmZmUzNmQ5MmExYmUzODYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.m0zO0P0h0_F7JWE40y5pKQKL7-lYrPs46lE6PpFWSJE",
         "body_rendered": true,
         "end_marker_inside": true,
         "body_text": "\nEnd of probe L11."
@@ -2261,7 +2261,7 @@
         "body_variant": "image",
         "rendered_as": "literal",
         "literal_in": "code block",
-        "literal_text": "<details>\n<summary>Probe F11: Body — image</summary>\n\n![Probe image in F11](https://github.com/user-attachments/assets/a4681902-ddeb-4c4f-9a3e-7c99efef8200)\n\nEnd of probe F11.\n\n</details>",
+        "literal_text": "<details>\n<summary>Probe F11: Body — image</summary>\n\n![Probe image in F11](https://github.com/user-attachments/assets/2e8cd95e-1270-4ec5-a544-5f2bf64b6c62)\n\nEnd of probe F11.\n\n</details>",
         "literal_visible": true
       },
       {
@@ -2279,14 +2279,14 @@
         "body_variant": "nested",
         "rendered_as": "literal",
         "literal_in": "code block",
-        "literal_text": "<details>\n<summary>Probe F13: Body — nested</summary>\n\n````markdown\n<details>\n<summary>Probe F13i: nested inner summary</summary>\n\nNested body of probe F13.\n\n</details>",
+        "literal_text": "<details>\n<summary>Probe F13: Body — nested</summary>\n\n```markdown\n<details>\n<summary>Probe F13i: nested inner summary</summary>\n\nNested body of probe F13.\n\n</details>\n```\n\nEnd of probe F13.\n\n</details>",
         "literal_visible": true
       }
     ],
     "details_count": 56
   },
   "board-copy/project": {
-    "url": "https://github.com/nickderobertis/onetaskgraph-live-scratch/issues/6537",
+    "url": "https://github.com/nickderobertis/onetaskgraph-live-scratch/issues/6550",
     "blocks": [
       {
         "id": "A01",
@@ -2447,7 +2447,7 @@
         "summary_html": "Probe A11: Body — image",
         "summary_text": "Probe A11: Body — image",
         "image_loaded": true,
-        "image_src": "https://private-user-images.githubusercontent.com/19440155/701666428-a4681902-ddeb-4c4f-9a3e-7c99efef8200.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTQzNTU3NTAsIm5iZiI6MTc5NDM1NTQ1MCwicGF0aCI6Ii8xOTQ0MDE1NS83MDE2NjY0MjgtYTQ2ODE5MDItZGRlYi00YzRmLTlhM2UtN2M5OWVmZWY4MjAwLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjExMTElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYxMTExVDAwMDQxMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTI5MmViYmNjNDc1MDVjYjc5OWE1MWFmNWJkZTAxMDNhMGU4YWVkMjk5ZTVlZDZjNTMyMTdiY2U4YTY5M2IxZDcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.7TKhAfWzxUwsCBo7cJYRlMXmcnJzplu6diWI8szfKiA",
+        "image_src": "https://private-user-images.githubusercontent.com/19440155/701694477-2e8cd95e-1270-4ec5-a544-5f2bf64b6c62.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTQzNTY0ODcsIm5iZiI6MTc5NDM1NjE4NywicGF0aCI6Ii8xOTQ0MDE1NS83MDE2OTQ0NzctMmU4Y2Q5NWUtMTI3MC00ZWM1LWE1NDQtNWYyYmY2NGI2YzYyLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjExMTElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYxMTExVDAwMTYyN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWYxNTMyYjY5MTIxYWUzOWM4MWEzYWU2MTIyOWNlNzNiNTVhZGRlYTA0NGVkMjcxNTZjZWYyZjcwM2UwMjA1YWUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.-6P1YFr9GUWREB-V-EV4Xy3yJKfPlpIwC1Y_3TBEA6s",
         "body_rendered": true,
         "end_marker_inside": true,
         "body_text": "\nEnd of probe A11."
@@ -2484,7 +2484,7 @@
     "details_count": 14
   },
   "board-copy/task": {
-    "url": "https://github.com/nickderobertis/onetaskgraph-live-scratch/issues/6538",
+    "url": "https://github.com/nickderobertis/onetaskgraph-live-scratch/issues/6551",
     "blocks": [
       {
         "id": "A01",
@@ -2645,7 +2645,7 @@
         "summary_html": "Probe A11: Body — image",
         "summary_text": "Probe A11: Body — image",
         "image_loaded": true,
-        "image_src": "https://private-user-images.githubusercontent.com/19440155/701670081-74e76518-cdbb-4452-9f41-e269128e6187.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTQzNTU3NTQsIm5iZiI6MTc5NDM1NTQ1NCwicGF0aCI6Ii8xOTQ0MDE1NS83MDE2NzAwODEtNzRlNzY1MTgtY2RiYi00NDUyLTlmNDEtZTI2OTEyOGU2MTg3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjExMTElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYxMTExVDAwMDQxNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWVhMzQ5NTNhYTU5YjlkMTVhYWQwZGVmNTc4ZjMyNjQzOWQzYjFjMjdlYTE5NDM1OTA2ZTNlNjhmZjE2MGRhNWEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.nbxFl50eFf8WUq7GsQg7VjNk0YOk8U-AS0yJDEDtivE",
+        "image_src": "https://private-user-images.githubusercontent.com/19440155/701695767-7d10088b-b463-4f2c-a4af-f313ab89d62e.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTQzNTY0OTEsIm5iZiI6MTc5NDM1NjE5MSwicGF0aCI6Ii8xOTQ0MDE1NS83MDE2OTU3NjctN2QxMDA4OGItYjQ2My00ZjJjLWE0YWYtZjMxM2FiODlkNjJlLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjExMTElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYxMTExVDAwMTYzMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWNmOTY1YzdjMDM2N2VkODc1MGVlYmRhY2IyYmFlNmIwMWRlYzIwNTY3NmE3NjMzMTBiYjMyODQ0NTA2MTM2MDQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.hb9gH0eoYweh_JWcHMYgtul6QNsz1ASCtJQ_LOH_HUg",
         "body_rendered": true,
         "end_marker_inside": true,
         "body_text": "\nEnd of probe A11."
@@ -2682,7 +2682,7 @@
     "details_count": 14
   },
   "board-copy/document": {
-    "url": "https://github.com/nickderobertis/onetaskgraph-live-scratch/issues/6539",
+    "url": "https://github.com/nickderobertis/onetaskgraph-live-scratch/issues/6552",
     "blocks": [
       {
         "id": "A01",
@@ -2843,7 +2843,7 @@
         "summary_html": "Probe A11: Body — image",
         "summary_text": "Probe A11: Body — image",
         "image_loaded": true,
-        "image_src": "https://private-user-images.githubusercontent.com/19440155/701670223-83b77aca-b190-4cd5-8961-7170f97a4089.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTQzNTU3NTksIm5iZiI6MTc5NDM1NTQ1OSwicGF0aCI6Ii8xOTQ0MDE1NS83MDE2NzAyMjMtODNiNzdhY2EtYjE5MC00Y2Q1LTg5NjEtNzE3MGY5N2E0MDg5LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjExMTElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYxMTExVDAwMDQxOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTE5MzYyYTg1YmM2NTM5M2ExMWZhMzExYWY4NjRhNjdjYzBlNWE2ZjA0YWE1NTc4MWY4NDM0MzE0MDE5OTA1MmMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.X8iQU-49sBZcDfqve4jegOP38GO4qAp3HTqKFBJKfgo",
+        "image_src": "https://private-user-images.githubusercontent.com/19440155/701695867-6d01d193-bfad-4229-9b1c-e3ecb898614e.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTQzNTY0OTYsIm5iZiI6MTc5NDM1NjE5NiwicGF0aCI6Ii8xOTQ0MDE1NS83MDE2OTU4NjctNmQwMWQxOTMtYmZhZC00MjI5LTliMWMtZTNlY2I4OTg2MTRlLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjExMTElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYxMTExVDAwMTYzNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWE0N2Q1MWEyY2E2Y2YxZTk3NTdhNzBmMDIxMDhhNDMzMTdkMmJhNDAzNjJiZDEwYWM3NDEwOTMyZTYxNWFlYWEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.ROyu4O9nBnMsA14bOcTVNrg5WP2HhXnYeyVC4XzcvJ4",
         "body_rendered": true,
         "end_marker_inside": true,
         "body_text": "\nEnd of probe A11."
@@ -3998,14 +3998,14 @@
         "body_variant": "nested",
         "rendered_as": "literal",
         "literal_in": "code block",
-        "literal_text": "<details>\n<summary>Probe F13: Body — nested</summary>\n\n````markdown\n<details>\n<summary>Probe F13i: nested inner summary</summary>\n\nNested body of probe F13.\n\n</details>",
+        "literal_text": "<details>\n<summary>Probe F13: Body — nested</summary>\n\n```markdown\n<details>\n<summary>Probe F13i: nested inner summary</summary>\n\nNested body of probe F13.\n\n</details>\n```\n\nEnd of probe F13.\n\n</details>",
         "literal_visible": true
       }
     ],
     "details_count": 56
   },
   "vscode-preview/probe.md": {
-    "url": "file:///home/nick/projects/ai-orchestrator/runs/design-doc-collapsible-repair-2-spikes/scratch/217799-0/run1/local/probe.html",
+    "url": "file:///home/nick/projects/ai-orchestrator/runs/design-doc-collapsible-repair-2-spikes/scratch/217799-0/run2/local/probe.html",
     "blocks": [
       {
         "id": "A01",
@@ -5123,7 +5123,7 @@
         "body_variant": "nested",
         "rendered_as": "literal",
         "literal_in": "code block",
-        "literal_text": "<details>\n<summary>Probe F13: Body — nested</summary>\n\n````markdown\n<details>\n<summary>Probe F13i: nested inner summary</summary>\n\nNested body of probe F13.\n\n</details>\n",
+        "literal_text": "<details>\n<summary>Probe F13: Body — nested</summary>\n\n```markdown\n<details>\n<summary>Probe F13i: nested inner summary</summary>\n\nNested body of probe F13.\n\n</details>\n```\n\nEnd of probe F13.\n\n</details>\n",
         "literal_visible": true
       }
     ],
