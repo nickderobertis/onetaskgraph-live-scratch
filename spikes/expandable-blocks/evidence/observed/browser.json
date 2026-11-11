@@ -161,7 +161,7 @@
         "summary_html": "Probe A11: Body — image",
         "summary_text": "Probe A11: Body — image",
         "image_loaded": true,
-        "image_src": "https://private-user-images.githubusercontent.com/19440155/701694477-2e8cd95e-1270-4ec5-a544-5f2bf64b6c62.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTQzNTY0NTEsIm5iZiI6MTc5NDM1NjE1MSwicGF0aCI6Ii8xOTQ0MDE1NS83MDE2OTQ0NzctMmU4Y2Q5NWUtMTI3MC00ZWM1LWE1NDQtNWYyYmY2NGI2YzYyLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjExMTElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYxMTExVDAwMTU1MVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTI2MzNlOTc1NWEwYTBhYzYwMWZjNDFhNjJiMGY0ZTZmOTVjMDkyNjZjYTAyOGY5NmM0NzJmODNjNDZjZDE1NDcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.u1g7Ak0pP83tGmoe2yJSmCluWXDUCbRDe847nn7IJKQ",
+        "image_src": "https://private-user-images.githubusercontent.com/19440155/701694477-2e8cd95e-1270-4ec5-a544-5f2bf64b6c62.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTQzNTY1NzIsIm5iZiI6MTc5NDM1NjI3MiwicGF0aCI6Ii8xOTQ0MDE1NS83MDE2OTQ0NzctMmU4Y2Q5NWUtMTI3MC00ZWM1LWE1NDQtNWYyYmY2NGI2YzYyLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjExMTElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYxMTExVDAwMTc1MlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWFjZThiNGE4ZTBkMWE0MzNhMzhhNGEyOGJhMGNkYTYyZGNmOTAwM2E5NDljMmU1ZjI1ZjkyYWQyZWRjNmYyMDUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.Op7-nvDZYD97zs0vYa8m9igop62nETS0KOS8Jc9jOvA",
         "body_rendered": true,
         "end_marker_inside": true,
         "body_text": "\nEnd of probe A11."
@@ -803,7 +803,7 @@
         "summary_html": "Probe O11: Body — image",
         "summary_text": "Probe O11: Body — image",
         "image_loaded": true,
-        "image_src": "https://private-user-images.githubusercontent.com/19440155/701694477-2e8cd95e-1270-4ec5-a544-5f2bf64b6c62.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTQzNTY0NjksIm5iZiI6MTc5NDM1NjE2OSwicGF0aCI6Ii8xOTQ0MDE1NS83MDE2OTQ0NzctMmU4Y2Q5NWUtMTI3MC00ZWM1LWE1NDQtNWYyYmY2NGI2YzYyLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjExMTElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYxMTExVDAwMTYwOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTIxMWM5MmUxYTE3YmI0ZjYzMDYwYmJlZTdhYmI1NjA3NzhlNzNmZjE0MTA0MzBiMTM5OGE2NWU3MTQ5MjhiMjMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.aU8NiVK2A2JEn33Q06BUzzuIC_sZvMZUv5bnOaqNSPM",
+        "image_src": "https://private-user-images.githubusercontent.com/19440155/701694477-2e8cd95e-1270-4ec5-a544-5f2bf64b6c62.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTQzNTY1OTAsIm5iZiI6MTc5NDM1NjI5MCwicGF0aCI6Ii8xOTQ0MDE1NS83MDE2OTQ0NzctMmU4Y2Q5NWUtMTI3MC00ZWM1LWE1NDQtNWYyYmY2NGI2YzYyLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjExMTElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYxMTExVDAwMTgxMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTg2YTM0NjQwZmY5NGMxMjlhNjQyMTQzYmQ3ZmZkOTgxNTBjZjQwMmIzZGYzZTI5NjIyYzUwMDI1NmU1NTNjZWMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.6ZE-i4hgT4f6tnyBs0OgkNuy5aEbw-M-NHSXauVLT3s",
         "body_rendered": true,
         "end_marker_inside": true,
         "body_text": "\nEnd of probe O11."
@@ -1001,7 +1001,7 @@
         "summary_html": "Probe L11: Body — image",
         "summary_text": "Probe L11: Body — image",
         "image_loaded": true,
-        "image_src": "https://private-user-images.githubusercontent.com/19440155/701694477-2e8cd95e-1270-4ec5-a544-5f2bf64b6c62.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTQzNTY0NzMsIm5iZiI6MTc5NDM1NjE3MywicGF0aCI6Ii8xOTQ0MDE1NS83MDE2OTQ0NzctMmU4Y2Q5NWUtMTI3MC00ZWM1LWE1NDQtNWYyYmY2NGI2YzYyLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjExMTElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYxMTExVDAwMTYxM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTFiNWI2OWQ2MDE5OWUzYmEzYmZkNmQzMTA0Mjk2ODI2Mzg2NWE0YzkxMjFiZWNlZGFlYWVhNmMzZDlkMTY1NDYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.Jbf1Pg7Plh_3ZWhj4mL6sSlBAvvkPEmjrqafddF-PHA",
+        "image_src": "https://private-user-images.githubusercontent.com/19440155/701694477-2e8cd95e-1270-4ec5-a544-5f2bf64b6c62.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTQzNTY1OTQsIm5iZiI6MTc5NDM1NjI5NCwicGF0aCI6Ii8xOTQ0MDE1NS83MDE2OTQ0NzctMmU4Y2Q5NWUtMTI3MC00ZWM1LWE1NDQtNWYyYmY2NGI2YzYyLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjExMTElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYxMTExVDAwMTgxNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWQ2ZmEzOGU0OWZkMjE0NzRjY2I0MjE1ZTU3ZWE0OTE1YmNkM2Y3YmRmYTg5NzgwOWEyM2UzNmYwYzI2ZGU1NjAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.jjOi_dxVbu3dqDCzBf9MnnNZCLuiH60PJ5MFik31Vmw",
         "body_rendered": true,
         "end_marker_inside": true,
         "body_text": "\nEnd of probe L11."
@@ -1047,6 +1047,7 @@
         "rendered_as": "literal",
         "literal_in": "code block",
         "literal_text": "<details>\n<summary>Probe F01: Plain summary text</summary>\n\nA paragraph with *emphasis* and [a link](https://github.com/nickderobertis/onetaskgraph-live-scratch) in probe F01.\n\nEnd of probe F01.\n\n</details>",
+        "end_marker_in_same_code_block": true,
         "literal_visible": true
       },
       {
@@ -1056,6 +1057,7 @@
         "rendered_as": "literal",
         "literal_in": "code block",
         "literal_text": "<details>\n<summary>Probe F02: Entities &amp; &lt;tag&gt; in a summary</summary>\n\nA paragraph with *emphasis* and [a link](https://github.com/nickderobertis/onetaskgraph-live-scratch) in probe F02.\n\nEnd of probe F02.\n\n</details>",
+        "end_marker_in_same_code_block": true,
         "literal_visible": true
       },
       {
@@ -1065,6 +1067,7 @@
         "rendered_as": "literal",
         "literal_in": "code block",
         "literal_text": "<details>\n<summary>Probe F03: Inline code `copy --dry-run` in backticks</summary>\n\nA paragraph with *emphasis* and [a link](https://github.com/nickderobertis/onetaskgraph-live-scratch) in probe F03.\n\nEnd of probe F03.\n\n</details>",
+        "end_marker_in_same_code_block": true,
         "literal_visible": true
       },
       {
@@ -1074,6 +1077,7 @@
         "rendered_as": "literal",
         "literal_in": "code block",
         "literal_text": "<details>\n<summary>Probe F04: Inline code <code>copy --dry-run</code> as HTML</summary>\n\nA paragraph with *emphasis* and [a link](https://github.com/nickderobertis/onetaskgraph-live-scratch) in probe F04.\n\nEnd of probe F04.\n\n</details>",
+        "end_marker_in_same_code_block": true,
         "literal_visible": true
       },
       {
@@ -1083,6 +1087,7 @@
         "rendered_as": "literal",
         "literal_in": "code block",
         "literal_text": "<details>\n<summary>Probe F05: **Bold** text in a summary</summary>\n\nA paragraph with *emphasis* and [a link](https://github.com/nickderobertis/onetaskgraph-live-scratch) in probe F05.\n\nEnd of probe F05.\n\n</details>",
+        "end_marker_in_same_code_block": true,
         "literal_visible": true
       },
       {
@@ -1092,6 +1097,7 @@
         "rendered_as": "literal",
         "literal_in": "code block",
         "literal_text": "<details>\n<summary>Probe F06: <strong>Bold</strong> as HTML</summary>\n\nA paragraph with *emphasis* and [a link](https://github.com/nickderobertis/onetaskgraph-live-scratch) in probe F06.\n\nEnd of probe F06.\n\n</details>",
+        "end_marker_in_same_code_block": true,
         "literal_visible": true
       },
       {
@@ -1101,6 +1107,7 @@
         "rendered_as": "literal",
         "literal_in": "code block",
         "literal_text": "<details>\n<summary>Probe F07: Body — paragraph</summary>\n\nA paragraph with *emphasis* and [a link](https://github.com/nickderobertis/onetaskgraph-live-scratch) in probe F07.\n\nEnd of probe F07.\n\n</details>",
+        "end_marker_in_same_code_block": true,
         "literal_visible": true
       },
       {
@@ -1110,6 +1117,7 @@
         "rendered_as": "literal",
         "literal_in": "code block",
         "literal_text": "<details>\n<summary>Probe F08: Body — lists</summary>\n\n- First bullet\n- Second bullet\n\n1. First step\n2. Second step\n\nEnd of probe F08.\n\n</details>",
+        "end_marker_in_same_code_block": true,
         "literal_visible": true
       },
       {
@@ -1119,6 +1127,7 @@
         "rendered_as": "literal",
         "literal_in": "code block",
         "literal_text": "<details>\n<summary>Probe F09: Body — headings</summary>\n\n### A third-level heading in probe F09\n\nText under the third-level heading.\n\n#### A fourth-level heading in probe F09\n\nText under the fourth-level heading.\n\nEnd of probe F09.\n\n</details>",
+        "end_marker_in_same_code_block": true,
         "literal_visible": true
       },
       {
@@ -1128,6 +1137,7 @@
         "rendered_as": "literal",
         "literal_in": "code block",
         "literal_text": "<details>\n<summary>Probe F10: Body — fenced code</summary>\n\n```python\ndef probe():\n    return \"F10\"\n```\n\nEnd of probe F10.\n\n</details>",
+        "end_marker_in_same_code_block": true,
         "literal_visible": true
       },
       {
@@ -1137,6 +1147,7 @@
         "rendered_as": "literal",
         "literal_in": "code block",
         "literal_text": "<details>\n<summary>Probe F11: Body — image</summary>\n\n![Probe image in F11](https://github.com/user-attachments/assets/2e8cd95e-1270-4ec5-a544-5f2bf64b6c62)\n\nEnd of probe F11.\n\n</details>",
+        "end_marker_in_same_code_block": true,
         "literal_visible": true
       },
       {
@@ -1146,6 +1157,7 @@
         "rendered_as": "literal",
         "literal_in": "code block",
         "literal_text": "<details>\n<summary>Probe F12: Body — table</summary>\n\n| Column | Value |\n| --- | --- |\n| form | in-fenced-code |\n| probe | F12 |\n\nEnd of probe F12.\n\n</details>",
+        "end_marker_in_same_code_block": true,
         "literal_visible": true
       },
       {
@@ -1155,6 +1167,7 @@
         "rendered_as": "literal",
         "literal_in": "code block",
         "literal_text": "<details>\n<summary>Probe F13: Body — nested</summary>\n\n```markdown\n<details>\n<summary>Probe F13i: nested inner summary</summary>\n\nNested body of probe F13.\n\n</details>\n```\n\nEnd of probe F13.\n\n</details>",
+        "end_marker_in_same_code_block": true,
         "literal_visible": true
       }
     ],
@@ -1322,7 +1335,7 @@
         "summary_html": "Probe A11: Body — image",
         "summary_text": "Probe A11: Body — image",
         "image_loaded": true,
-        "image_src": "https://private-user-images.githubusercontent.com/19440155/701694477-2e8cd95e-1270-4ec5-a544-5f2bf64b6c62.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTQzNTY0ODIsIm5iZiI6MTc5NDM1NjE4MiwicGF0aCI6Ii8xOTQ0MDE1NS83MDE2OTQ0NzctMmU4Y2Q5NWUtMTI3MC00ZWM1LWE1NDQtNWYyYmY2NGI2YzYyLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjExMTElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYxMTExVDAwMTYyMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTJjMWRjZDlmYmMzNDkwZTUwZWQ0MWE0MzVmMzRiZGJkMmM3ODY1M2JhZWRjNjc0NjhmZmUzNmQ5MmExYmUzODYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.m0zO0P0h0_F7JWE40y5pKQKL7-lYrPs46lE6PpFWSJE",
+        "image_src": "https://private-user-images.githubusercontent.com/19440155/701694477-2e8cd95e-1270-4ec5-a544-5f2bf64b6c62.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTQzNTY2MDMsIm5iZiI6MTc5NDM1NjMwMywicGF0aCI6Ii8xOTQ0MDE1NS83MDE2OTQ0NzctMmU4Y2Q5NWUtMTI3MC00ZWM1LWE1NDQtNWYyYmY2NGI2YzYyLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjExMTElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYxMTExVDAwMTgyM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTg0MmE4NzRmOWMxYWExZDUxNTJmOGQwOGY1MDVkZDI3ODk0NzA2OTc5YzllMTJhNGQ4OGVhNjJhODczNWFkM2EmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.kk9iWgdZCVMqIemMSz-DyMfIPYj5c9TjZhGHY_Fr_CA",
         "body_rendered": true,
         "end_marker_inside": true,
         "body_text": "\nEnd of probe A11."
@@ -1940,7 +1953,7 @@
         "summary_html": "Probe O11: Body — image",
         "summary_text": "Probe O11: Body — image",
         "image_loaded": true,
-        "image_src": "https://private-user-images.githubusercontent.com/19440155/701694477-2e8cd95e-1270-4ec5-a544-5f2bf64b6c62.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTQzNTY0ODIsIm5iZiI6MTc5NDM1NjE4MiwicGF0aCI6Ii8xOTQ0MDE1NS83MDE2OTQ0NzctMmU4Y2Q5NWUtMTI3MC00ZWM1LWE1NDQtNWYyYmY2NGI2YzYyLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjExMTElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYxMTExVDAwMTYyMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTJjMWRjZDlmYmMzNDkwZTUwZWQ0MWE0MzVmMzRiZGJkMmM3ODY1M2JhZWRjNjc0NjhmZmUzNmQ5MmExYmUzODYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.m0zO0P0h0_F7JWE40y5pKQKL7-lYrPs46lE6PpFWSJE",
+        "image_src": "https://private-user-images.githubusercontent.com/19440155/701694477-2e8cd95e-1270-4ec5-a544-5f2bf64b6c62.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTQzNTY2MDMsIm5iZiI6MTc5NDM1NjMwMywicGF0aCI6Ii8xOTQ0MDE1NS83MDE2OTQ0NzctMmU4Y2Q5NWUtMTI3MC00ZWM1LWE1NDQtNWYyYmY2NGI2YzYyLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjExMTElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYxMTExVDAwMTgyM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTg0MmE4NzRmOWMxYWExZDUxNTJmOGQwOGY1MDVkZDI3ODk0NzA2OTc5YzllMTJhNGQ4OGVhNjJhODczNWFkM2EmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.kk9iWgdZCVMqIemMSz-DyMfIPYj5c9TjZhGHY_Fr_CA",
         "body_rendered": true,
         "end_marker_inside": true,
         "body_text": "\nEnd of probe O11."
@@ -2132,7 +2145,7 @@
         "summary_html": "Probe L11: Body — image",
         "summary_text": "Probe L11: Body — image",
         "image_loaded": true,
-        "image_src": "https://private-user-images.githubusercontent.com/19440155/701694477-2e8cd95e-1270-4ec5-a544-5f2bf64b6c62.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTQzNTY0ODIsIm5iZiI6MTc5NDM1NjE4MiwicGF0aCI6Ii8xOTQ0MDE1NS83MDE2OTQ0NzctMmU4Y2Q5NWUtMTI3MC00ZWM1LWE1NDQtNWYyYmY2NGI2YzYyLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjExMTElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYxMTExVDAwMTYyMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTJjMWRjZDlmYmMzNDkwZTUwZWQ0MWE0MzVmMzRiZGJkMmM3ODY1M2JhZWRjNjc0NjhmZmUzNmQ5MmExYmUzODYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.m0zO0P0h0_F7JWE40y5pKQKL7-lYrPs46lE6PpFWSJE",
+        "image_src": "https://private-user-images.githubusercontent.com/19440155/701694477-2e8cd95e-1270-4ec5-a544-5f2bf64b6c62.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTQzNTY2MDMsIm5iZiI6MTc5NDM1NjMwMywicGF0aCI6Ii8xOTQ0MDE1NS83MDE2OTQ0NzctMmU4Y2Q5NWUtMTI3MC00ZWM1LWE1NDQtNWYyYmY2NGI2YzYyLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjExMTElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYxMTExVDAwMTgyM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTg0MmE4NzRmOWMxYWExZDUxNTJmOGQwOGY1MDVkZDI3ODk0NzA2OTc5YzllMTJhNGQ4OGVhNjJhODczNWFkM2EmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.kk9iWgdZCVMqIemMSz-DyMfIPYj5c9TjZhGHY_Fr_CA",
         "body_rendered": true,
         "end_marker_inside": true,
         "body_text": "\nEnd of probe L11."
@@ -2172,6 +2185,7 @@
         "rendered_as": "literal",
         "literal_in": "code block",
         "literal_text": "<details>\n<summary>Probe F01: Plain summary text</summary>\n\nA paragraph with *emphasis* and [a link](https://github.com/nickderobertis/onetaskgraph-live-scratch) in probe F01.\n\nEnd of probe F01.\n\n</details>",
+        "end_marker_in_same_code_block": true,
         "literal_visible": true
       },
       {
@@ -2181,6 +2195,7 @@
         "rendered_as": "literal",
         "literal_in": "code block",
         "literal_text": "<details>\n<summary>Probe F02: Entities &amp; &lt;tag&gt; in a summary</summary>\n\nA paragraph with *emphasis* and [a link](https://github.com/nickderobertis/onetaskgraph-live-scratch) in probe F02.\n\nEnd of probe F02.\n\n</details>",
+        "end_marker_in_same_code_block": true,
         "literal_visible": true
       },
       {
@@ -2190,6 +2205,7 @@
         "rendered_as": "literal",
         "literal_in": "code block",
         "literal_text": "<details>\n<summary>Probe F03: Inline code `copy --dry-run` in backticks</summary>\n\nA paragraph with *emphasis* and [a link](https://github.com/nickderobertis/onetaskgraph-live-scratch) in probe F03.\n\nEnd of probe F03.\n\n</details>",
+        "end_marker_in_same_code_block": true,
         "literal_visible": true
       },
       {
@@ -2199,6 +2215,7 @@
         "rendered_as": "literal",
         "literal_in": "code block",
         "literal_text": "<details>\n<summary>Probe F04: Inline code <code>copy --dry-run</code> as HTML</summary>\n\nA paragraph with *emphasis* and [a link](https://github.com/nickderobertis/onetaskgraph-live-scratch) in probe F04.\n\nEnd of probe F04.\n\n</details>",
+        "end_marker_in_same_code_block": true,
         "literal_visible": true
       },
       {
@@ -2208,6 +2225,7 @@
         "rendered_as": "literal",
         "literal_in": "code block",
         "literal_text": "<details>\n<summary>Probe F05: **Bold** text in a summary</summary>\n\nA paragraph with *emphasis* and [a link](https://github.com/nickderobertis/onetaskgraph-live-scratch) in probe F05.\n\nEnd of probe F05.\n\n</details>",
+        "end_marker_in_same_code_block": true,
         "literal_visible": true
       },
       {
@@ -2217,6 +2235,7 @@
         "rendered_as": "literal",
         "literal_in": "code block",
         "literal_text": "<details>\n<summary>Probe F06: <strong>Bold</strong> as HTML</summary>\n\nA paragraph with *emphasis* and [a link](https://github.com/nickderobertis/onetaskgraph-live-scratch) in probe F06.\n\nEnd of probe F06.\n\n</details>",
+        "end_marker_in_same_code_block": true,
         "literal_visible": true
       },
       {
@@ -2226,6 +2245,7 @@
         "rendered_as": "literal",
         "literal_in": "code block",
         "literal_text": "<details>\n<summary>Probe F07: Body — paragraph</summary>\n\nA paragraph with *emphasis* and [a link](https://github.com/nickderobertis/onetaskgraph-live-scratch) in probe F07.\n\nEnd of probe F07.\n\n</details>",
+        "end_marker_in_same_code_block": true,
         "literal_visible": true
       },
       {
@@ -2235,6 +2255,7 @@
         "rendered_as": "literal",
         "literal_in": "code block",
         "literal_text": "<details>\n<summary>Probe F08: Body — lists</summary>\n\n- First bullet\n- Second bullet\n\n1. First step\n2. Second step\n\nEnd of probe F08.\n\n</details>",
+        "end_marker_in_same_code_block": true,
         "literal_visible": true
       },
       {
@@ -2244,6 +2265,7 @@
         "rendered_as": "literal",
         "literal_in": "code block",
         "literal_text": "<details>\n<summary>Probe F09: Body — headings</summary>\n\n### A third-level heading in probe F09\n\nText under the third-level heading.\n\n#### A fourth-level heading in probe F09\n\nText under the fourth-level heading.\n\nEnd of probe F09.\n\n</details>",
+        "end_marker_in_same_code_block": true,
         "literal_visible": true
       },
       {
@@ -2253,6 +2275,7 @@
         "rendered_as": "literal",
         "literal_in": "code block",
         "literal_text": "<details>\n<summary>Probe F10: Body — fenced code</summary>\n\n```python\ndef probe():\n    return \"F10\"\n```\n\nEnd of probe F10.\n\n</details>",
+        "end_marker_in_same_code_block": true,
         "literal_visible": true
       },
       {
@@ -2262,6 +2285,7 @@
         "rendered_as": "literal",
         "literal_in": "code block",
         "literal_text": "<details>\n<summary>Probe F11: Body — image</summary>\n\n![Probe image in F11](https://github.com/user-attachments/assets/2e8cd95e-1270-4ec5-a544-5f2bf64b6c62)\n\nEnd of probe F11.\n\n</details>",
+        "end_marker_in_same_code_block": true,
         "literal_visible": true
       },
       {
@@ -2271,6 +2295,7 @@
         "rendered_as": "literal",
         "literal_in": "code block",
         "literal_text": "<details>\n<summary>Probe F12: Body — table</summary>\n\n| Column | Value |\n| --- | --- |\n| form | in-fenced-code |\n| probe | F12 |\n\nEnd of probe F12.\n\n</details>",
+        "end_marker_in_same_code_block": true,
         "literal_visible": true
       },
       {
@@ -2280,6 +2305,7 @@
         "rendered_as": "literal",
         "literal_in": "code block",
         "literal_text": "<details>\n<summary>Probe F13: Body — nested</summary>\n\n```markdown\n<details>\n<summary>Probe F13i: nested inner summary</summary>\n\nNested body of probe F13.\n\n</details>\n```\n\nEnd of probe F13.\n\n</details>",
+        "end_marker_in_same_code_block": true,
         "literal_visible": true
       }
     ],
@@ -2447,7 +2473,7 @@
         "summary_html": "Probe A11: Body — image",
         "summary_text": "Probe A11: Body — image",
         "image_loaded": true,
-        "image_src": "https://private-user-images.githubusercontent.com/19440155/701694477-2e8cd95e-1270-4ec5-a544-5f2bf64b6c62.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTQzNTY0ODcsIm5iZiI6MTc5NDM1NjE4NywicGF0aCI6Ii8xOTQ0MDE1NS83MDE2OTQ0NzctMmU4Y2Q5NWUtMTI3MC00ZWM1LWE1NDQtNWYyYmY2NGI2YzYyLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjExMTElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYxMTExVDAwMTYyN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWYxNTMyYjY5MTIxYWUzOWM4MWEzYWU2MTIyOWNlNzNiNTVhZGRlYTA0NGVkMjcxNTZjZWYyZjcwM2UwMjA1YWUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.-6P1YFr9GUWREB-V-EV4Xy3yJKfPlpIwC1Y_3TBEA6s",
+        "image_src": "https://private-user-images.githubusercontent.com/19440155/701694477-2e8cd95e-1270-4ec5-a544-5f2bf64b6c62.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTQzNTY2MDgsIm5iZiI6MTc5NDM1NjMwOCwicGF0aCI6Ii8xOTQ0MDE1NS83MDE2OTQ0NzctMmU4Y2Q5NWUtMTI3MC00ZWM1LWE1NDQtNWYyYmY2NGI2YzYyLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjExMTElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYxMTExVDAwMTgyOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTFhNGVmNzg1MDkzYjYwOWQ2YTY4M2JkMDUwMGU3ZGQ2MGNjMWI3ZmM4ODJiNGFiYTU5MGM0ZjgyOTliNDRmNjkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.7gAr4vY4tzIupChdG0iGm214RRdZjaIn6S_LVgf9iss",
         "body_rendered": true,
         "end_marker_inside": true,
         "body_text": "\nEnd of probe A11."
@@ -2645,7 +2671,7 @@
         "summary_html": "Probe A11: Body — image",
         "summary_text": "Probe A11: Body — image",
         "image_loaded": true,
-        "image_src": "https://private-user-images.githubusercontent.com/19440155/701695767-7d10088b-b463-4f2c-a4af-f313ab89d62e.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTQzNTY0OTEsIm5iZiI6MTc5NDM1NjE5MSwicGF0aCI6Ii8xOTQ0MDE1NS83MDE2OTU3NjctN2QxMDA4OGItYjQ2My00ZjJjLWE0YWYtZjMxM2FiODlkNjJlLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjExMTElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYxMTExVDAwMTYzMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWNmOTY1YzdjMDM2N2VkODc1MGVlYmRhY2IyYmFlNmIwMWRlYzIwNTY3NmE3NjMzMTBiYjMyODQ0NTA2MTM2MDQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.hb9gH0eoYweh_JWcHMYgtul6QNsz1ASCtJQ_LOH_HUg",
+        "image_src": "https://private-user-images.githubusercontent.com/19440155/701695767-7d10088b-b463-4f2c-a4af-f313ab89d62e.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTQzNTY2MTMsIm5iZiI6MTc5NDM1NjMxMywicGF0aCI6Ii8xOTQ0MDE1NS83MDE2OTU3NjctN2QxMDA4OGItYjQ2My00ZjJjLWE0YWYtZjMxM2FiODlkNjJlLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjExMTElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYxMTExVDAwMTgzM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTI3NWZmZGZlNTU2M2VkZmE2ZjJjMjYyMmMyYzE5ZTgwNmJjNTU0MDkyYTFmZTdkZjg3NmQ2OWFiNThjZWY3MjQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.KpSEsZzITC8WtVUMQ412iKdvXBwQ0EQAiaFHRrAD3A0",
         "body_rendered": true,
         "end_marker_inside": true,
         "body_text": "\nEnd of probe A11."
@@ -2843,7 +2869,7 @@
         "summary_html": "Probe A11: Body — image",
         "summary_text": "Probe A11: Body — image",
         "image_loaded": true,
-        "image_src": "https://private-user-images.githubusercontent.com/19440155/701695867-6d01d193-bfad-4229-9b1c-e3ecb898614e.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTQzNTY0OTYsIm5iZiI6MTc5NDM1NjE5NiwicGF0aCI6Ii8xOTQ0MDE1NS83MDE2OTU4NjctNmQwMWQxOTMtYmZhZC00MjI5LTliMWMtZTNlY2I4OTg2MTRlLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjExMTElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYxMTExVDAwMTYzNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWE0N2Q1MWEyY2E2Y2YxZTk3NTdhNzBmMDIxMDhhNDMzMTdkMmJhNDAzNjJiZDEwYWM3NDEwOTMyZTYxNWFlYWEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.ROyu4O9nBnMsA14bOcTVNrg5WP2HhXnYeyVC4XzcvJ4",
+        "image_src": "https://private-user-images.githubusercontent.com/19440155/701695867-6d01d193-bfad-4229-9b1c-e3ecb898614e.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTQzNTY2MTcsIm5iZiI6MTc5NDM1NjMxNywicGF0aCI6Ii8xOTQ0MDE1NS83MDE2OTU4NjctNmQwMWQxOTMtYmZhZC00MjI5LTliMWMtZTNlY2I4OTg2MTRlLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjExMTElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYxMTExVDAwMTgzN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWZhNDNjNjhkOTQ1YTc0MzM5NTNhM2RhMDVkODMwYTUzYjkxMTY4Mjg0MzIwYjA4MzlmNDZlODI0ZDZjYTIyZmUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.rHtCVGkYw_CwBHdEfXskcENTRR1EysKqU68aWPnBrt8",
         "body_rendered": true,
         "end_marker_inside": true,
         "body_text": "\nEnd of probe A11."
@@ -3891,6 +3917,7 @@
         "rendered_as": "literal",
         "literal_in": "code block",
         "literal_text": "<details>\n<summary>Probe F01: Plain summary text</summary>\n\nA paragraph with *emphasis* and [a link](https://github.com/nickderobertis/onetaskgraph-live-scratch) in probe F01.\n\nEnd of probe F01.\n\n</details>",
+        "end_marker_in_same_code_block": true,
         "literal_visible": true
       },
       {
@@ -3900,6 +3927,7 @@
         "rendered_as": "literal",
         "literal_in": "code block",
         "literal_text": "<details>\n<summary>Probe F02: Entities &amp; &lt;tag&gt; in a summary</summary>\n\nA paragraph with *emphasis* and [a link](https://github.com/nickderobertis/onetaskgraph-live-scratch) in probe F02.\n\nEnd of probe F02.\n\n</details>",
+        "end_marker_in_same_code_block": true,
         "literal_visible": true
       },
       {
@@ -3909,6 +3937,7 @@
         "rendered_as": "literal",
         "literal_in": "code block",
         "literal_text": "<details>\n<summary>Probe F03: Inline code `copy --dry-run` in backticks</summary>\n\nA paragraph with *emphasis* and [a link](https://github.com/nickderobertis/onetaskgraph-live-scratch) in probe F03.\n\nEnd of probe F03.\n\n</details>",
+        "end_marker_in_same_code_block": true,
         "literal_visible": true
       },
       {
@@ -3918,6 +3947,7 @@
         "rendered_as": "literal",
         "literal_in": "code block",
         "literal_text": "<details>\n<summary>Probe F04: Inline code <code>copy --dry-run</code> as HTML</summary>\n\nA paragraph with *emphasis* and [a link](https://github.com/nickderobertis/onetaskgraph-live-scratch) in probe F04.\n\nEnd of probe F04.\n\n</details>",
+        "end_marker_in_same_code_block": true,
         "literal_visible": true
       },
       {
@@ -3927,6 +3957,7 @@
         "rendered_as": "literal",
         "literal_in": "code block",
         "literal_text": "<details>\n<summary>Probe F05: **Bold** text in a summary</summary>\n\nA paragraph with *emphasis* and [a link](https://github.com/nickderobertis/onetaskgraph-live-scratch) in probe F05.\n\nEnd of probe F05.\n\n</details>",
+        "end_marker_in_same_code_block": true,
         "literal_visible": true
       },
       {
@@ -3936,6 +3967,7 @@
         "rendered_as": "literal",
         "literal_in": "code block",
         "literal_text": "<details>\n<summary>Probe F06: <strong>Bold</strong> as HTML</summary>\n\nA paragraph with *emphasis* and [a link](https://github.com/nickderobertis/onetaskgraph-live-scratch) in probe F06.\n\nEnd of probe F06.\n\n</details>",
+        "end_marker_in_same_code_block": true,
         "literal_visible": true
       },
       {
@@ -3945,6 +3977,7 @@
         "rendered_as": "literal",
         "literal_in": "code block",
         "literal_text": "<details>\n<summary>Probe F07: Body — paragraph</summary>\n\nA paragraph with *emphasis* and [a link](https://github.com/nickderobertis/onetaskgraph-live-scratch) in probe F07.\n\nEnd of probe F07.\n\n</details>",
+        "end_marker_in_same_code_block": true,
         "literal_visible": true
       },
       {
@@ -3954,6 +3987,7 @@
         "rendered_as": "literal",
         "literal_in": "code block",
         "literal_text": "<details>\n<summary>Probe F08: Body — lists</summary>\n\n- First bullet\n- Second bullet\n\n1. First step\n2. Second step\n\nEnd of probe F08.\n\n</details>",
+        "end_marker_in_same_code_block": true,
         "literal_visible": true
       },
       {
@@ -3963,6 +3997,7 @@
         "rendered_as": "literal",
         "literal_in": "code block",
         "literal_text": "<details>\n<summary>Probe F09: Body — headings</summary>\n\n### A third-level heading in probe F09\n\nText under the third-level heading.\n\n#### A fourth-level heading in probe F09\n\nText under the fourth-level heading.\n\nEnd of probe F09.\n\n</details>",
+        "end_marker_in_same_code_block": true,
         "literal_visible": true
       },
       {
@@ -3972,6 +4007,7 @@
         "rendered_as": "literal",
         "literal_in": "code block",
         "literal_text": "<details>\n<summary>Probe F10: Body — fenced code</summary>\n\n```python\ndef probe():\n    return \"F10\"\n```\n\nEnd of probe F10.\n\n</details>",
+        "end_marker_in_same_code_block": true,
         "literal_visible": true
       },
       {
@@ -3981,6 +4017,7 @@
         "rendered_as": "literal",
         "literal_in": "code block",
         "literal_text": "<details>\n<summary>Probe F11: Body — image</summary>\n\n![Probe image in F11](./probe-image.png)\n\nEnd of probe F11.\n\n</details>",
+        "end_marker_in_same_code_block": true,
         "literal_visible": true
       },
       {
@@ -3990,6 +4027,7 @@
         "rendered_as": "literal",
         "literal_in": "code block",
         "literal_text": "<details>\n<summary>Probe F12: Body — table</summary>\n\n| Column | Value |\n| --- | --- |\n| form | in-fenced-code |\n| probe | F12 |\n\nEnd of probe F12.\n\n</details>",
+        "end_marker_in_same_code_block": true,
         "literal_visible": true
       },
       {
@@ -3999,6 +4037,7 @@
         "rendered_as": "literal",
         "literal_in": "code block",
         "literal_text": "<details>\n<summary>Probe F13: Body — nested</summary>\n\n```markdown\n<details>\n<summary>Probe F13i: nested inner summary</summary>\n\nNested body of probe F13.\n\n</details>\n```\n\nEnd of probe F13.\n\n</details>",
+        "end_marker_in_same_code_block": true,
         "literal_visible": true
       }
     ],
@@ -5016,6 +5055,7 @@
         "rendered_as": "literal",
         "literal_in": "code block",
         "literal_text": "<details>\n<summary>Probe F01: Plain summary text</summary>\n\nA paragraph with *emphasis* and [a link](https://github.com/nickderobertis/onetaskgraph-live-scratch) in probe F01.\n\nEnd of probe F01.\n\n</details>\n",
+        "end_marker_in_same_code_block": true,
         "literal_visible": true
       },
       {
@@ -5025,6 +5065,7 @@
         "rendered_as": "literal",
         "literal_in": "code block",
         "literal_text": "<details>\n<summary>Probe F02: Entities &amp; &lt;tag&gt; in a summary</summary>\n\nA paragraph with *emphasis* and [a link](https://github.com/nickderobertis/onetaskgraph-live-scratch) in probe F02.\n\nEnd of probe F02.\n\n</details>\n",
+        "end_marker_in_same_code_block": true,
         "literal_visible": true
       },
       {
@@ -5034,6 +5075,7 @@
         "rendered_as": "literal",
         "literal_in": "code block",
         "literal_text": "<details>\n<summary>Probe F03: Inline code `copy --dry-run` in backticks</summary>\n\nA paragraph with *emphasis* and [a link](https://github.com/nickderobertis/onetaskgraph-live-scratch) in probe F03.\n\nEnd of probe F03.\n\n</details>\n",
+        "end_marker_in_same_code_block": true,
         "literal_visible": true
       },
       {
@@ -5043,6 +5085,7 @@
         "rendered_as": "literal",
         "literal_in": "code block",
         "literal_text": "<details>\n<summary>Probe F04: Inline code <code>copy --dry-run</code> as HTML</summary>\n\nA paragraph with *emphasis* and [a link](https://github.com/nickderobertis/onetaskgraph-live-scratch) in probe F04.\n\nEnd of probe F04.\n\n</details>\n",
+        "end_marker_in_same_code_block": true,
         "literal_visible": true
       },
       {
@@ -5052,6 +5095,7 @@
         "rendered_as": "literal",
         "literal_in": "code block",
         "literal_text": "<details>\n<summary>Probe F05: **Bold** text in a summary</summary>\n\nA paragraph with *emphasis* and [a link](https://github.com/nickderobertis/onetaskgraph-live-scratch) in probe F05.\n\nEnd of probe F05.\n\n</details>\n",
+        "end_marker_in_same_code_block": true,
         "literal_visible": true
       },
       {
@@ -5061,6 +5105,7 @@
         "rendered_as": "literal",
         "literal_in": "code block",
         "literal_text": "<details>\n<summary>Probe F06: <strong>Bold</strong> as HTML</summary>\n\nA paragraph with *emphasis* and [a link](https://github.com/nickderobertis/onetaskgraph-live-scratch) in probe F06.\n\nEnd of probe F06.\n\n</details>\n",
+        "end_marker_in_same_code_block": true,
         "literal_visible": true
       },
       {
@@ -5070,6 +5115,7 @@
         "rendered_as": "literal",
         "literal_in": "code block",
         "literal_text": "<details>\n<summary>Probe F07: Body — paragraph</summary>\n\nA paragraph with *emphasis* and [a link](https://github.com/nickderobertis/onetaskgraph-live-scratch) in probe F07.\n\nEnd of probe F07.\n\n</details>\n",
+        "end_marker_in_same_code_block": true,
         "literal_visible": true
       },
       {
@@ -5079,6 +5125,7 @@
         "rendered_as": "literal",
         "literal_in": "code block",
         "literal_text": "<details>\n<summary>Probe F08: Body — lists</summary>\n\n- First bullet\n- Second bullet\n\n1. First step\n2. Second step\n\nEnd of probe F08.\n\n</details>\n",
+        "end_marker_in_same_code_block": true,
         "literal_visible": true
       },
       {
@@ -5088,6 +5135,7 @@
         "rendered_as": "literal",
         "literal_in": "code block",
         "literal_text": "<details>\n<summary>Probe F09: Body — headings</summary>\n\n### A third-level heading in probe F09\n\nText under the third-level heading.\n\n#### A fourth-level heading in probe F09\n\nText under the fourth-level heading.\n\nEnd of probe F09.\n\n</details>\n",
+        "end_marker_in_same_code_block": true,
         "literal_visible": true
       },
       {
@@ -5097,6 +5145,7 @@
         "rendered_as": "literal",
         "literal_in": "code block",
         "literal_text": "<details>\n<summary>Probe F10: Body — fenced code</summary>\n\n```python\ndef probe():\n    return \"F10\"\n```\n\nEnd of probe F10.\n\n</details>\n",
+        "end_marker_in_same_code_block": true,
         "literal_visible": true
       },
       {
@@ -5106,6 +5155,7 @@
         "rendered_as": "literal",
         "literal_in": "code block",
         "literal_text": "<details>\n<summary>Probe F11: Body — image</summary>\n\n![Probe image in F11](./probe-image.png)\n\nEnd of probe F11.\n\n</details>\n",
+        "end_marker_in_same_code_block": true,
         "literal_visible": true
       },
       {
@@ -5115,6 +5165,7 @@
         "rendered_as": "literal",
         "literal_in": "code block",
         "literal_text": "<details>\n<summary>Probe F12: Body — table</summary>\n\n| Column | Value |\n| --- | --- |\n| form | in-fenced-code |\n| probe | F12 |\n\nEnd of probe F12.\n\n</details>\n",
+        "end_marker_in_same_code_block": true,
         "literal_visible": true
       },
       {
@@ -5124,6 +5175,7 @@
         "rendered_as": "literal",
         "literal_in": "code block",
         "literal_text": "<details>\n<summary>Probe F13: Body — nested</summary>\n\n```markdown\n<details>\n<summary>Probe F13i: nested inner summary</summary>\n\nNested body of probe F13.\n\n</details>\n```\n\nEnd of probe F13.\n\n</details>\n",
+        "end_marker_in_same_code_block": true,
         "literal_visible": true
       }
     ],
