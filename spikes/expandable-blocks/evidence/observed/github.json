@@ -1,0 +1,82 @@
+{
+  "issues": {
+    "authored": {
+      "number": 6527,
+      "url": "https://github.com/nickderobertis/onetaskgraph-live-scratch/issues/6527",
+      "title": "Expandable-blocks spike: probe, form A (authored)"
+    },
+    "no-blank-after-summary": {
+      "number": 6528,
+      "url": "https://github.com/nickderobertis/onetaskgraph-live-scratch/issues/6528",
+      "title": "Expandable-blocks spike: probe, form T (no-blank-after-summary)"
+    },
+    "linear-plus": {
+      "number": 6529,
+      "url": "https://github.com/nickderobertis/onetaskgraph-live-scratch/issues/6529",
+      "title": "Expandable-blocks spike: probe, form P (linear-plus)"
+    },
+    "linear-arrow": {
+      "number": 6530,
+      "url": "https://github.com/nickderobertis/onetaskgraph-live-scratch/issues/6530",
+      "title": "Expandable-blocks spike: probe, form R (linear-arrow)"
+    },
+    "details-open": {
+      "number": 6531,
+      "url": "https://github.com/nickderobertis/onetaskgraph-live-scratch/issues/6531",
+      "title": "Expandable-blocks spike: probe, form O (details-open)"
+    },
+    "in-list-item": {
+      "number": 6532,
+      "url": "https://github.com/nickderobertis/onetaskgraph-live-scratch/issues/6532",
+      "title": "Expandable-blocks spike: probe, form L (in-list-item)"
+    },
+    "in-fenced-code": {
+      "number": 6533,
+      "url": "https://github.com/nickderobertis/onetaskgraph-live-scratch/issues/6533",
+      "title": "Expandable-blocks spike: probe, form F (in-fenced-code)"
+    },
+    "all-forms": {
+      "number": 6534,
+      "url": "https://github.com/nickderobertis/onetaskgraph-live-scratch/issues/6534",
+      "title": "Expandable-blocks spike: probe, every form"
+    },
+    "sample-before": {
+      "number": 6535,
+      "url": "https://github.com/nickderobertis/onetaskgraph-live-scratch/issues/6535",
+      "title": "Expandable-blocks spike: design-document sample, today layout"
+    },
+    "sample-after": {
+      "number": 6536,
+      "url": "https://github.com/nickderobertis/onetaskgraph-live-scratch/issues/6536",
+      "title": "Expandable-blocks spike: design-document sample, new layout"
+    }
+  },
+  "attachments": {
+    "probe": {
+      "url": "https://github.com/user-attachments/assets/a4681902-ddeb-4c4f-9a3e-7c99efef8200",
+      "anonymous_get": 404,
+      "authenticated_get": 400
+    },
+    "graph": {
+      "url": "https://github.com/user-attachments/assets/5ae79eb0-8dce-4ac4-8aae-6f12b609009e",
+      "anonymous_get": 404,
+      "authenticated_get": 400
+    }
+  },
+  "file_view": {
+    "probe": "https://github.com/nickderobertis/onetaskgraph-live-scratch/blob/expandable-blocks-spike/spikes/expandable-blocks/probe.md",
+    "before": "https://github.com/nickderobertis/onetaskgraph-live-scratch/blob/expandable-blocks-spike/spikes/expandable-blocks/before.md",
+    "after": "https://github.com/nickderobertis/onetaskgraph-live-scratch/blob/expandable-blocks-spike/spikes/expandable-blocks/after.md"
+  },
+  "scratch_commit": "5eb3ad253640ec34a92fb0e4cf8cad7a9550a1ab",
+  "sample_shots": {
+    "reversible-decisions-before": "samples/shots/reversible-decisions-before.png",
+    "high-cost-examples-before": "samples/shots/high-cost-examples-before.png",
+    "task-table-before": "samples/shots/task-table-before.png",
+    "vscode-preview-before": "samples/shots/vscode-preview-before.png",
+    "reversible-decisions-after": "samples/shots/reversible-decisions-after.png",
+    "high-cost-examples-after": "samples/shots/high-cost-examples-after.png",
+    "task-table-after": "samples/shots/task-table-after.png",
+    "vscode-preview-after": "samples/shots/vscode-preview-after.png"
+  }
+}

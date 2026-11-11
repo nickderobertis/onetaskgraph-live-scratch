@@ -1,0 +1,542 @@
+{
+  "fixture": "issue-in-fenced-code",
+  "record": "TES2-2395",
+  "record_id": "fd0ff81f-19da-493d-a053-62d3de864d48",
+  "kind": "issue",
+  "team": "TES2",
+  "captured": "2026-11-10",
+  "title": "Expandable-blocks spike: probe issue, form F (in-fenced-code)",
+  "note": "Written through Linear's GraphQL API by the expandable-blocks spike harness. The record's URL is left out: it names the workspace.",
+  "state_field": "descriptionState",
+  "sent_markdown": "Expandable-blocks spike probe record — form F, the authored form inside a fenced code block. Every block's summary starts `Probe <id>:` and every body ends with the line `End of probe <id>.`, so each block can be found again whether it renders collapsed or as literal text. Probes 01–06 vary the summary over a paragraph body; probes 07–13 vary the body under a plain summary.\n\n**What you should see:** Shown as code (literal text) everywhere: a fenced block is never parsed.\n\n````markdown\n<details>\n<summary>Probe F01: Plain summary text</summary>\n\nA paragraph with *emphasis* and [a link](https://github.com/nickderobertis/onetaskgraph-live-scratch) in probe F01.\n\nEnd of probe F01.\n\n</details>\n````\n\n````markdown\n<details>\n<summary>Probe F02: Entities &amp; &lt;tag&gt; in a summary</summary>\n\nA paragraph with *emphasis* and [a link](https://github.com/nickderobertis/onetaskgraph-live-scratch) in probe F02.\n\nEnd of probe F02.\n\n</details>\n````\n\n````markdown\n<details>\n<summary>Probe F03: Inline code `copy --dry-run` in backticks</summary>\n\nA paragraph with *emphasis* and [a link](https://github.com/nickderobertis/onetaskgraph-live-scratch) in probe F03.\n\nEnd of probe F03.\n\n</details>\n````\n\n````markdown\n<details>\n<summary>Probe F04: Inline code <code>copy --dry-run</code> as HTML</summary>\n\nA paragraph with *emphasis* and [a link](https://github.com/nickderobertis/onetaskgraph-live-scratch) in probe F04.\n\nEnd of probe F04.\n\n</details>\n````\n\n````markdown\n<details>\n<summary>Probe F05: **Bold** text in a summary</summary>\n\nA paragraph with *emphasis* and [a link](https://github.com/nickderobertis/onetaskgraph-live-scratch) in probe F05.\n\nEnd of probe F05.\n\n</details>\n````\n\n````markdown\n<details>\n<summary>Probe F06: <strong>Bold</strong> as HTML</summary>\n\nA paragraph with *emphasis* and [a link](https://github.com/nickderobertis/onetaskgraph-live-scratch) in probe F06.\n\nEnd of probe F06.\n\n</details>\n````\n\n````markdown\n<details>\n<summary>Probe F07: Body — paragraph</summary>\n\nA paragraph with *emphasis* and [a link](https://github.com/nickderobertis/onetaskgraph-live-scratch) in probe F07.\n\nEnd of probe F07.\n\n</details>\n````\n\n````markdown\n<details>\n<summary>Probe F08: Body — lists</summary>\n\n- First bullet\n- Second bullet\n\n1. First step\n2. Second step\n\nEnd of probe F08.\n\n</details>\n````\n\n````markdown\n<details>\n<summary>Probe F09: Body — headings</summary>\n\n### A third-level heading in probe F09\n\nText under the third-level heading.\n\n#### A fourth-level heading in probe F09\n\nText under the fourth-level heading.\n\nEnd of probe F09.\n\n</details>\n````\n\n````markdown\n<details>\n<summary>Probe F10: Body — fenced code</summary>\n\n```python\ndef probe():\n    return \"F10\"\n```\n\nEnd of probe F10.\n\n</details>\n````\n\n````markdown\n<details>\n<summary>Probe F11: Body — image</summary>\n\n![Probe image in F11](https://uploads.linear.app/d8b4a4c3-5fea-4568-9fdc-e08b7b8ab846/c8db4a33-5f95-4938-af65-173da074eaab/33a88da9-7b47-42ca-b6a6-4879fb8ba752)\n\nEnd of probe F11.\n\n</details>\n````\n\n````markdown\n<details>\n<summary>Probe F12: Body — table</summary>\n\n| Column | Value |\n| --- | --- |\n| form | in-fenced-code |\n| probe | F12 |\n\nEnd of probe F12.\n\n</details>\n````\n\n````markdown\n<details>\n<summary>Probe F13: Body — nested</summary>\n\n````markdown\n<details>\n<summary>Probe F13i: nested inner summary</summary>\n\nNested body of probe F13.\n\n</details>\n````\n\nEnd of probe F13.\n\n</details>\n````\n",
+  "stored_markdown": "Expandable-blocks spike probe record — form F, the authored form inside a fenced code block. Every block's summary starts `Probe <id>:` and every body ends with the line `End of probe <id>.`, so each block can be found again whether it renders collapsed or as literal text. Probes 01–06 vary the summary over a paragraph body; probes 07–13 vary the body under a plain summary.\n\n**What you should see:** Shown as code (literal text) everywhere: a fenced block is never parsed.\n\n```markdown\n<details>\n<summary>Probe F01: Plain summary text</summary>\n\nA paragraph with *emphasis* and [a link](https://github.com/nickderobertis/onetaskgraph-live-scratch) in probe F01.\n\nEnd of probe F01.\n\n</details>\n```\n\n```markdown\n<details>\n<summary>Probe F02: Entities &amp; &lt;tag&gt; in a summary</summary>\n\nA paragraph with *emphasis* and [a link](https://github.com/nickderobertis/onetaskgraph-live-scratch) in probe F02.\n\nEnd of probe F02.\n\n</details>\n```\n\n```markdown\n<details>\n<summary>Probe F03: Inline code `copy --dry-run` in backticks</summary>\n\nA paragraph with *emphasis* and [a link](https://github.com/nickderobertis/onetaskgraph-live-scratch) in probe F03.\n\nEnd of probe F03.\n\n</details>\n```\n\n```markdown\n<details>\n<summary>Probe F04: Inline code <code>copy --dry-run</code> as HTML</summary>\n\nA paragraph with *emphasis* and [a link](https://github.com/nickderobertis/onetaskgraph-live-scratch) in probe F04.\n\nEnd of probe F04.\n\n</details>\n```\n\n```markdown\n<details>\n<summary>Probe F05: **Bold** text in a summary</summary>\n\nA paragraph with *emphasis* and [a link](https://github.com/nickderobertis/onetaskgraph-live-scratch) in probe F05.\n\nEnd of probe F05.\n\n</details>\n```\n\n```markdown\n<details>\n<summary>Probe F06: <strong>Bold</strong> as HTML</summary>\n\nA paragraph with *emphasis* and [a link](https://github.com/nickderobertis/onetaskgraph-live-scratch) in probe F06.\n\nEnd of probe F06.\n\n</details>\n```\n\n```markdown\n<details>\n<summary>Probe F07: Body — paragraph</summary>\n\nA paragraph with *emphasis* and [a link](https://github.com/nickderobertis/onetaskgraph-live-scratch) in probe F07.\n\nEnd of probe F07.\n\n</details>\n```\n\n```markdown\n<details>\n<summary>Probe F08: Body — lists</summary>\n\n- First bullet\n- Second bullet\n\n1. First step\n2. Second step\n\nEnd of probe F08.\n\n</details>\n```\n\n```markdown\n<details>\n<summary>Probe F09: Body — headings</summary>\n\n### A third-level heading in probe F09\n\nText under the third-level heading.\n\n#### A fourth-level heading in probe F09\n\nText under the fourth-level heading.\n\nEnd of probe F09.\n\n</details>\n```\n\n````markdown\n<details>\n<summary>Probe F10: Body — fenced code</summary>\n\n```python\ndef probe():\n    return \"F10\"\n```\n\nEnd of probe F10.\n\n</details>\n````\n\n```markdown\n<details>\n<summary>Probe F11: Body — image</summary>\n\n![Probe image in F11](https://uploads.linear.app/d8b4a4c3-5fea-4568-9fdc-e08b7b8ab846/c8db4a33-5f95-4938-af65-173da074eaab/33a88da9-7b47-42ca-b6a6-4879fb8ba752)\n\nEnd of probe F11.\n\n</details>\n```\n\n```markdown\n<details>\n<summary>Probe F12: Body — table</summary>\n\n| Column | Value |\n| --- | --- |\n| form | in-fenced-code |\n| probe | F12 |\n\nEnd of probe F12.\n\n</details>\n```\n\n```markdown\n<details>\n<summary>Probe F13: Body — nested</summary>\n\n````markdown\n<details>\n<summary>Probe F13i: nested inner summary</summary>\n\nNested body of probe F13.\n\n</details>\n```\n\nEnd of probe F13.\n\n</details>\n\n```\n```",
+  "stored_state": "AYYB4rzl2AsABwELcHJvc2VtaXJyb3IDCXBhcmFncmFwaAcA4rzl2AsABgYA4rzl2AsBC2F0dHJpYnV0aW9uRHsidXNlcklkIjoiYjc2MDdiMjEtMTYzMS00MzVlLTkyZDgtZDZhNjUyODZmZjc3IiwiYWN0b3JUeXBlIjoidXNlciJ9hOK85dgLAnxFeHBhbmRhYmxlLWJsb2NrcyBzcGlrZSBwcm9iZSByZWNvcmQg4oCUIGZvcm0gRiwgdGhlIGF1dGhvcmVkIGZvcm0gaW5zaWRlIGEgZmVuY2VkIGNvZGUgYmxvY2suIEV2ZXJ5IGJsb2NrJ3Mgc3VtbWFyeSBzdGFydHMghuK85dgLfAthdHRyaWJ1dGlvbgRudWxshuK85dgLfQRjb2RlAnt9huK85dgLfgthdHRyaWJ1dGlvbkR7InVzZXJJZCI6ImI3NjA3YjIxLTE2MzEtNDM1ZS05MmQ4LWQ2YTY1Mjg2ZmY3NyIsImFjdG9yVHlwZSI6InVzZXIifYTivOXYC38LUHJvYmUgPGlkPjqG4rzl2AuKAQRjb2RlBG51bGyG4rzl2AuLAQthdHRyaWJ1dGlvbgRudWxshuK85dgLjAELYXR0cmlidXRpb25EeyJ1c2VySWQiOiJiNzYwN2IyMS0xNjMxLTQzNWUtOTJkOC1kNmE2NTI4NmZmNzciLCJhY3RvclR5cGUiOiJ1c2VyIn2E4rzl2AuNASMgYW5kIGV2ZXJ5IGJvZHkgZW5kcyB3aXRoIHRoZSBsaW5lIIbivOXYC7ABC2F0dHJpYnV0aW9uBG51bGyG4rzl2AuxAQRjb2RlAnt9huK85dgLsgELYXR0cmlidXRpb25EeyJ1c2VySWQiOiJiNzYwN2IyMS0xNjMxLTQzNWUtOTJkOC1kNmE2NTI4NmZmNzciLCJhY3RvclR5cGUiOiJ1c2VyIn2E4rzl2AuzARJFbmQgb2YgcHJvYmUgPGlkPi6G4rzl2AvFAQRjb2RlBG51bGyG4rzl2AvGAQthdHRyaWJ1dGlvbgRudWxshuK85dgLxwELYXR0cmlidXRpb25EeyJ1c2VySWQiOiJiNzYwN2IyMS0xNjMxLTQzNWUtOTJkOC1kNmE2NTI4NmZmNzciLCJhY3RvclR5cGUiOiJ1c2VyIn2E4rzl2AvIAb4BLCBzbyBlYWNoIGJsb2NrIGNhbiBiZSBmb3VuZCBhZ2FpbiB3aGV0aGVyIGl0IHJlbmRlcnMgY29sbGFwc2VkIG9yIGFzIGxpdGVyYWwgdGV4dC4gUHJvYmVzIDAx4oCTMDYgdmFyeSB0aGUgc3VtbWFyeSBvdmVyIGEgcGFyYWdyYXBoIGJvZHk7IHByb2JlcyAwN+KAkzEzIHZhcnkgdGhlIGJvZHkgdW5kZXIgYSBwbGFpbiBzdW1tYXJ5LobivOXYC4IDC2F0dHJpYnV0aW9uBG51bGyH4rzl2AsAAwlwYXJhZ3JhcGgHAOK85dgLhAMGBgDivOXYC4UDBnN0cm9uZwJ7fYbivOXYC4YDC2F0dHJpYnV0aW9uRHsidXNlcklkIjoiYjc2MDdiMjEtMTYzMS00MzVlLTkyZDgtZDZhNjUyODZmZjc3IiwiYWN0b3JUeXBlIjoidXNlciJ9hOK85dgLhwMUV2hhdCB5b3Ugc2hvdWxkIHNlZTqG4rzl2AubAwZzdHJvbmcEbnVsbIbivOXYC5wDC2F0dHJpYnV0aW9uBG51bGyG4rzl2AudAwthdHRyaWJ1dGlvbkR7InVzZXJJZCI6ImI3NjA3YjIxLTE2MzEtNDM1ZS05MmQ4LWQ2YTY1Mjg2ZmY3NyIsImFjdG9yVHlwZSI6InVzZXIifYTivOXYC54DSSBTaG93biBhcyBjb2RlIChsaXRlcmFsIHRleHQpIGV2ZXJ5d2hlcmU6IGEgZmVuY2VkIGJsb2NrIGlzIG5ldmVyIHBhcnNlZC6G4rzl2AvnAwthdHRyaWJ1dGlvbgRudWxsh+K85dgLhAMDCmNvZGVfYmxvY2sHAOK85dgL6QMGBgDivOXYC+oDC2F0dHJpYnV0aW9uRHsidXNlcklkIjoiYjc2MDdiMjEtMTYzMS00MzVlLTkyZDgtZDZhNjUyODZmZjc3IiwiYWN0b3JUeXBlIjoidXNlciJ9hOK85dgL6wPOATxkZXRhaWxzPgo8c3VtbWFyeT5Qcm9iZSBGMDE6IFBsYWluIHN1bW1hcnkgdGV4dDwvc3VtbWFyeT4KCkEgcGFyYWdyYXBoIHdpdGggKmVtcGhhc2lzKiBhbmQgW2EgbGlua10oaHR0cHM6Ly9naXRodWIuY29tL25pY2tkZXJvYmVydGlzL29uZXRhc2tncmFwaC1saXZlLXNjcmF0Y2gpIGluIHByb2JlIEYwMS4KCkVuZCBvZiBwcm9iZSBGMDEuCgo8L2RldGFpbHM+huK85dgLuQULYXR0cmlidXRpb24EbnVsbCgA4rzl2AvpAwhsYW5ndWFnZQF3CG1hcmtkb3duKADivOXYC+kDAmlkAXckNDBiNDdmZjgtZTg1NC00NTU0LTk4ZjAtNDJlMjU0ZTEzNjgwh+K85dgL6QMDCmNvZGVfYmxvY2sHAOK85dgLvQUGBgDivOXYC74FC2F0dHJpYnV0aW9uRHsidXNlcklkIjoiYjc2MDdiMjEtMTYzMS00MzVlLTkyZDgtZDZhNjUyODZmZjc3IiwiYWN0b3JUeXBlIjoidXNlciJ9hOK85dgLvwXjATxkZXRhaWxzPgo8c3VtbWFyeT5Qcm9iZSBGMDI6IEVudGl0aWVzICZhbXA7ICZsdDt0YWcmZ3Q7IGluIGEgc3VtbWFyeTwvc3VtbWFyeT4KCkEgcGFyYWdyYXBoIHdpdGggKmVtcGhhc2lzKiBhbmQgW2EgbGlua10oaHR0cHM6Ly9naXRodWIuY29tL25pY2tkZXJvYmVydGlzL29uZXRhc2tncmFwaC1saXZlLXNjcmF0Y2gpIGluIHByb2JlIEYwMi4KCkVuZCBvZiBwcm9iZSBGMDIuCgo8L2RldGFpbHM+huK85dgLogcLYXR0cmlidXRpb24EbnVsbCgA4rzl2Au9BQhsYW5ndWFnZQF3CG1hcmtkb3duKADivOXYC70FAmlkAXckNGQxZjNiMmItMjFhNi00YTNiLWFhNmQtODZiMDgzMjg0ODkyh+K85dgLvQUDCmNvZGVfYmxvY2sHAOK85dgLpgcGBgDivOXYC6cHC2F0dHJpYnV0aW9uRHsidXNlcklkIjoiYjc2MDdiMjEtMTYzMS00MzVlLTkyZDgtZDZhNjUyODZmZjc3IiwiYWN0b3JUeXBlIjoidXNlciJ9hOK85dgLqAflATxkZXRhaWxzPgo8c3VtbWFyeT5Qcm9iZSBGMDM6IElubGluZSBjb2RlIGBjb3B5IC0tZHJ5LXJ1bmAgaW4gYmFja3RpY2tzPC9zdW1tYXJ5PgoKQSBwYXJhZ3JhcGggd2l0aCAqZW1waGFzaXMqIGFuZCBbYSBsaW5rXShodHRwczovL2dpdGh1Yi5jb20vbmlja2Rlcm9iZXJ0aXMvb25ldGFza2dyYXBoLWxpdmUtc2NyYXRjaCkgaW4gcHJvYmUgRjAzLgoKRW5kIG9mIHByb2JlIEYwMy4KCjwvZGV0YWlscz6G4rzl2AuNCQthdHRyaWJ1dGlvbgRudWxsKADivOXYC6YHCGxhbmd1YWdlAXcIbWFya2Rvd24oAOK85dgLpgcCaWQBdyQwY2FhNmEzOS0zOWQ3LTRmZGQtOTUxOS0wZDc1ZjMyNjg2NDeH4rzl2AumBwMKY29kZV9ibG9jawcA4rzl2AuRCQYGAOK85dgLkgkLYXR0cmlidXRpb25EeyJ1c2VySWQiOiJiNzYwN2IyMS0xNjMxLTQzNWUtOTJkOC1kNmE2NTI4NmZmNzciLCJhY3RvclR5cGUiOiJ1c2VyIn2E4rzl2AuTCesBPGRldGFpbHM+CjxzdW1tYXJ5PlByb2JlIEYwNDogSW5saW5lIGNvZGUgPGNvZGU+Y29weSAtLWRyeS1ydW48L2NvZGU+IGFzIEhUTUw8L3N1bW1hcnk+CgpBIHBhcmFncmFwaCB3aXRoICplbXBoYXNpcyogYW5kIFthIGxpbmtdKGh0dHBzOi8vZ2l0aHViLmNvbS9uaWNrZGVyb2JlcnRpcy9vbmV0YXNrZ3JhcGgtbGl2ZS1zY3JhdGNoKSBpbiBwcm9iZSBGMDQuCgpFbmQgb2YgcHJvYmUgRjA0LgoKPC9kZXRhaWxzPobivOXYC/4KC2F0dHJpYnV0aW9uBG51bGwoAOK85dgLkQkIbGFuZ3VhZ2UBdwhtYXJrZG93bigA4rzl2AuRCQJpZAF3JDgxODU1ODg4LTA5YTktNDA3OS05NmVjLTA2MDI5Mzk1NmMzZYfivOXYC5EJAwpjb2RlX2Jsb2NrBwDivOXYC4ILBgYA4rzl2AuDCwthdHRyaWJ1dGlvbkR7InVzZXJJZCI6ImI3NjA3YjIxLTE2MzEtNDM1ZS05MmQ4LWQ2YTY1Mjg2ZmY3NyIsImFjdG9yVHlwZSI6InVzZXIifYTivOXYC4QL1gE8ZGV0YWlscz4KPHN1bW1hcnk+UHJvYmUgRjA1OiAqKkJvbGQqKiB0ZXh0IGluIGEgc3VtbWFyeTwvc3VtbWFyeT4KCkEgcGFyYWdyYXBoIHdpdGggKmVtcGhhc2lzKiBhbmQgW2EgbGlua10oaHR0cHM6Ly9naXRodWIuY29tL25pY2tkZXJvYmVydGlzL29uZXRhc2tncmFwaC1saXZlLXNjcmF0Y2gpIGluIHByb2JlIEYwNS4KCkVuZCBvZiBwcm9iZSBGMDUuCgo8L2RldGFpbHM+huK85dgL2gwLYXR0cmlidXRpb24EbnVsbCgA4rzl2AuCCwhsYW5ndWFnZQF3CG1hcmtkb3duKADivOXYC4ILAmlkAXckMTQ1YzBlYmEtYzc3ZC00YzQ0LWIwNGEtN2ZjZmZjY2M2M2Vlh+K85dgLggsDCmNvZGVfYmxvY2sHAOK85dgL3gwGBgDivOXYC98MC2F0dHJpYnV0aW9uRHsidXNlcklkIjoiYjc2MDdiMjEtMTYzMS00MzVlLTkyZDgtZDZhNjUyODZmZjc3IiwiYWN0b3JUeXBlIjoidXNlciJ9hOK85dgL4AzZATxkZXRhaWxzPgo8c3VtbWFyeT5Qcm9iZSBGMDY6IDxzdHJvbmc+Qm9sZDwvc3Ryb25nPiBhcyBIVE1MPC9zdW1tYXJ5PgoKQSBwYXJhZ3JhcGggd2l0aCAqZW1waGFzaXMqIGFuZCBbYSBsaW5rXShodHRwczovL2dpdGh1Yi5jb20vbmlja2Rlcm9iZXJ0aXMvb25ldGFza2dyYXBoLWxpdmUtc2NyYXRjaCkgaW4gcHJvYmUgRjA2LgoKRW5kIG9mIHByb2JlIEYwNi4KCjwvZGV0YWlscz6G4rzl2Au5DgthdHRyaWJ1dGlvbgRudWxsKADivOXYC94MCGxhbmd1YWdlAXcIbWFya2Rvd24oAOK85dgL3gwCaWQBdyQwZTlhZjkxYS1mOTRlLTRjM2MtYmRjZC1jNzE2MTRhZThiYTWH4rzl2AveDAMKY29kZV9ibG9jawcA4rzl2Au9DgYGAOK85dgLvg4LYXR0cmlidXRpb25EeyJ1c2VySWQiOiJiNzYwN2IyMS0xNjMxLTQzNWUtOTJkOC1kNmE2NTI4NmZmNzciLCJhY3RvclR5cGUiOiJ1c2VyIn2E4rzl2Au/Ds4BPGRldGFpbHM+CjxzdW1tYXJ5PlByb2JlIEYwNzogQm9keSDigJQgcGFyYWdyYXBoPC9zdW1tYXJ5PgoKQSBwYXJhZ3JhcGggd2l0aCAqZW1waGFzaXMqIGFuZCBbYSBsaW5rXShodHRwczovL2dpdGh1Yi5jb20vbmlja2Rlcm9iZXJ0aXMvb25ldGFza2dyYXBoLWxpdmUtc2NyYXRjaCkgaW4gcHJvYmUgRjA3LgoKRW5kIG9mIHByb2JlIEYwNy4KCjwvZGV0YWlscz6G4rzl2AuLEAthdHRyaWJ1dGlvbgRudWxsKADivOXYC70OCGxhbmd1YWdlAXcIbWFya2Rvd24oAOK85dgLvQ4CaWQBdyQwYWZhMzQ3Ny1hYTdiLTQzMmYtYTc3Ny0zMDJjNGU5YWI1NGKH4rzl2Au9DgMKY29kZV9ibG9jawcA4rzl2AuPEAYGAOK85dgLkBALYXR0cmlidXRpb25EeyJ1c2VySWQiOiJiNzYwN2IyMS0xNjMxLTQzNWUtOTJkOC1kNmE2NTI4NmZmNzciLCJhY3RvclR5cGUiOiJ1c2VyIn2E4rzl2AuREJMBPGRldGFpbHM+CjxzdW1tYXJ5PlByb2JlIEYwODogQm9keSDigJQgbGlzdHM8L3N1bW1hcnk+CgotIEZpcnN0IGJ1bGxldAotIFNlY29uZCBidWxsZXQKCjEuIEZpcnN0IHN0ZXAKMi4gU2Vjb25kIHN0ZXAKCkVuZCBvZiBwcm9iZSBGMDguCgo8L2RldGFpbHM+huK85dgLohELYXR0cmlidXRpb24EbnVsbCgA4rzl2AuPEAhsYW5ndWFnZQF3CG1hcmtkb3duKADivOXYC48QAmlkAXckNzVmZGVhZTQtYzY1NC00ZDU2LWE3M2YtOWQ1MTE4M2E1NDAxh+K85dgLjxADCmNvZGVfYmxvY2sHAOK85dgLphEGBgDivOXYC6cRC2F0dHJpYnV0aW9uRHsidXNlcklkIjoiYjc2MDdiMjEtMTYzMS00MzVlLTkyZDgtZDZhNjUyODZmZjc3IiwiYWN0b3JUeXBlIjoidXNlciJ9hOK85dgLqBH1ATxkZXRhaWxzPgo8c3VtbWFyeT5Qcm9iZSBGMDk6IEJvZHkg4oCUIGhlYWRpbmdzPC9zdW1tYXJ5PgoKIyMjIEEgdGhpcmQtbGV2ZWwgaGVhZGluZyBpbiBwcm9iZSBGMDkKClRleHQgdW5kZXIgdGhlIHRoaXJkLWxldmVsIGhlYWRpbmcuCgojIyMjIEEgZm91cnRoLWxldmVsIGhlYWRpbmcgaW4gcHJvYmUgRjA5CgpUZXh0IHVuZGVyIHRoZSBmb3VydGgtbGV2ZWwgaGVhZGluZy4KCkVuZCBvZiBwcm9iZSBGMDkuCgo8L2RldGFpbHM+huK85dgLmxMLYXR0cmlidXRpb24EbnVsbCgA4rzl2AumEQhsYW5ndWFnZQF3CG1hcmtkb3duKADivOXYC6YRAmlkAXckOTMyNGQ2YWEtNjdiNy00MDgxLWE2YzEtMzEyMWY4ZGViMjVhh+K85dgLphEDCmNvZGVfYmxvY2sHAOK85dgLnxMGBgDivOXYC6ATC2F0dHJpYnV0aW9uRHsidXNlcklkIjoiYjc2MDdiMjEtMTYzMS00MzVlLTkyZDgtZDZhNjUyODZmZjc3IiwiYWN0b3JUeXBlIjoidXNlciJ9hOK85dgLoROIATxkZXRhaWxzPgo8c3VtbWFyeT5Qcm9iZSBGMTA6IEJvZHkg4oCUIGZlbmNlZCBjb2RlPC9zdW1tYXJ5PgoKYGBgcHl0aG9uCmRlZiBwcm9iZSgpOgogICAgcmV0dXJuICJGMTAiCmBgYAoKRW5kIG9mIHByb2JlIEYxMC4KCjwvZGV0YWlscz6G4rzl2AunFAthdHRyaWJ1dGlvbgRudWxsKADivOXYC58TCGxhbmd1YWdlAXcIbWFya2Rvd24oAOK85dgLnxMCaWQBdyRjMzUzODYxZC1hNzdjLTQ5MWItOWMwMy1mN2NlYzYzYTkxNTCH4rzl2AufEwMKY29kZV9ibG9jawcA4rzl2AurFAYGAOK85dgLrBQLYXR0cmlidXRpb25EeyJ1c2VySWQiOiJiNzYwN2IyMS0xNjMxLTQzNWUtOTJkOC1kNmE2NTI4NmZmNzciLCJhY3RvclR5cGUiOiJ1c2VyIn2E4rzl2AutFPcBPGRldGFpbHM+CjxzdW1tYXJ5PlByb2JlIEYxMTogQm9keSDigJQgaW1hZ2U8L3N1bW1hcnk+CgohW1Byb2JlIGltYWdlIGluIEYxMV0oaHR0cHM6Ly91cGxvYWRzLmxpbmVhci5hcHAvZDhiNGE0YzMtNWZlYS00NTY4LTlmZGMtZTA4YjdiOGFiODQ2L2M4ZGI0YTMzLTVmOTUtNDkzOC1hZjY1LTE3M2RhMDc0ZWFhYi8zM2E4OGRhOS03YjQ3LTQyY2EtYjZhNi00ODc5ZmI4YmE3NTIpCgpFbmQgb2YgcHJvYmUgRjExLgoKPC9kZXRhaWxzPobivOXYC6IWC2F0dHJpYnV0aW9uBG51bGwoAOK85dgLqxQIbGFuZ3VhZ2UBdwhtYXJrZG93bigA4rzl2AurFAJpZAF3JGNjNjJiZDliLTA5MjItNGNhMy1iOGRmLWExYjMwNTEyMjQwZYfivOXYC6sUAwpjb2RlX2Jsb2NrBwDivOXYC6YWBgYA4rzl2AunFgthdHRyaWJ1dGlvbkR7InVzZXJJZCI6ImI3NjA3YjIxLTE2MzEtNDM1ZS05MmQ4LWQ2YTY1Mjg2ZmY3NyIsImFjdG9yVHlwZSI6InVzZXIifYTivOXYC6gWoQE8ZGV0YWlscz4KPHN1bW1hcnk+UHJvYmUgRjEyOiBCb2R5IOKAlCB0YWJsZTwvc3VtbWFyeT4KCnwgQ29sdW1uIHwgVmFsdWUgfAp8IC0tLSB8IC0tLSB8CnwgZm9ybSB8IGluLWZlbmNlZC1jb2RlIHwKfCBwcm9iZSB8IEYxMiB8CgpFbmQgb2YgcHJvYmUgRjEyLgoKPC9kZXRhaWxzPobivOXYC8cXC2F0dHJpYnV0aW9uBG51bGwoAOK85dgLphYIbGFuZ3VhZ2UBdwhtYXJrZG93bigA4rzl2AumFgJpZAF3JDRmMGRiNzc2LTAyZDItNGFkNy1iMjc2LWUxYWYwMWNhMTM1ZYfivOXYC6YWAwpjb2RlX2Jsb2NrBwDivOXYC8sXBgYA4rzl2AvMFwthdHRyaWJ1dGlvbkR7InVzZXJJZCI6ImI3NjA3YjIxLTE2MzEtNDM1ZS05MmQ4LWQ2YTY1Mjg2ZmY3NyIsImFjdG9yVHlwZSI6InVzZXIifYTivOXYC80XqgE8ZGV0YWlscz4KPHN1bW1hcnk+UHJvYmUgRjEzOiBCb2R5IOKAlCBuZXN0ZWQ8L3N1bW1hcnk+CgpgYGBgbWFya2Rvd24KPGRldGFpbHM+CjxzdW1tYXJ5PlByb2JlIEYxM2k6IG5lc3RlZCBpbm5lciBzdW1tYXJ5PC9zdW1tYXJ5PgoKTmVzdGVkIGJvZHkgb2YgcHJvYmUgRjEzLgoKPC9kZXRhaWxzPobivOXYC/UYC2F0dHJpYnV0aW9uBG51bGwoAOK85dgLyxcIbGFuZ3VhZ2UBdwhtYXJrZG93bigA4rzl2AvLFwJpZAF3JDlmYTUyZTkzLTIwNjktNDAyZi05YWM2LTNjM2Q3ZTZkMzk4N4fivOXYC8sXAwlwYXJhZ3JhcGgHAOK85dgL+RgGBgDivOXYC/oYC2F0dHJpYnV0aW9uRHsidXNlcklkIjoiYjc2MDdiMjEtMTYzMS00MzVlLTkyZDgtZDZhNjUyODZmZjc3IiwiYWN0b3JUeXBlIjoidXNlciJ9hOK85dgL+xgRRW5kIG9mIHByb2JlIEYxMy6G4rzl2AuMGQthdHRyaWJ1dGlvbgRudWxsh+K85dgL+RgDCXBhcmFncmFwaAcA4rzl2AuOGQYGAOK85dgLjxkLYXR0cmlidXRpb25EeyJ1c2VySWQiOiJiNzYwN2IyMS0xNjMxLTQzNWUtOTJkOC1kNmE2NTI4NmZmNzciLCJhY3RvclR5cGUiOiJ1c2VyIn2E4rzl2AuQGQo8L2RldGFpbHM+huK85dgLmhkLYXR0cmlidXRpb24EbnVsbIfivOXYC44ZAwpjb2RlX2Jsb2NrKADivOXYC5wZAmlkAXckZTkyMjM2ZDAtZWRhNy00MjBmLTljNWYtZTNiNjM5NTAyYjgwAA==",
+  "node_types": {
+    "top_level": [
+      "paragraph",
+      "paragraph",
+      "code_block",
+      "code_block",
+      "code_block",
+      "code_block",
+      "code_block",
+      "code_block",
+      "code_block",
+      "code_block",
+      "code_block",
+      "code_block",
+      "code_block",
+      "code_block",
+      "code_block",
+      "paragraph",
+      "paragraph",
+      "code_block"
+    ],
+    "all": [
+      "paragraph",
+      "paragraph",
+      "code_block(language markdown)",
+      "code_block(language markdown)",
+      "code_block(language markdown)",
+      "code_block(language markdown)",
+      "code_block(language markdown)",
+      "code_block(language markdown)",
+      "code_block(language markdown)",
+      "code_block(language markdown)",
+      "code_block(language markdown)",
+      "code_block(language markdown)",
+      "code_block(language markdown)",
+      "code_block(language markdown)",
+      "code_block(language markdown)",
+      "paragraph",
+      "paragraph",
+      "code_block(language None)"
+    ]
+  },
+  "node_tree": {
+    "content": [
+      {
+        "attrs": {},
+        "content": [
+          {
+            "runs": [
+              {
+                "marks": {},
+                "text": "Expandable-blocks spike probe record — form F, the authored form inside a fenced code block. Every block's summary starts "
+              },
+              {
+                "marks": {
+                  "code": {}
+                },
+                "text": "Probe <id>:"
+              },
+              {
+                "marks": {},
+                "text": " and every body ends with the line "
+              },
+              {
+                "marks": {
+                  "code": {}
+                },
+                "text": "End of probe <id>."
+              },
+              {
+                "marks": {},
+                "text": ", so each block can be found again whether it renders collapsed or as literal text. Probes 01–06 vary the summary over a paragraph body; probes 07–13 vary the body under a plain summary."
+              }
+            ],
+            "type": "#text"
+          }
+        ],
+        "type": "paragraph"
+      },
+      {
+        "attrs": {},
+        "content": [
+          {
+            "runs": [
+              {
+                "marks": {
+                  "strong": {}
+                },
+                "text": "What you should see:"
+              },
+              {
+                "marks": {},
+                "text": " Shown as code (literal text) everywhere: a fenced block is never parsed."
+              }
+            ],
+            "type": "#text"
+          }
+        ],
+        "type": "paragraph"
+      },
+      {
+        "attrs": {
+          "id": "40b47ff8-e854-4554-98f0-42e254e13680",
+          "language": "markdown"
+        },
+        "content": [
+          {
+            "runs": [
+              {
+                "marks": {},
+                "text": "<details>\n<summary>Probe F01: Plain summary text</summary>\n\nA paragraph with *emphasis* and [a link](https://github.com/nickderobertis/onetaskgraph-live-scratch) in probe F01.\n\nEnd of probe F01.\n\n</details>"
+              }
+            ],
+            "type": "#text"
+          }
+        ],
+        "type": "code_block"
+      },
+      {
+        "attrs": {
+          "id": "4d1f3b2b-21a6-4a3b-aa6d-86b083284892",
+          "language": "markdown"
+        },
+        "content": [
+          {
+            "runs": [
+              {
+                "marks": {},
+                "text": "<details>\n<summary>Probe F02: Entities &amp; &lt;tag&gt; in a summary</summary>\n\nA paragraph with *emphasis* and [a link](https://github.com/nickderobertis/onetaskgraph-live-scratch) in probe F02.\n\nEnd of probe F02.\n\n</details>"
+              }
+            ],
+            "type": "#text"
+          }
+        ],
+        "type": "code_block"
+      },
+      {
+        "attrs": {
+          "id": "0caa6a39-39d7-4fdd-9519-0d75f3268647",
+          "language": "markdown"
+        },
+        "content": [
+          {
+            "runs": [
+              {
+                "marks": {},
+                "text": "<details>\n<summary>Probe F03: Inline code `copy --dry-run` in backticks</summary>\n\nA paragraph with *emphasis* and [a link](https://github.com/nickderobertis/onetaskgraph-live-scratch) in probe F03.\n\nEnd of probe F03.\n\n</details>"
+              }
+            ],
+            "type": "#text"
+          }
+        ],
+        "type": "code_block"
+      },
+      {
+        "attrs": {
+          "id": "81855888-09a9-4079-96ec-060293956c3e",
+          "language": "markdown"
+        },
+        "content": [
+          {
+            "runs": [
+              {
+                "marks": {},
+                "text": "<details>\n<summary>Probe F04: Inline code <code>copy --dry-run</code> as HTML</summary>\n\nA paragraph with *emphasis* and [a link](https://github.com/nickderobertis/onetaskgraph-live-scratch) in probe F04.\n\nEnd of probe F04.\n\n</details>"
+              }
+            ],
+            "type": "#text"
+          }
+        ],
+        "type": "code_block"
+      },
+      {
+        "attrs": {
+          "id": "145c0eba-c77d-4c44-b04a-7fcffccc63ee",
+          "language": "markdown"
+        },
+        "content": [
+          {
+            "runs": [
+              {
+                "marks": {},
+                "text": "<details>\n<summary>Probe F05: **Bold** text in a summary</summary>\n\nA paragraph with *emphasis* and [a link](https://github.com/nickderobertis/onetaskgraph-live-scratch) in probe F05.\n\nEnd of probe F05.\n\n</details>"
+              }
+            ],
+            "type": "#text"
+          }
+        ],
+        "type": "code_block"
+      },
+      {
+        "attrs": {
+          "id": "0e9af91a-f94e-4c3c-bdcd-c71614ae8ba5",
+          "language": "markdown"
+        },
+        "content": [
+          {
+            "runs": [
+              {
+                "marks": {},
+                "text": "<details>\n<summary>Probe F06: <strong>Bold</strong> as HTML</summary>\n\nA paragraph with *emphasis* and [a link](https://github.com/nickderobertis/onetaskgraph-live-scratch) in probe F06.\n\nEnd of probe F06.\n\n</details>"
+              }
+            ],
+            "type": "#text"
+          }
+        ],
+        "type": "code_block"
+      },
+      {
+        "attrs": {
+          "id": "0afa3477-aa7b-432f-a777-302c4e9ab54b",
+          "language": "markdown"
+        },
+        "content": [
+          {
+            "runs": [
+              {
+                "marks": {},
+                "text": "<details>\n<summary>Probe F07: Body — paragraph</summary>\n\nA paragraph with *emphasis* and [a link](https://github.com/nickderobertis/onetaskgraph-live-scratch) in probe F07.\n\nEnd of probe F07.\n\n</details>"
+              }
+            ],
+            "type": "#text"
+          }
+        ],
+        "type": "code_block"
+      },
+      {
+        "attrs": {
+          "id": "75fdeae4-c654-4d56-a73f-9d51183a5401",
+          "language": "markdown"
+        },
+        "content": [
+          {
+            "runs": [
+              {
+                "marks": {},
+                "text": "<details>\n<summary>Probe F08: Body — lists</summary>\n\n- First bullet\n- Second bullet\n\n1. First step\n2. Second step\n\nEnd of probe F08.\n\n</details>"
+              }
+            ],
+            "type": "#text"
+          }
+        ],
+        "type": "code_block"
+      },
+      {
+        "attrs": {
+          "id": "9324d6aa-67b7-4081-a6c1-3121f8deb25a",
+          "language": "markdown"
+        },
+        "content": [
+          {
+            "runs": [
+              {
+                "marks": {},
+                "text": "<details>\n<summary>Probe F09: Body — headings</summary>\n\n### A third-level heading in probe F09\n\nText under the third-level heading.\n\n#### A fourth-level heading in probe F09\n\nText under the fourth-level heading.\n\nEnd of probe F09.\n\n</details>"
+              }
+            ],
+            "type": "#text"
+          }
+        ],
+        "type": "code_block"
+      },
+      {
+        "attrs": {
+          "id": "c353861d-a77c-491b-9c03-f7cec63a9150",
+          "language": "markdown"
+        },
+        "content": [
+          {
+            "runs": [
+              {
+                "marks": {},
+                "text": "<details>\n<summary>Probe F10: Body — fenced code</summary>\n\n```python\ndef probe():\n    return \"F10\"\n```\n\nEnd of probe F10.\n\n</details>"
+              }
+            ],
+            "type": "#text"
+          }
+        ],
+        "type": "code_block"
+      },
+      {
+        "attrs": {
+          "id": "cc62bd9b-0922-4ca3-b8df-a1b30512240e",
+          "language": "markdown"
+        },
+        "content": [
+          {
+            "runs": [
+              {
+                "marks": {},
+                "text": "<details>\n<summary>Probe F11: Body — image</summary>\n\n![Probe image in F11](https://uploads.linear.app/d8b4a4c3-5fea-4568-9fdc-e08b7b8ab846/c8db4a33-5f95-4938-af65-173da074eaab/33a88da9-7b47-42ca-b6a6-4879fb8ba752)\n\nEnd of probe F11.\n\n</details>"
+              }
+            ],
+            "type": "#text"
+          }
+        ],
+        "type": "code_block"
+      },
+      {
+        "attrs": {
+          "id": "4f0db776-02d2-4ad7-b276-e1af01ca135e",
+          "language": "markdown"
+        },
+        "content": [
+          {
+            "runs": [
+              {
+                "marks": {},
+                "text": "<details>\n<summary>Probe F12: Body — table</summary>\n\n| Column | Value |\n| --- | --- |\n| form | in-fenced-code |\n| probe | F12 |\n\nEnd of probe F12.\n\n</details>"
+              }
+            ],
+            "type": "#text"
+          }
+        ],
+        "type": "code_block"
+      },
+      {
+        "attrs": {
+          "id": "9fa52e93-2069-402f-9ac6-3c3d7e6d3987",
+          "language": "markdown"
+        },
+        "content": [
+          {
+            "runs": [
+              {
+                "marks": {},
+                "text": "<details>\n<summary>Probe F13: Body — nested</summary>\n\n````markdown\n<details>\n<summary>Probe F13i: nested inner summary</summary>\n\nNested body of probe F13.\n\n</details>"
+              }
+            ],
+            "type": "#text"
+          }
+        ],
+        "type": "code_block"
+      },
+      {
+        "attrs": {},
+        "content": [
+          {
+            "runs": [
+              {
+                "marks": {},
+                "text": "End of probe F13."
+              }
+            ],
+            "type": "#text"
+          }
+        ],
+        "type": "paragraph"
+      },
+      {
+        "attrs": {},
+        "content": [
+          {
+            "runs": [
+              {
+                "marks": {},
+                "text": "</details>"
+              }
+            ],
+            "type": "#text"
+          }
+        ],
+        "type": "paragraph"
+      },
+      {
+        "attrs": {
+          "id": "e92236d0-eda7-420f-9c5f-e3b639502b80"
+        },
+        "content": [],
+        "type": "code_block"
+      }
+    ],
+    "type": "doc"
+  },
+  "blocks": [
+    {
+      "id": "F01",
+      "probe": "summary",
+      "summary_variant": "plain",
+      "body_variant": "paragraph",
+      "parsed_as": "literal text in code_block",
+      "literal_text": "<details>\n<summary>Probe F01: Plain summary text</summary>\n\nA paragraph with *emphasis* and [a link](https://github.com/nickderobertis/onetaskgraph-live-scratch) in probe F01.\n\nEnd of probe F01.\n\n</details>"
+    },
+    {
+      "id": "F02",
+      "probe": "summary",
+      "summary_variant": "entities",
+      "body_variant": "paragraph",
+      "parsed_as": "literal text in code_block",
+      "literal_text": "<details>\n<summary>Probe F02: Entities &amp; &lt;tag&gt; in a summary</summary>\n\nA paragraph with *emphasis* and [a link](https://github.com/nickderobertis/onetaskgraph-live-scratch) in probe F02.\n\nEnd of probe F02.\n\n</details>"
+    },
+    {
+      "id": "F03",
+      "probe": "summary",
+      "summary_variant": "backtick-code",
+      "body_variant": "paragraph",
+      "parsed_as": "literal text in code_block",
+      "literal_text": "<details>\n<summary>Probe F03: Inline code `copy --dry-run` in backticks</summary>\n\nA paragraph with *emphasis* and [a link](https://github.com/nickderobertis/onetaskgraph-live-scratch) in probe F03.\n\nEnd of probe F03.\n\n</details>"
+    },
+    {
+      "id": "F04",
+      "probe": "summary",
+      "summary_variant": "html-code",
+      "body_variant": "paragraph",
+      "parsed_as": "literal text in code_block",
+      "literal_text": "<details>\n<summary>Probe F04: Inline code <code>copy --dry-run</code> as HTML</summary>\n\nA paragraph with *emphasis* and [a link](https://github.com/nickderobertis/onetaskgraph-live-scratch) in probe F04.\n\nEnd of probe F04.\n\n</details>"
+    },
+    {
+      "id": "F05",
+      "probe": "summary",
+      "summary_variant": "bold",
+      "body_variant": "paragraph",
+      "parsed_as": "literal text in code_block",
+      "literal_text": "<details>\n<summary>Probe F05: **Bold** text in a summary</summary>\n\nA paragraph with *emphasis* and [a link](https://github.com/nickderobertis/onetaskgraph-live-scratch) in probe F05.\n\nEnd of probe F05.\n\n</details>"
+    },
+    {
+      "id": "F06",
+      "probe": "summary",
+      "summary_variant": "html-strong",
+      "body_variant": "paragraph",
+      "parsed_as": "literal text in code_block",
+      "literal_text": "<details>\n<summary>Probe F06: <strong>Bold</strong> as HTML</summary>\n\nA paragraph with *emphasis* and [a link](https://github.com/nickderobertis/onetaskgraph-live-scratch) in probe F06.\n\nEnd of probe F06.\n\n</details>"
+    },
+    {
+      "id": "F07",
+      "probe": "body",
+      "summary_variant": "plain",
+      "body_variant": "paragraph",
+      "parsed_as": "literal text in code_block",
+      "literal_text": "<details>\n<summary>Probe F07: Body — paragraph</summary>\n\nA paragraph with *emphasis* and [a link](https://github.com/nickderobertis/onetaskgraph-live-scratch) in probe F07.\n\nEnd of probe F07.\n\n</details>"
+    },
+    {
+      "id": "F08",
+      "probe": "body",
+      "summary_variant": "plain",
+      "body_variant": "lists",
+      "parsed_as": "literal text in code_block",
+      "literal_text": "<details>\n<summary>Probe F08: Body — lists</summary>\n\n- First bullet\n- Second bullet\n\n1. First step\n2. Second step\n\nEnd of probe F08.\n\n</details>"
+    },
+    {
+      "id": "F09",
+      "probe": "body",
+      "summary_variant": "plain",
+      "body_variant": "headings",
+      "parsed_as": "literal text in code_block",
+      "literal_text": "<details>\n<summary>Probe F09: Body — headings</summary>\n\n### A third-level heading in probe F09\n\nText under the third-level heading.\n\n#### A fourth-level heading in probe F09\n\nText under the fourth-level heading.\n\nEnd of probe F09.\n\n</details>"
+    },
+    {
+      "id": "F10",
+      "probe": "body",
+      "summary_variant": "plain",
+      "body_variant": "fenced-code",
+      "parsed_as": "literal text in code_block",
+      "literal_text": "<details>\n<summary>Probe F10: Body — fenced code</summary>\n\n```python\ndef probe():\n    return \"F10\"\n```\n\nEnd of probe F10.\n\n</details>"
+    },
+    {
+      "id": "F11",
+      "probe": "body",
+      "summary_variant": "plain",
+      "body_variant": "image",
+      "parsed_as": "literal text in code_block",
+      "literal_text": "<details>\n<summary>Probe F11: Body — image</summary>\n\n![Probe image in F11](https://uploads.linear.app/d8b4a4c3-5fea-4568-9fdc-e08b7b8ab846/c8db4a33-5f95-4938-af65-173da074eaab/33a88da9-7b47-42ca-b6a6-4879fb8ba752)\n\nEnd of probe F11.\n\n</details>"
+    },
+    {
+      "id": "F12",
+      "probe": "body",
+      "summary_variant": "plain",
+      "body_variant": "table",
+      "parsed_as": "literal text in code_block",
+      "literal_text": "<details>\n<summary>Probe F12: Body — table</summary>\n\n| Column | Value |\n| --- | --- |\n| form | in-fenced-code |\n| probe | F12 |\n\nEnd of probe F12.\n\n</details>"
+    },
+    {
+      "id": "F13",
+      "probe": "body",
+      "summary_variant": "plain",
+      "body_variant": "nested",
+      "parsed_as": "literal text in code_block",
+      "literal_text": "<details>\n<summary>Probe F13: Body — nested</summary>\n\n````markdown\n<details>\n<summary>Probe F13i: nested inner summary</summary>\n\nNested body of probe F13.\n\n</details>"
+    }
+  ],
+  "rewrite": {
+    "sent_markdown": "Expandable-blocks spike probe record — form F, the authored form inside a fenced code block. Every block's summary starts `Probe <id>:` and every body ends with the line `End of probe <id>.`, so each block can be found again whether it renders collapsed or as literal text. Probes 01–06 vary the summary over a paragraph body; probes 07–13 vary the body under a plain summary.\n\n**What you should see:** Shown as code (literal text) everywhere: a fenced block is never parsed.\n\n```markdown\n<details>\n<summary>Probe F01: Plain summary text</summary>\n\nA paragraph with *emphasis* and [a link](https://github.com/nickderobertis/onetaskgraph-live-scratch) in probe F01.\n\nEnd of probe F01.\n\n</details>\n```\n\n```markdown\n<details>\n<summary>Probe F02: Entities &amp; &lt;tag&gt; in a summary</summary>\n\nA paragraph with *emphasis* and [a link](https://github.com/nickderobertis/onetaskgraph-live-scratch) in probe F02.\n\nEnd of probe F02.\n\n</details>\n```\n\n```markdown\n<details>\n<summary>Probe F03: Inline code `copy --dry-run` in backticks</summary>\n\nA paragraph with *emphasis* and [a link](https://github.com/nickderobertis/onetaskgraph-live-scratch) in probe F03.\n\nEnd of probe F03.\n\n</details>\n```\n\n```markdown\n<details>\n<summary>Probe F04: Inline code <code>copy --dry-run</code> as HTML</summary>\n\nA paragraph with *emphasis* and [a link](https://github.com/nickderobertis/onetaskgraph-live-scratch) in probe F04.\n\nEnd of probe F04.\n\n</details>\n```\n\n```markdown\n<details>\n<summary>Probe F05: **Bold** text in a summary</summary>\n\nA paragraph with *emphasis* and [a link](https://github.com/nickderobertis/onetaskgraph-live-scratch) in probe F05.\n\nEnd of probe F05.\n\n</details>\n```\n\n```markdown\n<details>\n<summary>Probe F06: <strong>Bold</strong> as HTML</summary>\n\nA paragraph with *emphasis* and [a link](https://github.com/nickderobertis/onetaskgraph-live-scratch) in probe F06.\n\nEnd of probe F06.\n\n</details>\n```\n\n```markdown\n<details>\n<summary>Probe F07: Body — paragraph</summary>\n\nA paragraph with *emphasis* and [a link](https://github.com/nickderobertis/onetaskgraph-live-scratch) in probe F07.\n\nEnd of probe F07.\n\n</details>\n```\n\n```markdown\n<details>\n<summary>Probe F08: Body — lists</summary>\n\n- First bullet\n- Second bullet\n\n1. First step\n2. Second step\n\nEnd of probe F08.\n\n</details>\n```\n\n```markdown\n<details>\n<summary>Probe F09: Body — headings</summary>\n\n### A third-level heading in probe F09\n\nText under the third-level heading.\n\n#### A fourth-level heading in probe F09\n\nText under the fourth-level heading.\n\nEnd of probe F09.\n\n</details>\n```\n\n````markdown\n<details>\n<summary>Probe F10: Body — fenced code</summary>\n\n```python\ndef probe():\n    return \"F10\"\n```\n\nEnd of probe F10.\n\n</details>\n````\n\n```markdown\n<details>\n<summary>Probe F11: Body — image</summary>\n\n![Probe image in F11](https://uploads.linear.app/d8b4a4c3-5fea-4568-9fdc-e08b7b8ab846/c8db4a33-5f95-4938-af65-173da074eaab/33a88da9-7b47-42ca-b6a6-4879fb8ba752)\n\nEnd of probe F11.\n\n</details>\n```\n\n```markdown\n<details>\n<summary>Probe F12: Body — table</summary>\n\n| Column | Value |\n| --- | --- |\n| form | in-fenced-code |\n| probe | F12 |\n\nEnd of probe F12.\n\n</details>\n```\n\n```markdown\n<details>\n<summary>Probe F13: Body — nested</summary>\n\n````markdown\n<details>\n<summary>Probe F13i: nested inner summary</summary>\n\nNested body of probe F13.\n\n</details>\n```\n\nEnd of probe F13.\n\n</details>\n\n```\n```",
+    "stored_markdown": "Expandable-blocks spike probe record — form F, the authored form inside a fenced code block. Every block's summary starts `Probe <id>:` and every body ends with the line `End of probe <id>.`, so each block can be found again whether it renders collapsed or as literal text. Probes 01–06 vary the summary over a paragraph body; probes 07–13 vary the body under a plain summary.\n\n**What you should see:** Shown as code (literal text) everywhere: a fenced block is never parsed.\n\n```markdown\n<details>\n<summary>Probe F01: Plain summary text</summary>\n\nA paragraph with *emphasis* and [a link](https://github.com/nickderobertis/onetaskgraph-live-scratch) in probe F01.\n\nEnd of probe F01.\n\n</details>\n```\n\n```markdown\n<details>\n<summary>Probe F02: Entities &amp; &lt;tag&gt; in a summary</summary>\n\nA paragraph with *emphasis* and [a link](https://github.com/nickderobertis/onetaskgraph-live-scratch) in probe F02.\n\nEnd of probe F02.\n\n</details>\n```\n\n```markdown\n<details>\n<summary>Probe F03: Inline code `copy --dry-run` in backticks</summary>\n\nA paragraph with *emphasis* and [a link](https://github.com/nickderobertis/onetaskgraph-live-scratch) in probe F03.\n\nEnd of probe F03.\n\n</details>\n```\n\n```markdown\n<details>\n<summary>Probe F04: Inline code <code>copy --dry-run</code> as HTML</summary>\n\nA paragraph with *emphasis* and [a link](https://github.com/nickderobertis/onetaskgraph-live-scratch) in probe F04.\n\nEnd of probe F04.\n\n</details>\n```\n\n```markdown\n<details>\n<summary>Probe F05: **Bold** text in a summary</summary>\n\nA paragraph with *emphasis* and [a link](https://github.com/nickderobertis/onetaskgraph-live-scratch) in probe F05.\n\nEnd of probe F05.\n\n</details>\n```\n\n```markdown\n<details>\n<summary>Probe F06: <strong>Bold</strong> as HTML</summary>\n\nA paragraph with *emphasis* and [a link](https://github.com/nickderobertis/onetaskgraph-live-scratch) in probe F06.\n\nEnd of probe F06.\n\n</details>\n```\n\n```markdown\n<details>\n<summary>Probe F07: Body — paragraph</summary>\n\nA paragraph with *emphasis* and [a link](https://github.com/nickderobertis/onetaskgraph-live-scratch) in probe F07.\n\nEnd of probe F07.\n\n</details>\n```\n\n```markdown\n<details>\n<summary>Probe F08: Body — lists</summary>\n\n- First bullet\n- Second bullet\n\n1. First step\n2. Second step\n\nEnd of probe F08.\n\n</details>\n```\n\n```markdown\n<details>\n<summary>Probe F09: Body — headings</summary>\n\n### A third-level heading in probe F09\n\nText under the third-level heading.\n\n#### A fourth-level heading in probe F09\n\nText under the fourth-level heading.\n\nEnd of probe F09.\n\n</details>\n```\n\n````markdown\n<details>\n<summary>Probe F10: Body — fenced code</summary>\n\n```python\ndef probe():\n    return \"F10\"\n```\n\nEnd of probe F10.\n\n</details>\n````\n\n```markdown\n<details>\n<summary>Probe F11: Body — image</summary>\n\n![Probe image in F11](https://uploads.linear.app/d8b4a4c3-5fea-4568-9fdc-e08b7b8ab846/c8db4a33-5f95-4938-af65-173da074eaab/33a88da9-7b47-42ca-b6a6-4879fb8ba752)\n\nEnd of probe F11.\n\n</details>\n```\n\n```markdown\n<details>\n<summary>Probe F12: Body — table</summary>\n\n| Column | Value |\n| --- | --- |\n| form | in-fenced-code |\n| probe | F12 |\n\nEnd of probe F12.\n\n</details>\n```\n\n```markdown\n<details>\n<summary>Probe F13: Body — nested</summary>\n\n````markdown\n<details>\n<summary>Probe F13i: nested inner summary</summary>\n\nNested body of probe F13.\n\n</details>\n```\n\nEnd of probe F13.\n\n</details>\n\n```\n```",
+    "stored_unchanged": true,
+    "node_types_unchanged": true,
+    "node_types": {
+      "top_level": [
+        "paragraph",
+        "paragraph",
+        "code_block",
+        "code_block",
+        "code_block",
+        "code_block",
+        "code_block",
+        "code_block",
+        "code_block",
+        "code_block",
+        "code_block",
+        "code_block",
+        "code_block",
+        "code_block",
+        "code_block",
+        "paragraph",
+        "paragraph",
+        "code_block"
+      ],
+      "all": [
+        "paragraph",
+        "paragraph",
+        "code_block(language markdown)",
+        "code_block(language markdown)",
+        "code_block(language markdown)",
+        "code_block(language markdown)",
+        "code_block(language markdown)",
+        "code_block(language markdown)",
+        "code_block(language markdown)",
+        "code_block(language markdown)",
+        "code_block(language markdown)",
+        "code_block(language markdown)",
+        "code_block(language markdown)",
+        "code_block(language markdown)",
+        "code_block(language markdown)",
+        "paragraph",
+        "paragraph",
+        "code_block(language None)"
+      ]
+    }
+  }
+}

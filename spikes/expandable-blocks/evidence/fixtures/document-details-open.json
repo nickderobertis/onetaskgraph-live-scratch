@@ -1,0 +1,2010 @@
+{
+  "fixture": "document-details-open",
+  "record": "document 4a3b19e603a4",
+  "record_id": "ab7d762c-5f47-4801-a094-dee7fecbd5a3",
+  "kind": "document",
+  "team": "TES2",
+  "captured": "2026-11-10",
+  "title": "Expandable-blocks spike: probe document, form O (details-open)",
+  "note": "Written through Linear's GraphQL API by the expandable-blocks spike harness. The record's URL is left out: it names the workspace.",
+  "state_field": "contentState",
+  "sent_markdown": "Expandable-blocks spike probe record — form O, `<details open>`: the authored form with the `open` attribute. Every block's summary starts `Probe <id>:` and every body ends with the line `End of probe <id>.`, so each block can be found again whether it renders collapsed or as literal text. Probes 01–06 vary the summary over a paragraph body; probes 07–13 vary the body under a plain summary.\n\n**What you should see:** Expanded on load (not collapsed), summary visible, body rendered.\n\n<details open>\n<summary>Probe O01: Plain summary text</summary>\n\nA paragraph with *emphasis* and [a link](https://github.com/nickderobertis/onetaskgraph-live-scratch) in probe O01.\n\nEnd of probe O01.\n\n</details>\n\n<details open>\n<summary>Probe O02: Entities &amp; &lt;tag&gt; in a summary</summary>\n\nA paragraph with *emphasis* and [a link](https://github.com/nickderobertis/onetaskgraph-live-scratch) in probe O02.\n\nEnd of probe O02.\n\n</details>\n\n<details open>\n<summary>Probe O03: Inline code `copy --dry-run` in backticks</summary>\n\nA paragraph with *emphasis* and [a link](https://github.com/nickderobertis/onetaskgraph-live-scratch) in probe O03.\n\nEnd of probe O03.\n\n</details>\n\n<details open>\n<summary>Probe O04: Inline code <code>copy --dry-run</code> as HTML</summary>\n\nA paragraph with *emphasis* and [a link](https://github.com/nickderobertis/onetaskgraph-live-scratch) in probe O04.\n\nEnd of probe O04.\n\n</details>\n\n<details open>\n<summary>Probe O05: **Bold** text in a summary</summary>\n\nA paragraph with *emphasis* and [a link](https://github.com/nickderobertis/onetaskgraph-live-scratch) in probe O05.\n\nEnd of probe O05.\n\n</details>\n\n<details open>\n<summary>Probe O06: <strong>Bold</strong> as HTML</summary>\n\nA paragraph with *emphasis* and [a link](https://github.com/nickderobertis/onetaskgraph-live-scratch) in probe O06.\n\nEnd of probe O06.\n\n</details>\n\n<details open>\n<summary>Probe O07: Body — paragraph</summary>\n\nA paragraph with *emphasis* and [a link](https://github.com/nickderobertis/onetaskgraph-live-scratch) in probe O07.\n\nEnd of probe O07.\n\n</details>\n\n<details open>\n<summary>Probe O08: Body — lists</summary>\n\n- First bullet\n- Second bullet\n\n1. First step\n2. Second step\n\nEnd of probe O08.\n\n</details>\n\n<details open>\n<summary>Probe O09: Body — headings</summary>\n\n### A third-level heading in probe O09\n\nText under the third-level heading.\n\n#### A fourth-level heading in probe O09\n\nText under the fourth-level heading.\n\nEnd of probe O09.\n\n</details>\n\n<details open>\n<summary>Probe O10: Body — fenced code</summary>\n\n```python\ndef probe():\n    return \"O10\"\n```\n\nEnd of probe O10.\n\n</details>\n\n<details open>\n<summary>Probe O11: Body — image</summary>\n\n![Probe image in O11](https://uploads.linear.app/d8b4a4c3-5fea-4568-9fdc-e08b7b8ab846/c8db4a33-5f95-4938-af65-173da074eaab/33a88da9-7b47-42ca-b6a6-4879fb8ba752)\n\nEnd of probe O11.\n\n</details>\n\n<details open>\n<summary>Probe O12: Body — table</summary>\n\n| Column | Value |\n| --- | --- |\n| form | details-open |\n| probe | O12 |\n\nEnd of probe O12.\n\n</details>\n\n<details open>\n<summary>Probe O13: Body — nested</summary>\n\n<details open>\n<summary>Probe O13i: nested inner summary</summary>\n\nNested body of probe O13.\n\n</details>\n\nEnd of probe O13.\n\n</details>\n",
+  "stored_markdown": "Expandable-blocks spike probe record — form O, `<details open>`: the authored form with the `open` attribute. Every block's summary starts `Probe <id>:` and every body ends with the line `End of probe <id>.`, so each block can be found again whether it renders collapsed or as literal text. Probes 01–06 vary the summary over a paragraph body; probes 07–13 vary the body under a plain summary.\n\n**What you should see:** Expanded on load (not collapsed), summary visible, body rendered.\n\n<details open>\n<summary>Probe O01: Plain summary text</summary>\n\nA paragraph with *emphasis* and [a link](<https://github.com/nickderobertis/onetaskgraph-live-scratch>) in probe O01.\n\nEnd of probe O01.\n\n</details>\n\n<details open>\n<summary>Probe O02: Entities & <tag> in a summary</summary>\n\nA paragraph with *emphasis* and [a link](<https://github.com/nickderobertis/onetaskgraph-live-scratch>) in probe O02.\n\nEnd of probe O02.\n\n</details>\n\n<details open>\n<summary>Probe O03: Inline code `copy --dry-run` in backticks</summary>\n\nA paragraph with *emphasis* and [a link](<https://github.com/nickderobertis/onetaskgraph-live-scratch>) in probe O03.\n\nEnd of probe O03.\n\n</details>\n\n<details open>\n<summary>Probe O04: Inline code <code>copy --dry-run</code> as HTML</summary>\n\nA paragraph with *emphasis* and [a link](<https://github.com/nickderobertis/onetaskgraph-live-scratch>) in probe O04.\n\nEnd of probe O04.\n\n</details>\n\n<details open>\n<summary>Probe O05: **Bold** text in a summary</summary>\n\nA paragraph with *emphasis* and [a link](<https://github.com/nickderobertis/onetaskgraph-live-scratch>) in probe O05.\n\nEnd of probe O05.\n\n</details>\n\n<details open>\n<summary>Probe O06: <strong>Bold</strong> as HTML</summary>\n\nA paragraph with *emphasis* and [a link](<https://github.com/nickderobertis/onetaskgraph-live-scratch>) in probe O06.\n\nEnd of probe O06.\n\n</details>\n\n<details open>\n<summary>Probe O07: Body — paragraph</summary>\n\nA paragraph with *emphasis* and [a link](<https://github.com/nickderobertis/onetaskgraph-live-scratch>) in probe O07.\n\nEnd of probe O07.\n\n</details>\n\n<details open>\n<summary>Probe O08: Body — lists</summary>\n\n* First bullet\n* Second bullet\n\n1. First step\n2. Second step\n\nEnd of probe O08.\n\n</details>\n\n<details open>\n<summary>Probe O09: Body — headings</summary>\n\n### A third-level heading in probe O09\n\nText under the third-level heading.\n\n#### A fourth-level heading in probe O09\n\nText under the fourth-level heading.\n\nEnd of probe O09.\n\n</details>\n\n<details open>\n<summary>Probe O10: Body — fenced code</summary>\n\n```python\ndef probe():\n    return \"O10\"\n```\n\nEnd of probe O10.\n\n</details>\n\n<details open>\n<summary>Probe O11: Body — image</summary>\n\n![Probe image in O11](https://uploads.linear.app/d8b4a4c3-5fea-4568-9fdc-e08b7b8ab846/c8db4a33-5f95-4938-af65-173da074eaab/33a88da9-7b47-42ca-b6a6-4879fb8ba752)\n\nEnd of probe O11.\n\n</details>\n\n<details open>\n<summary>Probe O12: Body — table</summary>\n\n| Column | Value |\n| -- | -- |\n| form | details-open |\n| probe | O12 |\n\nEnd of probe O12.\n\n</details>\n\n<details open>\n<summary>Probe O13: Body — nested</summary>\n\n<details open>\n<summary>Probe O13i: nested inner summary</summary>\n\nNested body of probe O13.\n\n</details>\n\nEnd of probe O13.\n\n</details>",
+  "stored_state": "Ad4Eu+P/+QIABwELcHJvc2VtaXJyb3IDCXBhcmFncmFwaAcAu+P/+QIABgYAu+P/+QIBC2F0dHJpYnV0aW9uRHsidXNlcklkIjoiYjc2MDdiMjEtMTYzMS00MzVlLTkyZDgtZDZhNjUyODZmZjc3IiwiYWN0b3JUeXBlIjoidXNlciJ9hLvj//kCAjFFeHBhbmRhYmxlLWJsb2NrcyBzcGlrZSBwcm9iZSByZWNvcmQg4oCUIGZvcm0gTywghrvj//kCMQthdHRyaWJ1dGlvbgRudWxshrvj//kCMgRjb2RlAnt9hrvj//kCMwthdHRyaWJ1dGlvbkR7InVzZXJJZCI6ImI3NjA3YjIxLTE2MzEtNDM1ZS05MmQ4LWQ2YTY1Mjg2ZmY3NyIsImFjdG9yVHlwZSI6InVzZXIifYS74//5AjQOPGRldGFpbHMgb3Blbj6Gu+P/+QJCBGNvZGUEbnVsbIa74//5AkMLYXR0cmlidXRpb24EbnVsbIa74//5AkQLYXR0cmlidXRpb25EeyJ1c2VySWQiOiJiNzYwN2IyMS0xNjMxLTQzNWUtOTJkOC1kNmE2NTI4NmZmNzciLCJhY3RvclR5cGUiOiJ1c2VyIn2Eu+P/+QJFHTogdGhlIGF1dGhvcmVkIGZvcm0gd2l0aCB0aGUghrvj//kCYgthdHRyaWJ1dGlvbgRudWxshrvj//kCYwRjb2RlAnt9hrvj//kCZAthdHRyaWJ1dGlvbkR7InVzZXJJZCI6ImI3NjA3YjIxLTE2MzEtNDM1ZS05MmQ4LWQ2YTY1Mjg2ZmY3NyIsImFjdG9yVHlwZSI6InVzZXIifYS74//5AmUEb3Blboa74//5AmkEY29kZQRudWxshrvj//kCagthdHRyaWJ1dGlvbgRudWxshrvj//kCawthdHRyaWJ1dGlvbkR7InVzZXJJZCI6ImI3NjA3YjIxLTE2MzEtNDM1ZS05MmQ4LWQ2YTY1Mjg2ZmY3NyIsImFjdG9yVHlwZSI6InVzZXIifYS74//5AmwpIGF0dHJpYnV0ZS4gRXZlcnkgYmxvY2sncyBzdW1tYXJ5IHN0YXJ0cyCGu+P/+QKVAQthdHRyaWJ1dGlvbgRudWxshrvj//kClgEEY29kZQJ7fYa74//5ApcBC2F0dHJpYnV0aW9uRHsidXNlcklkIjoiYjc2MDdiMjEtMTYzMS00MzVlLTkyZDgtZDZhNjUyODZmZjc3IiwiYWN0b3JUeXBlIjoidXNlciJ9hLvj//kCmAELUHJvYmUgPGlkPjqGu+P/+QKjAQRjb2RlBG51bGyGu+P/+QKkAQthdHRyaWJ1dGlvbgRudWxshrvj//kCpQELYXR0cmlidXRpb25EeyJ1c2VySWQiOiJiNzYwN2IyMS0xNjMxLTQzNWUtOTJkOC1kNmE2NTI4NmZmNzciLCJhY3RvclR5cGUiOiJ1c2VyIn2Eu+P/+QKmASMgYW5kIGV2ZXJ5IGJvZHkgZW5kcyB3aXRoIHRoZSBsaW5lIIa74//5AskBC2F0dHJpYnV0aW9uBG51bGyGu+P/+QLKAQRjb2RlAnt9hrvj//kCywELYXR0cmlidXRpb25EeyJ1c2VySWQiOiJiNzYwN2IyMS0xNjMxLTQzNWUtOTJkOC1kNmE2NTI4NmZmNzciLCJhY3RvclR5cGUiOiJ1c2VyIn2Eu+P/+QLMARJFbmQgb2YgcHJvYmUgPGlkPi6Gu+P/+QLeAQRjb2RlBG51bGyGu+P/+QLfAQthdHRyaWJ1dGlvbgRudWxshrvj//kC4AELYXR0cmlidXRpb25EeyJ1c2VySWQiOiJiNzYwN2IyMS0xNjMxLTQzNWUtOTJkOC1kNmE2NTI4NmZmNzciLCJhY3RvclR5cGUiOiJ1c2VyIn2Eu+P/+QLhAb4BLCBzbyBlYWNoIGJsb2NrIGNhbiBiZSBmb3VuZCBhZ2FpbiB3aGV0aGVyIGl0IHJlbmRlcnMgY29sbGFwc2VkIG9yIGFzIGxpdGVyYWwgdGV4dC4gUHJvYmVzIDAx4oCTMDYgdmFyeSB0aGUgc3VtbWFyeSBvdmVyIGEgcGFyYWdyYXBoIGJvZHk7IHByb2JlcyAwN+KAkzEzIHZhcnkgdGhlIGJvZHkgdW5kZXIgYSBwbGFpbiBzdW1tYXJ5Loa74//5ApsDC2F0dHJpYnV0aW9uBG51bGyHu+P/+QIAAwlwYXJhZ3JhcGgHALvj//kCnQMGBgC74//5Ap4DBnN0cm9uZwJ7fYa74//5Ap8DC2F0dHJpYnV0aW9uRHsidXNlcklkIjoiYjc2MDdiMjEtMTYzMS00MzVlLTkyZDgtZDZhNjUyODZmZjc3IiwiYWN0b3JUeXBlIjoidXNlciJ9hLvj//kCoAMUV2hhdCB5b3Ugc2hvdWxkIHNlZTqGu+P/+QK0AwZzdHJvbmcEbnVsbIa74//5ArUDC2F0dHJpYnV0aW9uBG51bGyGu+P/+QK2AwthdHRyaWJ1dGlvbkR7InVzZXJJZCI6ImI3NjA3YjIxLTE2MzEtNDM1ZS05MmQ4LWQ2YTY1Mjg2ZmY3NyIsImFjdG9yVHlwZSI6InVzZXIifYS74//5ArcDQiBFeHBhbmRlZCBvbiBsb2FkIChub3QgY29sbGFwc2VkKSwgc3VtbWFyeSB2aXNpYmxlLCBib2R5IHJlbmRlcmVkLoa74//5AvkDC2F0dHJpYnV0aW9uBG51bGyHu+P/+QKdAwMJcGFyYWdyYXBoBwC74//5AvsDBgYAu+P/+QL8AwthdHRyaWJ1dGlvbkR7InVzZXJJZCI6ImI3NjA3YjIxLTE2MzEtNDM1ZS05MmQ4LWQ2YTY1Mjg2ZmY3NyIsImFjdG9yVHlwZSI6InVzZXIifYS74//5Av0DDjxkZXRhaWxzIG9wZW4+hrvj//kCiwQLYXR0cmlidXRpb24EbnVsbIe74//5AvwDAwpoYXJkX2JyZWFrh7vj//kCjQQGBgC74//5Ao4EC2F0dHJpYnV0aW9uRHsidXNlcklkIjoiYjc2MDdiMjEtMTYzMS00MzVlLTkyZDgtZDZhNjUyODZmZjc3IiwiYWN0b3JUeXBlIjoidXNlciJ9hLvj//kCjwQwPHN1bW1hcnk+UHJvYmUgTzAxOiBQbGFpbiBzdW1tYXJ5IHRleHQ8L3N1bW1hcnk+hrvj//kCvwQLYXR0cmlidXRpb24EbnVsbIe74//5AvsDAwlwYXJhZ3JhcGgHALvj//kCwQQGBgC74//5AsIEC2F0dHJpYnV0aW9uRHsidXNlcklkIjoiYjc2MDdiMjEtMTYzMS00MzVlLTkyZDgtZDZhNjUyODZmZjc3IiwiYWN0b3JUeXBlIjoidXNlciJ9hLvj//kCwwQRQSBwYXJhZ3JhcGggd2l0aCCGu+P/+QLUBAthdHRyaWJ1dGlvbgRudWxshrvj//kC1QQCZW0Ce32Gu+P/+QLWBAthdHRyaWJ1dGlvbkR7InVzZXJJZCI6ImI3NjA3YjIxLTE2MzEtNDM1ZS05MmQ4LWQ2YTY1Mjg2ZmY3NyIsImFjdG9yVHlwZSI6InVzZXIifYS74//5AtcECGVtcGhhc2lzhrvj//kC3wQCZW0EbnVsbIa74//5AuAEC2F0dHJpYnV0aW9uBG51bGyGu+P/+QLhBAthdHRyaWJ1dGlvbkR7InVzZXJJZCI6ImI3NjA3YjIxLTE2MzEtNDM1ZS05MmQ4LWQ2YTY1Mjg2ZmY3NyIsImFjdG9yVHlwZSI6InVzZXIifYS74//5AuIEBSBhbmQghrvj//kC5wQLYXR0cmlidXRpb24EbnVsbIa74//5AugEBGxpbmtVeyJocmVmIjoiaHR0cHM6Ly9naXRodWIuY29tL25pY2tkZXJvYmVydGlzL29uZXRhc2tncmFwaC1saXZlLXNjcmF0Y2giLCJub0VtYmVkIjpudWxsfYa74//5AukEC2F0dHJpYnV0aW9uRHsidXNlcklkIjoiYjc2MDdiMjEtMTYzMS00MzVlLTkyZDgtZDZhNjUyODZmZjc3IiwiYWN0b3JUeXBlIjoidXNlciJ9hLvj//kC6gQGYSBsaW5rhrvj//kC8AQEbGluawRudWxshrvj//kC8QQLYXR0cmlidXRpb24EbnVsbIa74//5AvIEC2F0dHJpYnV0aW9uRHsidXNlcklkIjoiYjc2MDdiMjEtMTYzMS00MzVlLTkyZDgtZDZhNjUyODZmZjc3IiwiYWN0b3JUeXBlIjoidXNlciJ9hLvj//kC8wQOIGluIHByb2JlIE8wMS6Gu+P/+QKBBQthdHRyaWJ1dGlvbgRudWxsh7vj//kCwQQDCXBhcmFncmFwaAcAu+P/+QKDBQYGALvj//kChAULYXR0cmlidXRpb25EeyJ1c2VySWQiOiJiNzYwN2IyMS0xNjMxLTQzNWUtOTJkOC1kNmE2NTI4NmZmNzciLCJhY3RvclR5cGUiOiJ1c2VyIn2Eu+P/+QKFBRFFbmQgb2YgcHJvYmUgTzAxLoa74//5ApYFC2F0dHJpYnV0aW9uBG51bGyHu+P/+QKDBQMJcGFyYWdyYXBoBwC74//5ApgFBgYAu+P/+QKZBQthdHRyaWJ1dGlvbkR7InVzZXJJZCI6ImI3NjA3YjIxLTE2MzEtNDM1ZS05MmQ4LWQ2YTY1Mjg2ZmY3NyIsImFjdG9yVHlwZSI6InVzZXIifYS74//5ApoFCjwvZGV0YWlscz6Gu+P/+QKkBQthdHRyaWJ1dGlvbgRudWxsh7vj//kCmAUDCXBhcmFncmFwaAcAu+P/+QKmBQYGALvj//kCpwULYXR0cmlidXRpb25EeyJ1c2VySWQiOiJiNzYwN2IyMS0xNjMxLTQzNWUtOTJkOC1kNmE2NTI4NmZmNzciLCJhY3RvclR5cGUiOiJ1c2VyIn2Eu+P/+QKoBQ48ZGV0YWlscyBvcGVuPoa74//5ArYFC2F0dHJpYnV0aW9uBG51bGyHu+P/+QKnBQMKaGFyZF9icmVha4e74//5ArgFBgYAu+P/+QK5BQthdHRyaWJ1dGlvbkR7InVzZXJJZCI6ImI3NjA3YjIxLTE2MzEtNDM1ZS05MmQ4LWQ2YTY1Mjg2ZmY3NyIsImFjdG9yVHlwZSI6InVzZXIifYS74//5AroFOzxzdW1tYXJ5PlByb2JlIE8wMjogRW50aXRpZXMgJiA8dGFnPiBpbiBhIHN1bW1hcnk8L3N1bW1hcnk+hrvj//kC9QULYXR0cmlidXRpb24EbnVsbIe74//5AqYFAwlwYXJhZ3JhcGgHALvj//kC9wUGBgC74//5AvgFC2F0dHJpYnV0aW9uRHsidXNlcklkIjoiYjc2MDdiMjEtMTYzMS00MzVlLTkyZDgtZDZhNjUyODZmZjc3IiwiYWN0b3JUeXBlIjoidXNlciJ9hLvj//kC+QURQSBwYXJhZ3JhcGggd2l0aCCGu+P/+QKKBgthdHRyaWJ1dGlvbgRudWxshrvj//kCiwYCZW0Ce32Gu+P/+QKMBgthdHRyaWJ1dGlvbkR7InVzZXJJZCI6ImI3NjA3YjIxLTE2MzEtNDM1ZS05MmQ4LWQ2YTY1Mjg2ZmY3NyIsImFjdG9yVHlwZSI6InVzZXIifYS74//5Ao0GCGVtcGhhc2lzhrvj//kClQYCZW0EbnVsbIa74//5ApYGC2F0dHJpYnV0aW9uBG51bGyGu+P/+QKXBgthdHRyaWJ1dGlvbkR7InVzZXJJZCI6ImI3NjA3YjIxLTE2MzEtNDM1ZS05MmQ4LWQ2YTY1Mjg2ZmY3NyIsImFjdG9yVHlwZSI6InVzZXIifYS74//5ApgGBSBhbmQghrvj//kCnQYLYXR0cmlidXRpb24EbnVsbIa74//5Ap4GBGxpbmtVeyJocmVmIjoiaHR0cHM6Ly9naXRodWIuY29tL25pY2tkZXJvYmVydGlzL29uZXRhc2tncmFwaC1saXZlLXNjcmF0Y2giLCJub0VtYmVkIjpudWxsfYa74//5Ap8GC2F0dHJpYnV0aW9uRHsidXNlcklkIjoiYjc2MDdiMjEtMTYzMS00MzVlLTkyZDgtZDZhNjUyODZmZjc3IiwiYWN0b3JUeXBlIjoidXNlciJ9hLvj//kCoAYGYSBsaW5rhrvj//kCpgYEbGluawRudWxshrvj//kCpwYLYXR0cmlidXRpb24EbnVsbIa74//5AqgGC2F0dHJpYnV0aW9uRHsidXNlcklkIjoiYjc2MDdiMjEtMTYzMS00MzVlLTkyZDgtZDZhNjUyODZmZjc3IiwiYWN0b3JUeXBlIjoidXNlciJ9hLvj//kCqQYOIGluIHByb2JlIE8wMi6Gu+P/+QK3BgthdHRyaWJ1dGlvbgRudWxsh7vj//kC9wUDCXBhcmFncmFwaAcAu+P/+QK5BgYGALvj//kCugYLYXR0cmlidXRpb25EeyJ1c2VySWQiOiJiNzYwN2IyMS0xNjMxLTQzNWUtOTJkOC1kNmE2NTI4NmZmNzciLCJhY3RvclR5cGUiOiJ1c2VyIn2Eu+P/+QK7BhFFbmQgb2YgcHJvYmUgTzAyLoa74//5AswGC2F0dHJpYnV0aW9uBG51bGyHu+P/+QK5BgMJcGFyYWdyYXBoBwC74//5As4GBgYAu+P/+QLPBgthdHRyaWJ1dGlvbkR7InVzZXJJZCI6ImI3NjA3YjIxLTE2MzEtNDM1ZS05MmQ4LWQ2YTY1Mjg2ZmY3NyIsImFjdG9yVHlwZSI6InVzZXIifYS74//5AtAGCjwvZGV0YWlscz6Gu+P/+QLaBgthdHRyaWJ1dGlvbgRudWxsh7vj//kCzgYDCXBhcmFncmFwaAcAu+P/+QLcBgYGALvj//kC3QYLYXR0cmlidXRpb25EeyJ1c2VySWQiOiJiNzYwN2IyMS0xNjMxLTQzNWUtOTJkOC1kNmE2NTI4NmZmNzciLCJhY3RvclR5cGUiOiJ1c2VyIn2Eu+P/+QLeBg48ZGV0YWlscyBvcGVuPoa74//5AuwGC2F0dHJpYnV0aW9uBG51bGyHu+P/+QLdBgMKaGFyZF9icmVha4e74//5Au4GBgYAu+P/+QLvBgthdHRyaWJ1dGlvbkR7InVzZXJJZCI6ImI3NjA3YjIxLTE2MzEtNDM1ZS05MmQ4LWQ2YTY1Mjg2ZmY3NyIsImFjdG9yVHlwZSI6InVzZXIifYS74//5AvAGIDxzdW1tYXJ5PlByb2JlIE8wMzogSW5saW5lIGNvZGUghrvj//kCkAcLYXR0cmlidXRpb24EbnVsbIa74//5ApEHBGNvZGUCe32Gu+P/+QKSBwthdHRyaWJ1dGlvbkR7InVzZXJJZCI6ImI3NjA3YjIxLTE2MzEtNDM1ZS05MmQ4LWQ2YTY1Mjg2ZmY3NyIsImFjdG9yVHlwZSI6InVzZXIifYS74//5ApMHDmNvcHkgLS1kcnktcnVuhrvj//kCoQcEY29kZQRudWxshrvj//kCogcLYXR0cmlidXRpb24EbnVsbIa74//5AqMHC2F0dHJpYnV0aW9uRHsidXNlcklkIjoiYjc2MDdiMjEtMTYzMS00MzVlLTkyZDgtZDZhNjUyODZmZjc3IiwiYWN0b3JUeXBlIjoidXNlciJ9hLvj//kCpAcXIGluIGJhY2t0aWNrczwvc3VtbWFyeT6Gu+P/+QK7BwthdHRyaWJ1dGlvbgRudWxsh7vj//kC3AYDCXBhcmFncmFwaAcAu+P/+QK9BwYGALvj//kCvgcLYXR0cmlidXRpb25EeyJ1c2VySWQiOiJiNzYwN2IyMS0xNjMxLTQzNWUtOTJkOC1kNmE2NTI4NmZmNzciLCJhY3RvclR5cGUiOiJ1c2VyIn2Eu+P/+QK/BxFBIHBhcmFncmFwaCB3aXRoIIa74//5AtAHC2F0dHJpYnV0aW9uBG51bGyGu+P/+QLRBwJlbQJ7fYa74//5AtIHC2F0dHJpYnV0aW9uRHsidXNlcklkIjoiYjc2MDdiMjEtMTYzMS00MzVlLTkyZDgtZDZhNjUyODZmZjc3IiwiYWN0b3JUeXBlIjoidXNlciJ9hLvj//kC0wcIZW1waGFzaXOGu+P/+QLbBwJlbQRudWxshrvj//kC3AcLYXR0cmlidXRpb24EbnVsbIa74//5At0HC2F0dHJpYnV0aW9uRHsidXNlcklkIjoiYjc2MDdiMjEtMTYzMS00MzVlLTkyZDgtZDZhNjUyODZmZjc3IiwiYWN0b3JUeXBlIjoidXNlciJ9hLvj//kC3gcFIGFuZCCGu+P/+QLjBwthdHRyaWJ1dGlvbgRudWxshrvj//kC5AcEbGlua1V7ImhyZWYiOiJodHRwczovL2dpdGh1Yi5jb20vbmlja2Rlcm9iZXJ0aXMvb25ldGFza2dyYXBoLWxpdmUtc2NyYXRjaCIsIm5vRW1iZWQiOm51bGx9hrvj//kC5QcLYXR0cmlidXRpb25EeyJ1c2VySWQiOiJiNzYwN2IyMS0xNjMxLTQzNWUtOTJkOC1kNmE2NTI4NmZmNzciLCJhY3RvclR5cGUiOiJ1c2VyIn2Eu+P/+QLmBwZhIGxpbmuGu+P/+QLsBwRsaW5rBG51bGyGu+P/+QLtBwthdHRyaWJ1dGlvbgRudWxshrvj//kC7gcLYXR0cmlidXRpb25EeyJ1c2VySWQiOiJiNzYwN2IyMS0xNjMxLTQzNWUtOTJkOC1kNmE2NTI4NmZmNzciLCJhY3RvclR5cGUiOiJ1c2VyIn2Eu+P/+QLvBw4gaW4gcHJvYmUgTzAzLoa74//5Av0HC2F0dHJpYnV0aW9uBG51bGyHu+P/+QK9BwMJcGFyYWdyYXBoBwC74//5Av8HBgYAu+P/+QKACAthdHRyaWJ1dGlvbkR7InVzZXJJZCI6ImI3NjA3YjIxLTE2MzEtNDM1ZS05MmQ4LWQ2YTY1Mjg2ZmY3NyIsImFjdG9yVHlwZSI6InVzZXIifYS74//5AoEIEUVuZCBvZiBwcm9iZSBPMDMuhrvj//kCkggLYXR0cmlidXRpb24EbnVsbIe74//5Av8HAwlwYXJhZ3JhcGgHALvj//kClAgGBgC74//5ApUIC2F0dHJpYnV0aW9uRHsidXNlcklkIjoiYjc2MDdiMjEtMTYzMS00MzVlLTkyZDgtZDZhNjUyODZmZjc3IiwiYWN0b3JUeXBlIjoidXNlciJ9hLvj//kClggKPC9kZXRhaWxzPoa74//5AqAIC2F0dHJpYnV0aW9uBG51bGyHu+P/+QKUCAMJcGFyYWdyYXBoBwC74//5AqIIBgYAu+P/+QKjCAthdHRyaWJ1dGlvbkR7InVzZXJJZCI6ImI3NjA3YjIxLTE2MzEtNDM1ZS05MmQ4LWQ2YTY1Mjg2ZmY3NyIsImFjdG9yVHlwZSI6InVzZXIifYS74//5AqQIDjxkZXRhaWxzIG9wZW4+hrvj//kCsggLYXR0cmlidXRpb24EbnVsbIe74//5AqMIAwpoYXJkX2JyZWFrh7vj//kCtAgGBgC74//5ArUIC2F0dHJpYnV0aW9uRHsidXNlcklkIjoiYjc2MDdiMjEtMTYzMS00MzVlLTkyZDgtZDZhNjUyODZmZjc3IiwiYWN0b3JUeXBlIjoidXNlciJ9hLvj//kCtghNPHN1bW1hcnk+UHJvYmUgTzA0OiBJbmxpbmUgY29kZSA8Y29kZT5jb3B5IC0tZHJ5LXJ1bjwvY29kZT4gYXMgSFRNTDwvc3VtbWFyeT6Gu+P/+QKDCQthdHRyaWJ1dGlvbgRudWxsh7vj//kCoggDCXBhcmFncmFwaAcAu+P/+QKFCQYGALvj//kChgkLYXR0cmlidXRpb25EeyJ1c2VySWQiOiJiNzYwN2IyMS0xNjMxLTQzNWUtOTJkOC1kNmE2NTI4NmZmNzciLCJhY3RvclR5cGUiOiJ1c2VyIn2Eu+P/+QKHCRFBIHBhcmFncmFwaCB3aXRoIIa74//5ApgJC2F0dHJpYnV0aW9uBG51bGyGu+P/+QKZCQJlbQJ7fYa74//5ApoJC2F0dHJpYnV0aW9uRHsidXNlcklkIjoiYjc2MDdiMjEtMTYzMS00MzVlLTkyZDgtZDZhNjUyODZmZjc3IiwiYWN0b3JUeXBlIjoidXNlciJ9hLvj//kCmwkIZW1waGFzaXOGu+P/+QKjCQJlbQRudWxshrvj//kCpAkLYXR0cmlidXRpb24EbnVsbIa74//5AqUJC2F0dHJpYnV0aW9uRHsidXNlcklkIjoiYjc2MDdiMjEtMTYzMS00MzVlLTkyZDgtZDZhNjUyODZmZjc3IiwiYWN0b3JUeXBlIjoidXNlciJ9hLvj//kCpgkFIGFuZCCGu+P/+QKrCQthdHRyaWJ1dGlvbgRudWxshrvj//kCrAkEbGlua1V7ImhyZWYiOiJodHRwczovL2dpdGh1Yi5jb20vbmlja2Rlcm9iZXJ0aXMvb25ldGFza2dyYXBoLWxpdmUtc2NyYXRjaCIsIm5vRW1iZWQiOm51bGx9hrvj//kCrQkLYXR0cmlidXRpb25EeyJ1c2VySWQiOiJiNzYwN2IyMS0xNjMxLTQzNWUtOTJkOC1kNmE2NTI4NmZmNzciLCJhY3RvclR5cGUiOiJ1c2VyIn2Eu+P/+QKuCQZhIGxpbmuGu+P/+QK0CQRsaW5rBG51bGyGu+P/+QK1CQthdHRyaWJ1dGlvbgRudWxshrvj//kCtgkLYXR0cmlidXRpb25EeyJ1c2VySWQiOiJiNzYwN2IyMS0xNjMxLTQzNWUtOTJkOC1kNmE2NTI4NmZmNzciLCJhY3RvclR5cGUiOiJ1c2VyIn2Eu+P/+QK3CQ4gaW4gcHJvYmUgTzA0Loa74//5AsUJC2F0dHJpYnV0aW9uBG51bGyHu+P/+QKFCQMJcGFyYWdyYXBoBwC74//5AscJBgYAu+P/+QLICQthdHRyaWJ1dGlvbkR7InVzZXJJZCI6ImI3NjA3YjIxLTE2MzEtNDM1ZS05MmQ4LWQ2YTY1Mjg2ZmY3NyIsImFjdG9yVHlwZSI6InVzZXIifYS74//5AskJEUVuZCBvZiBwcm9iZSBPMDQuhrvj//kC2gkLYXR0cmlidXRpb24EbnVsbIe74//5AscJAwlwYXJhZ3JhcGgHALvj//kC3AkGBgC74//5At0JC2F0dHJpYnV0aW9uRHsidXNlcklkIjoiYjc2MDdiMjEtMTYzMS00MzVlLTkyZDgtZDZhNjUyODZmZjc3IiwiYWN0b3JUeXBlIjoidXNlciJ9hLvj//kC3gkKPC9kZXRhaWxzPoa74//5AugJC2F0dHJpYnV0aW9uBG51bGyHu+P/+QLcCQMJcGFyYWdyYXBoBwC74//5AuoJBgYAu+P/+QLrCQthdHRyaWJ1dGlvbkR7InVzZXJJZCI6ImI3NjA3YjIxLTE2MzEtNDM1ZS05MmQ4LWQ2YTY1Mjg2ZmY3NyIsImFjdG9yVHlwZSI6InVzZXIifYS74//5AuwJDjxkZXRhaWxzIG9wZW4+hrvj//kC+gkLYXR0cmlidXRpb24EbnVsbIe74//5AusJAwpoYXJkX2JyZWFrh7vj//kC/AkGBgC74//5Av0JC2F0dHJpYnV0aW9uRHsidXNlcklkIjoiYjc2MDdiMjEtMTYzMS00MzVlLTkyZDgtZDZhNjUyODZmZjc3IiwiYWN0b3JUeXBlIjoidXNlciJ9hLvj//kC/gkUPHN1bW1hcnk+UHJvYmUgTzA1OiCGu+P/+QKSCgthdHRyaWJ1dGlvbgRudWxshrvj//kCkwoGc3Ryb25nAnt9hrvj//kClAoLYXR0cmlidXRpb25EeyJ1c2VySWQiOiJiNzYwN2IyMS0xNjMxLTQzNWUtOTJkOC1kNmE2NTI4NmZmNzciLCJhY3RvclR5cGUiOiJ1c2VyIn2Eu+P/+QKVCgRCb2xkhrvj//kCmQoGc3Ryb25nBG51bGyGu+P/+QKaCgthdHRyaWJ1dGlvbgRudWxshrvj//kCmwoLYXR0cmlidXRpb25EeyJ1c2VySWQiOiJiNzYwN2IyMS0xNjMxLTQzNWUtOTJkOC1kNmE2NTI4NmZmNzciLCJhY3RvclR5cGUiOiJ1c2VyIn2Eu+P/+QKcChwgdGV4dCBpbiBhIHN1bW1hcnk8L3N1bW1hcnk+hrvj//kCuAoLYXR0cmlidXRpb24EbnVsbIe74//5AuoJAwlwYXJhZ3JhcGgHALvj//kCugoGBgC74//5ArsKC2F0dHJpYnV0aW9uRHsidXNlcklkIjoiYjc2MDdiMjEtMTYzMS00MzVlLTkyZDgtZDZhNjUyODZmZjc3IiwiYWN0b3JUeXBlIjoidXNlciJ9hLvj//kCvAoRQSBwYXJhZ3JhcGggd2l0aCCGu+P/+QLNCgthdHRyaWJ1dGlvbgRudWxshrvj//kCzgoCZW0Ce32Gu+P/+QLPCgthdHRyaWJ1dGlvbkR7InVzZXJJZCI6ImI3NjA3YjIxLTE2MzEtNDM1ZS05MmQ4LWQ2YTY1Mjg2ZmY3NyIsImFjdG9yVHlwZSI6InVzZXIifYS74//5AtAKCGVtcGhhc2lzhrvj//kC2AoCZW0EbnVsbIa74//5AtkKC2F0dHJpYnV0aW9uBG51bGyGu+P/+QLaCgthdHRyaWJ1dGlvbkR7InVzZXJJZCI6ImI3NjA3YjIxLTE2MzEtNDM1ZS05MmQ4LWQ2YTY1Mjg2ZmY3NyIsImFjdG9yVHlwZSI6InVzZXIifYS74//5AtsKBSBhbmQghrvj//kC4AoLYXR0cmlidXRpb24EbnVsbIa74//5AuEKBGxpbmtVeyJocmVmIjoiaHR0cHM6Ly9naXRodWIuY29tL25pY2tkZXJvYmVydGlzL29uZXRhc2tncmFwaC1saXZlLXNjcmF0Y2giLCJub0VtYmVkIjpudWxsfYa74//5AuIKC2F0dHJpYnV0aW9uRHsidXNlcklkIjoiYjc2MDdiMjEtMTYzMS00MzVlLTkyZDgtZDZhNjUyODZmZjc3IiwiYWN0b3JUeXBlIjoidXNlciJ9hLvj//kC4woGYSBsaW5rhrvj//kC6QoEbGluawRudWxshrvj//kC6goLYXR0cmlidXRpb24EbnVsbIa74//5AusKC2F0dHJpYnV0aW9uRHsidXNlcklkIjoiYjc2MDdiMjEtMTYzMS00MzVlLTkyZDgtZDZhNjUyODZmZjc3IiwiYWN0b3JUeXBlIjoidXNlciJ9hLvj//kC7AoOIGluIHByb2JlIE8wNS6Gu+P/+QL6CgthdHRyaWJ1dGlvbgRudWxsh7vj//kCugoDCXBhcmFncmFwaAcAu+P/+QL8CgYGALvj//kC/QoLYXR0cmlidXRpb25EeyJ1c2VySWQiOiJiNzYwN2IyMS0xNjMxLTQzNWUtOTJkOC1kNmE2NTI4NmZmNzciLCJhY3RvclR5cGUiOiJ1c2VyIn2Eu+P/+QL+ChFFbmQgb2YgcHJvYmUgTzA1Loa74//5Ao8LC2F0dHJpYnV0aW9uBG51bGyHu+P/+QL8CgMJcGFyYWdyYXBoBwC74//5ApELBgYAu+P/+QKSCwthdHRyaWJ1dGlvbkR7InVzZXJJZCI6ImI3NjA3YjIxLTE2MzEtNDM1ZS05MmQ4LWQ2YTY1Mjg2ZmY3NyIsImFjdG9yVHlwZSI6InVzZXIifYS74//5ApMLCjwvZGV0YWlscz6Gu+P/+QKdCwthdHRyaWJ1dGlvbgRudWxsh7vj//kCkQsDCXBhcmFncmFwaAcAu+P/+QKfCwYGALvj//kCoAsLYXR0cmlidXRpb25EeyJ1c2VySWQiOiJiNzYwN2IyMS0xNjMxLTQzNWUtOTJkOC1kNmE2NTI4NmZmNzciLCJhY3RvclR5cGUiOiJ1c2VyIn2Eu+P/+QKhCw48ZGV0YWlscyBvcGVuPoa74//5Aq8LC2F0dHJpYnV0aW9uBG51bGyHu+P/+QKgCwMKaGFyZF9icmVha4e74//5ArELBgYAu+P/+QKyCwthdHRyaWJ1dGlvbkR7InVzZXJJZCI6ImI3NjA3YjIxLTE2MzEtNDM1ZS05MmQ4LWQ2YTY1Mjg2ZmY3NyIsImFjdG9yVHlwZSI6InVzZXIifYS74//5ArMLOzxzdW1tYXJ5PlByb2JlIE8wNjogPHN0cm9uZz5Cb2xkPC9zdHJvbmc+IGFzIEhUTUw8L3N1bW1hcnk+hrvj//kC7gsLYXR0cmlidXRpb24EbnVsbIe74//5Ap8LAwlwYXJhZ3JhcGgHALvj//kC8AsGBgC74//5AvELC2F0dHJpYnV0aW9uRHsidXNlcklkIjoiYjc2MDdiMjEtMTYzMS00MzVlLTkyZDgtZDZhNjUyODZmZjc3IiwiYWN0b3JUeXBlIjoidXNlciJ9hLvj//kC8gsRQSBwYXJhZ3JhcGggd2l0aCCGu+P/+QKDDAthdHRyaWJ1dGlvbgRudWxshrvj//kChAwCZW0Ce32Gu+P/+QKFDAthdHRyaWJ1dGlvbkR7InVzZXJJZCI6ImI3NjA3YjIxLTE2MzEtNDM1ZS05MmQ4LWQ2YTY1Mjg2ZmY3NyIsImFjdG9yVHlwZSI6InVzZXIifYS74//5AoYMCGVtcGhhc2lzhrvj//kCjgwCZW0EbnVsbIa74//5Ao8MC2F0dHJpYnV0aW9uBG51bGyGu+P/+QKQDAthdHRyaWJ1dGlvbkR7InVzZXJJZCI6ImI3NjA3YjIxLTE2MzEtNDM1ZS05MmQ4LWQ2YTY1Mjg2ZmY3NyIsImFjdG9yVHlwZSI6InVzZXIifYS74//5ApEMBSBhbmQghrvj//kClgwLYXR0cmlidXRpb24EbnVsbIa74//5ApcMBGxpbmtVeyJocmVmIjoiaHR0cHM6Ly9naXRodWIuY29tL25pY2tkZXJvYmVydGlzL29uZXRhc2tncmFwaC1saXZlLXNjcmF0Y2giLCJub0VtYmVkIjpudWxsfYa74//5ApgMC2F0dHJpYnV0aW9uRHsidXNlcklkIjoiYjc2MDdiMjEtMTYzMS00MzVlLTkyZDgtZDZhNjUyODZmZjc3IiwiYWN0b3JUeXBlIjoidXNlciJ9hLvj//kCmQwGYSBsaW5rhrvj//kCnwwEbGluawRudWxshrvj//kCoAwLYXR0cmlidXRpb24EbnVsbIa74//5AqEMC2F0dHJpYnV0aW9uRHsidXNlcklkIjoiYjc2MDdiMjEtMTYzMS00MzVlLTkyZDgtZDZhNjUyODZmZjc3IiwiYWN0b3JUeXBlIjoidXNlciJ9hLvj//kCogwOIGluIHByb2JlIE8wNi6Gu+P/+QKwDAthdHRyaWJ1dGlvbgRudWxsh7vj//kC8AsDCXBhcmFncmFwaAcAu+P/+QKyDAYGALvj//kCswwLYXR0cmlidXRpb25EeyJ1c2VySWQiOiJiNzYwN2IyMS0xNjMxLTQzNWUtOTJkOC1kNmE2NTI4NmZmNzciLCJhY3RvclR5cGUiOiJ1c2VyIn2Eu+P/+QK0DBFFbmQgb2YgcHJvYmUgTzA2Loa74//5AsUMC2F0dHJpYnV0aW9uBG51bGyHu+P/+QKyDAMJcGFyYWdyYXBoBwC74//5AscMBgYAu+P/+QLIDAthdHRyaWJ1dGlvbkR7InVzZXJJZCI6ImI3NjA3YjIxLTE2MzEtNDM1ZS05MmQ4LWQ2YTY1Mjg2ZmY3NyIsImFjdG9yVHlwZSI6InVzZXIifYS74//5AskMCjwvZGV0YWlscz6Gu+P/+QLTDAthdHRyaWJ1dGlvbgRudWxsh7vj//kCxwwDCXBhcmFncmFwaAcAu+P/+QLVDAYGALvj//kC1gwLYXR0cmlidXRpb25EeyJ1c2VySWQiOiJiNzYwN2IyMS0xNjMxLTQzNWUtOTJkOC1kNmE2NTI4NmZmNzciLCJhY3RvclR5cGUiOiJ1c2VyIn2Eu+P/+QLXDA48ZGV0YWlscyBvcGVuPoa74//5AuUMC2F0dHJpYnV0aW9uBG51bGyHu+P/+QLWDAMKaGFyZF9icmVha4e74//5AucMBgYAu+P/+QLoDAthdHRyaWJ1dGlvbkR7InVzZXJJZCI6ImI3NjA3YjIxLTE2MzEtNDM1ZS05MmQ4LWQ2YTY1Mjg2ZmY3NyIsImFjdG9yVHlwZSI6InVzZXIifYS74//5AukMMDxzdW1tYXJ5PlByb2JlIE8wNzogQm9keSDigJQgcGFyYWdyYXBoPC9zdW1tYXJ5Poa74//5ApcNC2F0dHJpYnV0aW9uBG51bGyHu+P/+QLVDAMJcGFyYWdyYXBoBwC74//5ApkNBgYAu+P/+QKaDQthdHRyaWJ1dGlvbkR7InVzZXJJZCI6ImI3NjA3YjIxLTE2MzEtNDM1ZS05MmQ4LWQ2YTY1Mjg2ZmY3NyIsImFjdG9yVHlwZSI6InVzZXIifYS74//5ApsNEUEgcGFyYWdyYXBoIHdpdGgghrvj//kCrA0LYXR0cmlidXRpb24EbnVsbIa74//5Aq0NAmVtAnt9hrvj//kCrg0LYXR0cmlidXRpb25EeyJ1c2VySWQiOiJiNzYwN2IyMS0xNjMxLTQzNWUtOTJkOC1kNmE2NTI4NmZmNzciLCJhY3RvclR5cGUiOiJ1c2VyIn2Eu+P/+QKvDQhlbXBoYXNpc4a74//5ArcNAmVtBG51bGyGu+P/+QK4DQthdHRyaWJ1dGlvbgRudWxshrvj//kCuQ0LYXR0cmlidXRpb25EeyJ1c2VySWQiOiJiNzYwN2IyMS0xNjMxLTQzNWUtOTJkOC1kNmE2NTI4NmZmNzciLCJhY3RvclR5cGUiOiJ1c2VyIn2Eu+P/+QK6DQUgYW5kIIa74//5Ar8NC2F0dHJpYnV0aW9uBG51bGyGu+P/+QLADQRsaW5rVXsiaHJlZiI6Imh0dHBzOi8vZ2l0aHViLmNvbS9uaWNrZGVyb2JlcnRpcy9vbmV0YXNrZ3JhcGgtbGl2ZS1zY3JhdGNoIiwibm9FbWJlZCI6bnVsbH2Gu+P/+QLBDQthdHRyaWJ1dGlvbkR7InVzZXJJZCI6ImI3NjA3YjIxLTE2MzEtNDM1ZS05MmQ4LWQ2YTY1Mjg2ZmY3NyIsImFjdG9yVHlwZSI6InVzZXIifYS74//5AsINBmEgbGlua4a74//5AsgNBGxpbmsEbnVsbIa74//5AskNC2F0dHJpYnV0aW9uBG51bGyGu+P/+QLKDQthdHRyaWJ1dGlvbkR7InVzZXJJZCI6ImI3NjA3YjIxLTE2MzEtNDM1ZS05MmQ4LWQ2YTY1Mjg2ZmY3NyIsImFjdG9yVHlwZSI6InVzZXIifYS74//5AssNDiBpbiBwcm9iZSBPMDcuhrvj//kC2Q0LYXR0cmlidXRpb24EbnVsbIe74//5ApkNAwlwYXJhZ3JhcGgHALvj//kC2w0GBgC74//5AtwNC2F0dHJpYnV0aW9uRHsidXNlcklkIjoiYjc2MDdiMjEtMTYzMS00MzVlLTkyZDgtZDZhNjUyODZmZjc3IiwiYWN0b3JUeXBlIjoidXNlciJ9hLvj//kC3Q0RRW5kIG9mIHByb2JlIE8wNy6Gu+P/+QLuDQthdHRyaWJ1dGlvbgRudWxsh7vj//kC2w0DCXBhcmFncmFwaAcAu+P/+QLwDQYGALvj//kC8Q0LYXR0cmlidXRpb25EeyJ1c2VySWQiOiJiNzYwN2IyMS0xNjMxLTQzNWUtOTJkOC1kNmE2NTI4NmZmNzciLCJhY3RvclR5cGUiOiJ1c2VyIn2Eu+P/+QLyDQo8L2RldGFpbHM+hrvj//kC/A0LYXR0cmlidXRpb24EbnVsbIe74//5AvANAwlwYXJhZ3JhcGgHALvj//kC/g0GBgC74//5Av8NC2F0dHJpYnV0aW9uRHsidXNlcklkIjoiYjc2MDdiMjEtMTYzMS00MzVlLTkyZDgtZDZhNjUyODZmZjc3IiwiYWN0b3JUeXBlIjoidXNlciJ9hLvj//kCgA4OPGRldGFpbHMgb3Blbj6Gu+P/+QKODgthdHRyaWJ1dGlvbgRudWxsh7vj//kC/w0DCmhhcmRfYnJlYWuHu+P/+QKQDgYGALvj//kCkQ4LYXR0cmlidXRpb25EeyJ1c2VySWQiOiJiNzYwN2IyMS0xNjMxLTQzNWUtOTJkOC1kNmE2NTI4NmZmNzciLCJhY3RvclR5cGUiOiJ1c2VyIn2Eu+P/+QKSDiw8c3VtbWFyeT5Qcm9iZSBPMDg6IEJvZHkg4oCUIGxpc3RzPC9zdW1tYXJ5Poa74//5ArwOC2F0dHJpYnV0aW9uBG51bGyHu+P/+QL+DQMLYnVsbGV0X2xpc3QHALvj//kCvg4DCWxpc3RfaXRlbQcAu+P/+QK/DgMJcGFyYWdyYXBoBwC74//5AsAOBgYAu+P/+QLBDgthdHRyaWJ1dGlvbkR7InVzZXJJZCI6ImI3NjA3YjIxLTE2MzEtNDM1ZS05MmQ4LWQ2YTY1Mjg2ZmY3NyIsImFjdG9yVHlwZSI6InVzZXIifYS74//5AsIODEZpcnN0IGJ1bGxldIa74//5As4OC2F0dHJpYnV0aW9uBG51bGyHu+P/+QK/DgMJbGlzdF9pdGVtBwC74//5AtAOAwlwYXJhZ3JhcGgHALvj//kC0Q4GBgC74//5AtIOC2F0dHJpYnV0aW9uRHsidXNlcklkIjoiYjc2MDdiMjEtMTYzMS00MzVlLTkyZDgtZDZhNjUyODZmZjc3IiwiYWN0b3JUeXBlIjoidXNlciJ9hLvj//kC0w4NU2Vjb25kIGJ1bGxldIa74//5AuAOC2F0dHJpYnV0aW9uBG51bGyHu+P/+QK+DgMMb3JkZXJlZF9saXN0BwC74//5AuIOAwlsaXN0X2l0ZW0HALvj//kC4w4DCXBhcmFncmFwaAcAu+P/+QLkDgYGALvj//kC5Q4LYXR0cmlidXRpb25EeyJ1c2VySWQiOiJiNzYwN2IyMS0xNjMxLTQzNWUtOTJkOC1kNmE2NTI4NmZmNzciLCJhY3RvclR5cGUiOiJ1c2VyIn2Eu+P/+QLmDgpGaXJzdCBzdGVwhrvj//kC8A4LYXR0cmlidXRpb24EbnVsbIe74//5AuMOAwlsaXN0X2l0ZW0HALvj//kC8g4DCXBhcmFncmFwaAcAu+P/+QLzDgYGALvj//kC9A4LYXR0cmlidXRpb25EeyJ1c2VySWQiOiJiNzYwN2IyMS0xNjMxLTQzNWUtOTJkOC1kNmE2NTI4NmZmNzciLCJhY3RvclR5cGUiOiJ1c2VyIn2Eu+P/+QL1DgtTZWNvbmQgc3RlcIa74//5AoAPC2F0dHJpYnV0aW9uBG51bGwoALvj//kC4g4Fb3JkZXIBfQGHu+P/+QLiDgMJcGFyYWdyYXBoBwC74//5AoMPBgYAu+P/+QKEDwthdHRyaWJ1dGlvbkR7InVzZXJJZCI6ImI3NjA3YjIxLTE2MzEtNDM1ZS05MmQ4LWQ2YTY1Mjg2ZmY3NyIsImFjdG9yVHlwZSI6InVzZXIifYS74//5AoUPEUVuZCBvZiBwcm9iZSBPMDguhrvj//kClg8LYXR0cmlidXRpb24EbnVsbIe74//5AoMPAwlwYXJhZ3JhcGgHALvj//kCmA8GBgC74//5ApkPC2F0dHJpYnV0aW9uRHsidXNlcklkIjoiYjc2MDdiMjEtMTYzMS00MzVlLTkyZDgtZDZhNjUyODZmZjc3IiwiYWN0b3JUeXBlIjoidXNlciJ9hLvj//kCmg8KPC9kZXRhaWxzPoa74//5AqQPC2F0dHJpYnV0aW9uBG51bGyHu+P/+QKYDwMJcGFyYWdyYXBoBwC74//5AqYPBgYAu+P/+QKnDwthdHRyaWJ1dGlvbkR7InVzZXJJZCI6ImI3NjA3YjIxLTE2MzEtNDM1ZS05MmQ4LWQ2YTY1Mjg2ZmY3NyIsImFjdG9yVHlwZSI6InVzZXIifYS74//5AqgPDjxkZXRhaWxzIG9wZW4+hrvj//kCtg8LYXR0cmlidXRpb24EbnVsbIe74//5AqcPAwpoYXJkX2JyZWFrh7vj//kCuA8GBgC74//5ArkPC2F0dHJpYnV0aW9uRHsidXNlcklkIjoiYjc2MDdiMjEtMTYzMS00MzVlLTkyZDgtZDZhNjUyODZmZjc3IiwiYWN0b3JUeXBlIjoidXNlciJ9hLvj//kCug8vPHN1bW1hcnk+UHJvYmUgTzA5OiBCb2R5IOKAlCBoZWFkaW5nczwvc3VtbWFyeT6Gu+P/+QLnDwthdHRyaWJ1dGlvbgRudWxsh7vj//kCpg8DB2hlYWRpbmcHALvj//kC6Q8GBgC74//5AuoPC2F0dHJpYnV0aW9uRHsidXNlcklkIjoiYjc2MDdiMjEtMTYzMS00MzVlLTkyZDgtZDZhNjUyODZmZjc3IiwiYWN0b3JUeXBlIjoidXNlciJ9hLvj//kC6w8iQSB0aGlyZC1sZXZlbCBoZWFkaW5nIGluIHByb2JlIE8wOYa74//5Ao0QC2F0dHJpYnV0aW9uBG51bGwoALvj//kC6Q8FbGV2ZWwBfQMoALvj//kC6Q8CaWQBdyRjNmY2YjRjYi05NTM3LTRjMmUtOGYzYS00MTA4YjBhMDc0ZjeHu+P/+QLpDwMJcGFyYWdyYXBoBwC74//5ApEQBgYAu+P/+QKSEAthdHRyaWJ1dGlvbkR7InVzZXJJZCI6ImI3NjA3YjIxLTE2MzEtNDM1ZS05MmQ4LWQ2YTY1Mjg2ZmY3NyIsImFjdG9yVHlwZSI6InVzZXIifYS74//5ApMQI1RleHQgdW5kZXIgdGhlIHRoaXJkLWxldmVsIGhlYWRpbmcuhrvj//kCthALYXR0cmlidXRpb24EbnVsbIe74//5ApEQAwdoZWFkaW5nBwC74//5ArgQBgYAu+P/+QK5EAthdHRyaWJ1dGlvbkR7InVzZXJJZCI6ImI3NjA3YjIxLTE2MzEtNDM1ZS05MmQ4LWQ2YTY1Mjg2ZmY3NyIsImFjdG9yVHlwZSI6InVzZXIifYS74//5AroQI0EgZm91cnRoLWxldmVsIGhlYWRpbmcgaW4gcHJvYmUgTzA5hrvj//kC3RALYXR0cmlidXRpb24EbnVsbCgAu+P/+QK4EAVsZXZlbAF9BCgAu+P/+QK4EAJpZAF3JDNhN2QzNjlkLTMxNzUtNDdhOC05ZDAzLTYzMWVkNGEzOWUwYoe74//5ArgQAwlwYXJhZ3JhcGgHALvj//kC4RAGBgC74//5AuIQC2F0dHJpYnV0aW9uRHsidXNlcklkIjoiYjc2MDdiMjEtMTYzMS00MzVlLTkyZDgtZDZhNjUyODZmZjc3IiwiYWN0b3JUeXBlIjoidXNlciJ9hLvj//kC4xAkVGV4dCB1bmRlciB0aGUgZm91cnRoLWxldmVsIGhlYWRpbmcuhrvj//kChxELYXR0cmlidXRpb24EbnVsbIe74//5AuEQAwlwYXJhZ3JhcGgHALvj//kCiREGBgC74//5AooRC2F0dHJpYnV0aW9uRHsidXNlcklkIjoiYjc2MDdiMjEtMTYzMS00MzVlLTkyZDgtZDZhNjUyODZmZjc3IiwiYWN0b3JUeXBlIjoidXNlciJ9hLvj//kCixERRW5kIG9mIHByb2JlIE8wOS6Gu+P/+QKcEQthdHRyaWJ1dGlvbgRudWxsh7vj//kCiREDCXBhcmFncmFwaAcAu+P/+QKeEQYGALvj//kCnxELYXR0cmlidXRpb25EeyJ1c2VySWQiOiJiNzYwN2IyMS0xNjMxLTQzNWUtOTJkOC1kNmE2NTI4NmZmNzciLCJhY3RvclR5cGUiOiJ1c2VyIn2Eu+P/+QKgEQo8L2RldGFpbHM+hrvj//kCqhELYXR0cmlidXRpb24EbnVsbIe74//5Ap4RAwlwYXJhZ3JhcGgHALvj//kCrBEGBgC74//5Aq0RC2F0dHJpYnV0aW9uRHsidXNlcklkIjoiYjc2MDdiMjEtMTYzMS00MzVlLTkyZDgtZDZhNjUyODZmZjc3IiwiYWN0b3JUeXBlIjoidXNlciJ9hLvj//kCrhEOPGRldGFpbHMgb3Blbj6Gu+P/+QK8EQthdHRyaWJ1dGlvbgRudWxsh7vj//kCrREDCmhhcmRfYnJlYWuHu+P/+QK+EQYGALvj//kCvxELYXR0cmlidXRpb25EeyJ1c2VySWQiOiJiNzYwN2IyMS0xNjMxLTQzNWUtOTJkOC1kNmE2NTI4NmZmNzciLCJhY3RvclR5cGUiOiJ1c2VyIn2Eu+P/+QLAETI8c3VtbWFyeT5Qcm9iZSBPMTA6IEJvZHkg4oCUIGZlbmNlZCBjb2RlPC9zdW1tYXJ5Poa74//5AvARC2F0dHJpYnV0aW9uBG51bGyHu+P/+QKsEQMKY29kZV9ibG9jawcAu+P/+QLyEQYGALvj//kC8xELYXR0cmlidXRpb25EeyJ1c2VySWQiOiJiNzYwN2IyMS0xNjMxLTQzNWUtOTJkOC1kNmE2NTI4NmZmNzciLCJhY3RvclR5cGUiOiJ1c2VyIn2Eu+P/+QL0ER1kZWYgcHJvYmUoKToKICAgIHJldHVybiAiTzEwIoa74//5ApESC2F0dHJpYnV0aW9uBG51bGwoALvj//kC8hEIbGFuZ3VhZ2UBdwZweXRob24oALvj//kC8hECaWQBdyQzNzYzNjVkNi0zMDYzLTRkNGMtYjhlNC00OWYyMzk4OGIyZmWHu+P/+QLyEQMJcGFyYWdyYXBoBwC74//5ApUSBgYAu+P/+QKWEgthdHRyaWJ1dGlvbkR7InVzZXJJZCI6ImI3NjA3YjIxLTE2MzEtNDM1ZS05MmQ4LWQ2YTY1Mjg2ZmY3NyIsImFjdG9yVHlwZSI6InVzZXIifYS74//5ApcSEUVuZCBvZiBwcm9iZSBPMTAuhrvj//kCqBILYXR0cmlidXRpb24EbnVsbIe74//5ApUSAwlwYXJhZ3JhcGgHALvj//kCqhIGBgC74//5AqsSC2F0dHJpYnV0aW9uRHsidXNlcklkIjoiYjc2MDdiMjEtMTYzMS00MzVlLTkyZDgtZDZhNjUyODZmZjc3IiwiYWN0b3JUeXBlIjoidXNlciJ9hLvj//kCrBIKPC9kZXRhaWxzPoa74//5ArYSC2F0dHJpYnV0aW9uBG51bGyHu+P/+QKqEgMJcGFyYWdyYXBoBwC74//5ArgSBgYAu+P/+QK5EgthdHRyaWJ1dGlvbkR7InVzZXJJZCI6ImI3NjA3YjIxLTE2MzEtNDM1ZS05MmQ4LWQ2YTY1Mjg2ZmY3NyIsImFjdG9yVHlwZSI6InVzZXIifYS74//5AroSDjxkZXRhaWxzIG9wZW4+hrvj//kCyBILYXR0cmlidXRpb24EbnVsbIe74//5ArkSAwpoYXJkX2JyZWFrh7vj//kCyhIGBgC74//5AssSC2F0dHJpYnV0aW9uRHsidXNlcklkIjoiYjc2MDdiMjEtMTYzMS00MzVlLTkyZDgtZDZhNjUyODZmZjc3IiwiYWN0b3JUeXBlIjoidXNlciJ9hLvj//kCzBIsPHN1bW1hcnk+UHJvYmUgTzExOiBCb2R5IOKAlCBpbWFnZTwvc3VtbWFyeT6Gu+P/+QL2EgthdHRyaWJ1dGlvbgRudWxsh7vj//kCuBIDBWltYWdlKAC74//5AvgSC3VwbG9hZFN0YXRlAXcIZmluaXNoZWQoALvj//kC+BIDc3JjAXeJAWh0dHBzOi8vdXBsb2Fkcy5saW5lYXIuYXBwL2Q4YjRhNGMzLTVmZWEtNDU2OC05ZmRjLWUwOGI3YjhhYjg0Ni9jOGRiNGEzMy01Zjk1LTQ5MzgtYWY2NS0xNzNkYTA3NGVhYWIvMzNhODhkYTktN2I0Ny00MmNhLWI2YTYtNDg3OWZiOGJhNzUyKAC74//5AvgSA2FsdAF3ElByb2JlIGltYWdlIGluIE8xMSgAu+P/+QL4EhJjb250ZW50QXR0cmlidXRpb24BdgIGdXNlcklkdyRiNzYwN2IyMS0xNjMxLTQzNWUtOTJkOC1kNmE2NTI4NmZmNzcJYWN0b3JUeXBldwR1c2Vyh7vj//kC+BIDCXBhcmFncmFwaAcAu+P/+QL9EgYGALvj//kC/hILYXR0cmlidXRpb25EeyJ1c2VySWQiOiJiNzYwN2IyMS0xNjMxLTQzNWUtOTJkOC1kNmE2NTI4NmZmNzciLCJhY3RvclR5cGUiOiJ1c2VyIn2Eu+P/+QL/EhFFbmQgb2YgcHJvYmUgTzExLoa74//5ApATC2F0dHJpYnV0aW9uBG51bGyHu+P/+QL9EgMJcGFyYWdyYXBoBwC74//5ApITBgYAu+P/+QKTEwthdHRyaWJ1dGlvbkR7InVzZXJJZCI6ImI3NjA3YjIxLTE2MzEtNDM1ZS05MmQ4LWQ2YTY1Mjg2ZmY3NyIsImFjdG9yVHlwZSI6InVzZXIifYS74//5ApQTCjwvZGV0YWlscz6Gu+P/+QKeEwthdHRyaWJ1dGlvbgRudWxsh7vj//kCkhMDCXBhcmFncmFwaAcAu+P/+QKgEwYGALvj//kCoRMLYXR0cmlidXRpb25EeyJ1c2VySWQiOiJiNzYwN2IyMS0xNjMxLTQzNWUtOTJkOC1kNmE2NTI4NmZmNzciLCJhY3RvclR5cGUiOiJ1c2VyIn2Eu+P/+QKiEw48ZGV0YWlscyBvcGVuPoa74//5ArATC2F0dHJpYnV0aW9uBG51bGyHu+P/+QKhEwMKaGFyZF9icmVha4e74//5ArITBgYAu+P/+QKzEwthdHRyaWJ1dGlvbkR7InVzZXJJZCI6ImI3NjA3YjIxLTE2MzEtNDM1ZS05MmQ4LWQ2YTY1Mjg2ZmY3NyIsImFjdG9yVHlwZSI6InVzZXIifYS74//5ArQTLDxzdW1tYXJ5PlByb2JlIE8xMjogQm9keSDigJQgdGFibGU8L3N1bW1hcnk+hrvj//kC3hMLYXR0cmlidXRpb24EbnVsbIe74//5AqATAwV0YWJsZQcAu+P/+QLgEwMJdGFibGVfcm93BwC74//5AuETAwx0YWJsZV9oZWFkZXIHALvj//kC4hMDCXBhcmFncmFwaAcAu+P/+QLjEwYGALvj//kC5BMLYXR0cmlidXRpb25EeyJ1c2VySWQiOiJiNzYwN2IyMS0xNjMxLTQzNWUtOTJkOC1kNmE2NTI4NmZmNzciLCJhY3RvclR5cGUiOiJ1c2VyIn2Eu+P/+QLlEwZDb2x1bW6Gu+P/+QLrEwthdHRyaWJ1dGlvbgRudWxsKAC74//5AuITB2NvbHNwYW4BfQEoALvj//kC4hMHcm93c3BhbgF9AYe74//5AuITAwx0YWJsZV9oZWFkZXIHALvj//kC7xMDCXBhcmFncmFwaAcAu+P/+QLwEwYGALvj//kC8RMLYXR0cmlidXRpb25EeyJ1c2VySWQiOiJiNzYwN2IyMS0xNjMxLTQzNWUtOTJkOC1kNmE2NTI4NmZmNzciLCJhY3RvclR5cGUiOiJ1c2VyIn2Eu+P/+QLyEwVWYWx1ZYa74//5AvcTC2F0dHJpYnV0aW9uBG51bGwoALvj//kC7xMHY29sc3BhbgF9ASgAu+P/+QLvEwdyb3dzcGFuAX0Bh7vj//kC4RMDCXRhYmxlX3JvdwcAu+P/+QL7EwMKdGFibGVfY2VsbAcAu+P/+QL8EwMJcGFyYWdyYXBoBwC74//5Av0TBgYAu+P/+QL+EwthdHRyaWJ1dGlvbkR7InVzZXJJZCI6ImI3NjA3YjIxLTE2MzEtNDM1ZS05MmQ4LWQ2YTY1Mjg2ZmY3NyIsImFjdG9yVHlwZSI6InVzZXIifYS74//5Av8TBGZvcm2Gu+P/+QKDFAthdHRyaWJ1dGlvbgRudWxsKAC74//5AvwTB2NvbHNwYW4BfQEoALvj//kC/BMHcm93c3BhbgF9AYe74//5AvwTAwp0YWJsZV9jZWxsBwC74//5AocUAwlwYXJhZ3JhcGgHALvj//kCiBQGBgC74//5AokUC2F0dHJpYnV0aW9uRHsidXNlcklkIjoiYjc2MDdiMjEtMTYzMS00MzVlLTkyZDgtZDZhNjUyODZmZjc3IiwiYWN0b3JUeXBlIjoidXNlciJ9hLvj//kCihQMZGV0YWlscy1vcGVuhrvj//kClhQLYXR0cmlidXRpb24EbnVsbCgAu+P/+QKHFAdjb2xzcGFuAX0BKAC74//5AocUB3Jvd3NwYW4BfQGHu+P/+QL7EwMJdGFibGVfcm93BwC74//5ApoUAwp0YWJsZV9jZWxsBwC74//5ApsUAwlwYXJhZ3JhcGgHALvj//kCnBQGBgC74//5Ap0UC2F0dHJpYnV0aW9uRHsidXNlcklkIjoiYjc2MDdiMjEtMTYzMS00MzVlLTkyZDgtZDZhNjUyODZmZjc3IiwiYWN0b3JUeXBlIjoidXNlciJ9hLvj//kCnhQFcHJvYmWGu+P/+QKjFAthdHRyaWJ1dGlvbgRudWxsKAC74//5ApsUB2NvbHNwYW4BfQEoALvj//kCmxQHcm93c3BhbgF9AYe74//5ApsUAwp0YWJsZV9jZWxsBwC74//5AqcUAwlwYXJhZ3JhcGgHALvj//kCqBQGBgC74//5AqkUC2F0dHJpYnV0aW9uRHsidXNlcklkIjoiYjc2MDdiMjEtMTYzMS00MzVlLTkyZDgtZDZhNjUyODZmZjc3IiwiYWN0b3JUeXBlIjoidXNlciJ9hLvj//kCqhQDTzEyhrvj//kCrRQLYXR0cmlidXRpb24EbnVsbCgAu+P/+QKnFAdjb2xzcGFuAX0BKAC74//5AqcUB3Jvd3NwYW4BfQEoALvj//kC4BMGc2l6aW5nAXcDZml0h7vj//kC4BMDCXBhcmFncmFwaAcAu+P/+QKyFAYGALvj//kCsxQLYXR0cmlidXRpb25EeyJ1c2VySWQiOiJiNzYwN2IyMS0xNjMxLTQzNWUtOTJkOC1kNmE2NTI4NmZmNzciLCJhY3RvclR5cGUiOiJ1c2VyIn2Eu+P/+QK0FBFFbmQgb2YgcHJvYmUgTzEyLoa74//5AsUUC2F0dHJpYnV0aW9uBG51bGyHu+P/+QKyFAMJcGFyYWdyYXBoBwC74//5AscUBgYAu+P/+QLIFAthdHRyaWJ1dGlvbkR7InVzZXJJZCI6ImI3NjA3YjIxLTE2MzEtNDM1ZS05MmQ4LWQ2YTY1Mjg2ZmY3NyIsImFjdG9yVHlwZSI6InVzZXIifYS74//5AskUCjwvZGV0YWlscz6Gu+P/+QLTFAthdHRyaWJ1dGlvbgRudWxsh7vj//kCxxQDCXBhcmFncmFwaAcAu+P/+QLVFAYGALvj//kC1hQLYXR0cmlidXRpb25EeyJ1c2VySWQiOiJiNzYwN2IyMS0xNjMxLTQzNWUtOTJkOC1kNmE2NTI4NmZmNzciLCJhY3RvclR5cGUiOiJ1c2VyIn2Eu+P/+QLXFA48ZGV0YWlscyBvcGVuPoa74//5AuUUC2F0dHJpYnV0aW9uBG51bGyHu+P/+QLWFAMKaGFyZF9icmVha4e74//5AucUBgYAu+P/+QLoFAthdHRyaWJ1dGlvbkR7InVzZXJJZCI6ImI3NjA3YjIxLTE2MzEtNDM1ZS05MmQ4LWQ2YTY1Mjg2ZmY3NyIsImFjdG9yVHlwZSI6InVzZXIifYS74//5AukULTxzdW1tYXJ5PlByb2JlIE8xMzogQm9keSDigJQgbmVzdGVkPC9zdW1tYXJ5Poa74//5ApQVC2F0dHJpYnV0aW9uBG51bGyHu+P/+QLVFAMJcGFyYWdyYXBoBwC74//5ApYVBgYAu+P/+QKXFQthdHRyaWJ1dGlvbkR7InVzZXJJZCI6ImI3NjA3YjIxLTE2MzEtNDM1ZS05MmQ4LWQ2YTY1Mjg2ZmY3NyIsImFjdG9yVHlwZSI6InVzZXIifYS74//5ApgVDjxkZXRhaWxzIG9wZW4+hrvj//kCphULYXR0cmlidXRpb24EbnVsbIe74//5ApcVAwpoYXJkX2JyZWFrh7vj//kCqBUGBgC74//5AqkVC2F0dHJpYnV0aW9uRHsidXNlcklkIjoiYjc2MDdiMjEtMTYzMS00MzVlLTkyZDgtZDZhNjUyODZmZjc3IiwiYWN0b3JUeXBlIjoidXNlciJ9hLvj//kCqhUzPHN1bW1hcnk+UHJvYmUgTzEzaTogbmVzdGVkIGlubmVyIHN1bW1hcnk8L3N1bW1hcnk+hrvj//kC3RULYXR0cmlidXRpb24EbnVsbIe74//5ApYVAwlwYXJhZ3JhcGgHALvj//kC3xUGBgC74//5AuAVC2F0dHJpYnV0aW9uRHsidXNlcklkIjoiYjc2MDdiMjEtMTYzMS00MzVlLTkyZDgtZDZhNjUyODZmZjc3IiwiYWN0b3JUeXBlIjoidXNlciJ9hLvj//kC4RUZTmVzdGVkIGJvZHkgb2YgcHJvYmUgTzEzLoa74//5AvoVC2F0dHJpYnV0aW9uBG51bGyHu+P/+QLfFQMJcGFyYWdyYXBoBwC74//5AvwVBgYAu+P/+QL9FQthdHRyaWJ1dGlvbkR7InVzZXJJZCI6ImI3NjA3YjIxLTE2MzEtNDM1ZS05MmQ4LWQ2YTY1Mjg2ZmY3NyIsImFjdG9yVHlwZSI6InVzZXIifYS74//5Av4VCjwvZGV0YWlscz6Gu+P/+QKIFgthdHRyaWJ1dGlvbgRudWxsh7vj//kC/BUDCXBhcmFncmFwaAcAu+P/+QKKFgYGALvj//kCixYLYXR0cmlidXRpb25EeyJ1c2VySWQiOiJiNzYwN2IyMS0xNjMxLTQzNWUtOTJkOC1kNmE2NTI4NmZmNzciLCJhY3RvclR5cGUiOiJ1c2VyIn2Eu+P/+QKMFhFFbmQgb2YgcHJvYmUgTzEzLoa74//5Ap0WC2F0dHJpYnV0aW9uBG51bGyHu+P/+QKKFgMJcGFyYWdyYXBoBwC74//5Ap8WBgYAu+P/+QKgFgthdHRyaWJ1dGlvbkR7InVzZXJJZCI6ImI3NjA3YjIxLTE2MzEtNDM1ZS05MmQ4LWQ2YTY1Mjg2ZmY3NyIsImFjdG9yVHlwZSI6InVzZXIifYS74//5AqEWCjwvZGV0YWlscz6Gu+P/+QKrFgthdHRyaWJ1dGlvbgRudWxsAA==",
+  "node_types": {
+    "top_level": [
+      "paragraph",
+      "paragraph",
+      "paragraph",
+      "paragraph",
+      "paragraph",
+      "paragraph",
+      "paragraph",
+      "paragraph",
+      "paragraph",
+      "paragraph",
+      "paragraph",
+      "paragraph",
+      "paragraph",
+      "paragraph",
+      "paragraph",
+      "paragraph",
+      "paragraph",
+      "paragraph",
+      "paragraph",
+      "paragraph",
+      "paragraph",
+      "paragraph",
+      "paragraph",
+      "paragraph",
+      "paragraph",
+      "paragraph",
+      "paragraph",
+      "paragraph",
+      "paragraph",
+      "paragraph",
+      "paragraph",
+      "bullet_list",
+      "ordered_list",
+      "paragraph",
+      "paragraph",
+      "paragraph",
+      "heading",
+      "paragraph",
+      "heading",
+      "paragraph",
+      "paragraph",
+      "paragraph",
+      "paragraph",
+      "code_block",
+      "paragraph",
+      "paragraph",
+      "paragraph",
+      "image",
+      "paragraph",
+      "paragraph",
+      "paragraph",
+      "table",
+      "paragraph",
+      "paragraph",
+      "paragraph",
+      "paragraph",
+      "paragraph",
+      "paragraph",
+      "paragraph",
+      "paragraph"
+    ],
+    "all": [
+      "paragraph",
+      "paragraph",
+      "paragraph",
+      "hard_break",
+      "paragraph",
+      "paragraph",
+      "paragraph",
+      "paragraph",
+      "hard_break",
+      "paragraph",
+      "paragraph",
+      "paragraph",
+      "paragraph",
+      "hard_break",
+      "paragraph",
+      "paragraph",
+      "paragraph",
+      "paragraph",
+      "hard_break",
+      "paragraph",
+      "paragraph",
+      "paragraph",
+      "paragraph",
+      "hard_break",
+      "paragraph",
+      "paragraph",
+      "paragraph",
+      "paragraph",
+      "hard_break",
+      "paragraph",
+      "paragraph",
+      "paragraph",
+      "paragraph",
+      "hard_break",
+      "paragraph",
+      "paragraph",
+      "paragraph",
+      "paragraph",
+      "hard_break",
+      "bullet_list",
+      "list_item",
+      "paragraph",
+      "list_item",
+      "paragraph",
+      "ordered_list",
+      "list_item",
+      "paragraph",
+      "list_item",
+      "paragraph",
+      "paragraph",
+      "paragraph",
+      "paragraph",
+      "hard_break",
+      "heading(level 3.0)",
+      "paragraph",
+      "heading(level 4.0)",
+      "paragraph",
+      "paragraph",
+      "paragraph",
+      "paragraph",
+      "hard_break",
+      "code_block(language python)",
+      "paragraph",
+      "paragraph",
+      "paragraph",
+      "hard_break",
+      "image",
+      "paragraph",
+      "paragraph",
+      "paragraph",
+      "hard_break",
+      "table",
+      "table_row",
+      "table_header",
+      "paragraph",
+      "table_header",
+      "paragraph",
+      "table_row",
+      "table_cell",
+      "paragraph",
+      "table_cell",
+      "paragraph",
+      "table_row",
+      "table_cell",
+      "paragraph",
+      "table_cell",
+      "paragraph",
+      "paragraph",
+      "paragraph",
+      "paragraph",
+      "hard_break",
+      "paragraph",
+      "hard_break",
+      "paragraph",
+      "paragraph",
+      "paragraph",
+      "paragraph"
+    ]
+  },
+  "node_tree": {
+    "content": [
+      {
+        "attrs": {},
+        "content": [
+          {
+            "runs": [
+              {
+                "marks": {},
+                "text": "Expandable-blocks spike probe record — form O, "
+              },
+              {
+                "marks": {
+                  "code": {}
+                },
+                "text": "<details open>"
+              },
+              {
+                "marks": {},
+                "text": ": the authored form with the "
+              },
+              {
+                "marks": {
+                  "code": {}
+                },
+                "text": "open"
+              },
+              {
+                "marks": {},
+                "text": " attribute. Every block's summary starts "
+              },
+              {
+                "marks": {
+                  "code": {}
+                },
+                "text": "Probe <id>:"
+              },
+              {
+                "marks": {},
+                "text": " and every body ends with the line "
+              },
+              {
+                "marks": {
+                  "code": {}
+                },
+                "text": "End of probe <id>."
+              },
+              {
+                "marks": {},
+                "text": ", so each block can be found again whether it renders collapsed or as literal text. Probes 01–06 vary the summary over a paragraph body; probes 07–13 vary the body under a plain summary."
+              }
+            ],
+            "type": "#text"
+          }
+        ],
+        "type": "paragraph"
+      },
+      {
+        "attrs": {},
+        "content": [
+          {
+            "runs": [
+              {
+                "marks": {
+                  "strong": {}
+                },
+                "text": "What you should see:"
+              },
+              {
+                "marks": {},
+                "text": " Expanded on load (not collapsed), summary visible, body rendered."
+              }
+            ],
+            "type": "#text"
+          }
+        ],
+        "type": "paragraph"
+      },
+      {
+        "attrs": {},
+        "content": [
+          {
+            "runs": [
+              {
+                "marks": {},
+                "text": "<details open>"
+              }
+            ],
+            "type": "#text"
+          },
+          {
+            "attrs": {},
+            "content": [],
+            "type": "hard_break"
+          },
+          {
+            "runs": [
+              {
+                "marks": {},
+                "text": "<summary>Probe O01: Plain summary text</summary>"
+              }
+            ],
+            "type": "#text"
+          }
+        ],
+        "type": "paragraph"
+      },
+      {
+        "attrs": {},
+        "content": [
+          {
+            "runs": [
+              {
+                "marks": {},
+                "text": "A paragraph with "
+              },
+              {
+                "marks": {
+                  "em": {}
+                },
+                "text": "emphasis"
+              },
+              {
+                "marks": {},
+                "text": " and "
+              },
+              {
+                "marks": {
+                  "link": {
+                    "href": "https://github.com/nickderobertis/onetaskgraph-live-scratch",
+                    "noEmbed": null
+                  }
+                },
+                "text": "a link"
+              },
+              {
+                "marks": {},
+                "text": " in probe O01."
+              }
+            ],
+            "type": "#text"
+          }
+        ],
+        "type": "paragraph"
+      },
+      {
+        "attrs": {},
+        "content": [
+          {
+            "runs": [
+              {
+                "marks": {},
+                "text": "End of probe O01."
+              }
+            ],
+            "type": "#text"
+          }
+        ],
+        "type": "paragraph"
+      },
+      {
+        "attrs": {},
+        "content": [
+          {
+            "runs": [
+              {
+                "marks": {},
+                "text": "</details>"
+              }
+            ],
+            "type": "#text"
+          }
+        ],
+        "type": "paragraph"
+      },
+      {
+        "attrs": {},
+        "content": [
+          {
+            "runs": [
+              {
+                "marks": {},
+                "text": "<details open>"
+              }
+            ],
+            "type": "#text"
+          },
+          {
+            "attrs": {},
+            "content": [],
+            "type": "hard_break"
+          },
+          {
+            "runs": [
+              {
+                "marks": {},
+                "text": "<summary>Probe O02: Entities & <tag> in a summary</summary>"
+              }
+            ],
+            "type": "#text"
+          }
+        ],
+        "type": "paragraph"
+      },
+      {
+        "attrs": {},
+        "content": [
+          {
+            "runs": [
+              {
+                "marks": {},
+                "text": "A paragraph with "
+              },
+              {
+                "marks": {
+                  "em": {}
+                },
+                "text": "emphasis"
+              },
+              {
+                "marks": {},
+                "text": " and "
+              },
+              {
+                "marks": {
+                  "link": {
+                    "href": "https://github.com/nickderobertis/onetaskgraph-live-scratch",
+                    "noEmbed": null
+                  }
+                },
+                "text": "a link"
+              },
+              {
+                "marks": {},
+                "text": " in probe O02."
+              }
+            ],
+            "type": "#text"
+          }
+        ],
+        "type": "paragraph"
+      },
+      {
+        "attrs": {},
+        "content": [
+          {
+            "runs": [
+              {
+                "marks": {},
+                "text": "End of probe O02."
+              }
+            ],
+            "type": "#text"
+          }
+        ],
+        "type": "paragraph"
+      },
+      {
+        "attrs": {},
+        "content": [
+          {
+            "runs": [
+              {
+                "marks": {},
+                "text": "</details>"
+              }
+            ],
+            "type": "#text"
+          }
+        ],
+        "type": "paragraph"
+      },
+      {
+        "attrs": {},
+        "content": [
+          {
+            "runs": [
+              {
+                "marks": {},
+                "text": "<details open>"
+              }
+            ],
+            "type": "#text"
+          },
+          {
+            "attrs": {},
+            "content": [],
+            "type": "hard_break"
+          },
+          {
+            "runs": [
+              {
+                "marks": {},
+                "text": "<summary>Probe O03: Inline code "
+              },
+              {
+                "marks": {
+                  "code": {}
+                },
+                "text": "copy --dry-run"
+              },
+              {
+                "marks": {},
+                "text": " in backticks</summary>"
+              }
+            ],
+            "type": "#text"
+          }
+        ],
+        "type": "paragraph"
+      },
+      {
+        "attrs": {},
+        "content": [
+          {
+            "runs": [
+              {
+                "marks": {},
+                "text": "A paragraph with "
+              },
+              {
+                "marks": {
+                  "em": {}
+                },
+                "text": "emphasis"
+              },
+              {
+                "marks": {},
+                "text": " and "
+              },
+              {
+                "marks": {
+                  "link": {
+                    "href": "https://github.com/nickderobertis/onetaskgraph-live-scratch",
+                    "noEmbed": null
+                  }
+                },
+                "text": "a link"
+              },
+              {
+                "marks": {},
+                "text": " in probe O03."
+              }
+            ],
+            "type": "#text"
+          }
+        ],
+        "type": "paragraph"
+      },
+      {
+        "attrs": {},
+        "content": [
+          {
+            "runs": [
+              {
+                "marks": {},
+                "text": "End of probe O03."
+              }
+            ],
+            "type": "#text"
+          }
+        ],
+        "type": "paragraph"
+      },
+      {
+        "attrs": {},
+        "content": [
+          {
+            "runs": [
+              {
+                "marks": {},
+                "text": "</details>"
+              }
+            ],
+            "type": "#text"
+          }
+        ],
+        "type": "paragraph"
+      },
+      {
+        "attrs": {},
+        "content": [
+          {
+            "runs": [
+              {
+                "marks": {},
+                "text": "<details open>"
+              }
+            ],
+            "type": "#text"
+          },
+          {
+            "attrs": {},
+            "content": [],
+            "type": "hard_break"
+          },
+          {
+            "runs": [
+              {
+                "marks": {},
+                "text": "<summary>Probe O04: Inline code <code>copy --dry-run</code> as HTML</summary>"
+              }
+            ],
+            "type": "#text"
+          }
+        ],
+        "type": "paragraph"
+      },
+      {
+        "attrs": {},
+        "content": [
+          {
+            "runs": [
+              {
+                "marks": {},
+                "text": "A paragraph with "
+              },
+              {
+                "marks": {
+                  "em": {}
+                },
+                "text": "emphasis"
+              },
+              {
+                "marks": {},
+                "text": " and "
+              },
+              {
+                "marks": {
+                  "link": {
+                    "href": "https://github.com/nickderobertis/onetaskgraph-live-scratch",
+                    "noEmbed": null
+                  }
+                },
+                "text": "a link"
+              },
+              {
+                "marks": {},
+                "text": " in probe O04."
+              }
+            ],
+            "type": "#text"
+          }
+        ],
+        "type": "paragraph"
+      },
+      {
+        "attrs": {},
+        "content": [
+          {
+            "runs": [
+              {
+                "marks": {},
+                "text": "End of probe O04."
+              }
+            ],
+            "type": "#text"
+          }
+        ],
+        "type": "paragraph"
+      },
+      {
+        "attrs": {},
+        "content": [
+          {
+            "runs": [
+              {
+                "marks": {},
+                "text": "</details>"
+              }
+            ],
+            "type": "#text"
+          }
+        ],
+        "type": "paragraph"
+      },
+      {
+        "attrs": {},
+        "content": [
+          {
+            "runs": [
+              {
+                "marks": {},
+                "text": "<details open>"
+              }
+            ],
+            "type": "#text"
+          },
+          {
+            "attrs": {},
+            "content": [],
+            "type": "hard_break"
+          },
+          {
+            "runs": [
+              {
+                "marks": {},
+                "text": "<summary>Probe O05: "
+              },
+              {
+                "marks": {
+                  "strong": {}
+                },
+                "text": "Bold"
+              },
+              {
+                "marks": {},
+                "text": " text in a summary</summary>"
+              }
+            ],
+            "type": "#text"
+          }
+        ],
+        "type": "paragraph"
+      },
+      {
+        "attrs": {},
+        "content": [
+          {
+            "runs": [
+              {
+                "marks": {},
+                "text": "A paragraph with "
+              },
+              {
+                "marks": {
+                  "em": {}
+                },
+                "text": "emphasis"
+              },
+              {
+                "marks": {},
+                "text": " and "
+              },
+              {
+                "marks": {
+                  "link": {
+                    "href": "https://github.com/nickderobertis/onetaskgraph-live-scratch",
+                    "noEmbed": null
+                  }
+                },
+                "text": "a link"
+              },
+              {
+                "marks": {},
+                "text": " in probe O05."
+              }
+            ],
+            "type": "#text"
+          }
+        ],
+        "type": "paragraph"
+      },
+      {
+        "attrs": {},
+        "content": [
+          {
+            "runs": [
+              {
+                "marks": {},
+                "text": "End of probe O05."
+              }
+            ],
+            "type": "#text"
+          }
+        ],
+        "type": "paragraph"
+      },
+      {
+        "attrs": {},
+        "content": [
+          {
+            "runs": [
+              {
+                "marks": {},
+                "text": "</details>"
+              }
+            ],
+            "type": "#text"
+          }
+        ],
+        "type": "paragraph"
+      },
+      {
+        "attrs": {},
+        "content": [
+          {
+            "runs": [
+              {
+                "marks": {},
+                "text": "<details open>"
+              }
+            ],
+            "type": "#text"
+          },
+          {
+            "attrs": {},
+            "content": [],
+            "type": "hard_break"
+          },
+          {
+            "runs": [
+              {
+                "marks": {},
+                "text": "<summary>Probe O06: <strong>Bold</strong> as HTML</summary>"
+              }
+            ],
+            "type": "#text"
+          }
+        ],
+        "type": "paragraph"
+      },
+      {
+        "attrs": {},
+        "content": [
+          {
+            "runs": [
+              {
+                "marks": {},
+                "text": "A paragraph with "
+              },
+              {
+                "marks": {
+                  "em": {}
+                },
+                "text": "emphasis"
+              },
+              {
+                "marks": {},
+                "text": " and "
+              },
+              {
+                "marks": {
+                  "link": {
+                    "href": "https://github.com/nickderobertis/onetaskgraph-live-scratch",
+                    "noEmbed": null
+                  }
+                },
+                "text": "a link"
+              },
+              {
+                "marks": {},
+                "text": " in probe O06."
+              }
+            ],
+            "type": "#text"
+          }
+        ],
+        "type": "paragraph"
+      },
+      {
+        "attrs": {},
+        "content": [
+          {
+            "runs": [
+              {
+                "marks": {},
+                "text": "End of probe O06."
+              }
+            ],
+            "type": "#text"
+          }
+        ],
+        "type": "paragraph"
+      },
+      {
+        "attrs": {},
+        "content": [
+          {
+            "runs": [
+              {
+                "marks": {},
+                "text": "</details>"
+              }
+            ],
+            "type": "#text"
+          }
+        ],
+        "type": "paragraph"
+      },
+      {
+        "attrs": {},
+        "content": [
+          {
+            "runs": [
+              {
+                "marks": {},
+                "text": "<details open>"
+              }
+            ],
+            "type": "#text"
+          },
+          {
+            "attrs": {},
+            "content": [],
+            "type": "hard_break"
+          },
+          {
+            "runs": [
+              {
+                "marks": {},
+                "text": "<summary>Probe O07: Body — paragraph</summary>"
+              }
+            ],
+            "type": "#text"
+          }
+        ],
+        "type": "paragraph"
+      },
+      {
+        "attrs": {},
+        "content": [
+          {
+            "runs": [
+              {
+                "marks": {},
+                "text": "A paragraph with "
+              },
+              {
+                "marks": {
+                  "em": {}
+                },
+                "text": "emphasis"
+              },
+              {
+                "marks": {},
+                "text": " and "
+              },
+              {
+                "marks": {
+                  "link": {
+                    "href": "https://github.com/nickderobertis/onetaskgraph-live-scratch",
+                    "noEmbed": null
+                  }
+                },
+                "text": "a link"
+              },
+              {
+                "marks": {},
+                "text": " in probe O07."
+              }
+            ],
+            "type": "#text"
+          }
+        ],
+        "type": "paragraph"
+      },
+      {
+        "attrs": {},
+        "content": [
+          {
+            "runs": [
+              {
+                "marks": {},
+                "text": "End of probe O07."
+              }
+            ],
+            "type": "#text"
+          }
+        ],
+        "type": "paragraph"
+      },
+      {
+        "attrs": {},
+        "content": [
+          {
+            "runs": [
+              {
+                "marks": {},
+                "text": "</details>"
+              }
+            ],
+            "type": "#text"
+          }
+        ],
+        "type": "paragraph"
+      },
+      {
+        "attrs": {},
+        "content": [
+          {
+            "runs": [
+              {
+                "marks": {},
+                "text": "<details open>"
+              }
+            ],
+            "type": "#text"
+          },
+          {
+            "attrs": {},
+            "content": [],
+            "type": "hard_break"
+          },
+          {
+            "runs": [
+              {
+                "marks": {},
+                "text": "<summary>Probe O08: Body — lists</summary>"
+              }
+            ],
+            "type": "#text"
+          }
+        ],
+        "type": "paragraph"
+      },
+      {
+        "attrs": {},
+        "content": [
+          {
+            "attrs": {},
+            "content": [
+              {
+                "attrs": {},
+                "content": [
+                  {
+                    "runs": [
+                      {
+                        "marks": {},
+                        "text": "First bullet"
+                      }
+                    ],
+                    "type": "#text"
+                  }
+                ],
+                "type": "paragraph"
+              }
+            ],
+            "type": "list_item"
+          },
+          {
+            "attrs": {},
+            "content": [
+              {
+                "attrs": {},
+                "content": [
+                  {
+                    "runs": [
+                      {
+                        "marks": {},
+                        "text": "Second bullet"
+                      }
+                    ],
+                    "type": "#text"
+                  }
+                ],
+                "type": "paragraph"
+              }
+            ],
+            "type": "list_item"
+          }
+        ],
+        "type": "bullet_list"
+      },
+      {
+        "attrs": {
+          "order": 1.0
+        },
+        "content": [
+          {
+            "attrs": {},
+            "content": [
+              {
+                "attrs": {},
+                "content": [
+                  {
+                    "runs": [
+                      {
+                        "marks": {},
+                        "text": "First step"
+                      }
+                    ],
+                    "type": "#text"
+                  }
+                ],
+                "type": "paragraph"
+              }
+            ],
+            "type": "list_item"
+          },
+          {
+            "attrs": {},
+            "content": [
+              {
+                "attrs": {},
+                "content": [
+                  {
+                    "runs": [
+                      {
+                        "marks": {},
+                        "text": "Second step"
+                      }
+                    ],
+                    "type": "#text"
+                  }
+                ],
+                "type": "paragraph"
+              }
+            ],
+            "type": "list_item"
+          }
+        ],
+        "type": "ordered_list"
+      },
+      {
+        "attrs": {},
+        "content": [
+          {
+            "runs": [
+              {
+                "marks": {},
+                "text": "End of probe O08."
+              }
+            ],
+            "type": "#text"
+          }
+        ],
+        "type": "paragraph"
+      },
+      {
+        "attrs": {},
+        "content": [
+          {
+            "runs": [
+              {
+                "marks": {},
+                "text": "</details>"
+              }
+            ],
+            "type": "#text"
+          }
+        ],
+        "type": "paragraph"
+      },
+      {
+        "attrs": {},
+        "content": [
+          {
+            "runs": [
+              {
+                "marks": {},
+                "text": "<details open>"
+              }
+            ],
+            "type": "#text"
+          },
+          {
+            "attrs": {},
+            "content": [],
+            "type": "hard_break"
+          },
+          {
+            "runs": [
+              {
+                "marks": {},
+                "text": "<summary>Probe O09: Body — headings</summary>"
+              }
+            ],
+            "type": "#text"
+          }
+        ],
+        "type": "paragraph"
+      },
+      {
+        "attrs": {
+          "id": "c6f6b4cb-9537-4c2e-8f3a-4108b0a074f7",
+          "level": 3.0
+        },
+        "content": [
+          {
+            "runs": [
+              {
+                "marks": {},
+                "text": "A third-level heading in probe O09"
+              }
+            ],
+            "type": "#text"
+          }
+        ],
+        "type": "heading"
+      },
+      {
+        "attrs": {},
+        "content": [
+          {
+            "runs": [
+              {
+                "marks": {},
+                "text": "Text under the third-level heading."
+              }
+            ],
+            "type": "#text"
+          }
+        ],
+        "type": "paragraph"
+      },
+      {
+        "attrs": {
+          "id": "3a7d369d-3175-47a8-9d03-631ed4a39e0b",
+          "level": 4.0
+        },
+        "content": [
+          {
+            "runs": [
+              {
+                "marks": {},
+                "text": "A fourth-level heading in probe O09"
+              }
+            ],
+            "type": "#text"
+          }
+        ],
+        "type": "heading"
+      },
+      {
+        "attrs": {},
+        "content": [
+          {
+            "runs": [
+              {
+                "marks": {},
+                "text": "Text under the fourth-level heading."
+              }
+            ],
+            "type": "#text"
+          }
+        ],
+        "type": "paragraph"
+      },
+      {
+        "attrs": {},
+        "content": [
+          {
+            "runs": [
+              {
+                "marks": {},
+                "text": "End of probe O09."
+              }
+            ],
+            "type": "#text"
+          }
+        ],
+        "type": "paragraph"
+      },
+      {
+        "attrs": {},
+        "content": [
+          {
+            "runs": [
+              {
+                "marks": {},
+                "text": "</details>"
+              }
+            ],
+            "type": "#text"
+          }
+        ],
+        "type": "paragraph"
+      },
+      {
+        "attrs": {},
+        "content": [
+          {
+            "runs": [
+              {
+                "marks": {},
+                "text": "<details open>"
+              }
+            ],
+            "type": "#text"
+          },
+          {
+            "attrs": {},
+            "content": [],
+            "type": "hard_break"
+          },
+          {
+            "runs": [
+              {
+                "marks": {},
+                "text": "<summary>Probe O10: Body — fenced code</summary>"
+              }
+            ],
+            "type": "#text"
+          }
+        ],
+        "type": "paragraph"
+      },
+      {
+        "attrs": {
+          "id": "376365d6-3063-4d4c-b8e4-49f23988b2fe",
+          "language": "python"
+        },
+        "content": [
+          {
+            "runs": [
+              {
+                "marks": {},
+                "text": "def probe():\n    return \"O10\""
+              }
+            ],
+            "type": "#text"
+          }
+        ],
+        "type": "code_block"
+      },
+      {
+        "attrs": {},
+        "content": [
+          {
+            "runs": [
+              {
+                "marks": {},
+                "text": "End of probe O10."
+              }
+            ],
+            "type": "#text"
+          }
+        ],
+        "type": "paragraph"
+      },
+      {
+        "attrs": {},
+        "content": [
+          {
+            "runs": [
+              {
+                "marks": {},
+                "text": "</details>"
+              }
+            ],
+            "type": "#text"
+          }
+        ],
+        "type": "paragraph"
+      },
+      {
+        "attrs": {},
+        "content": [
+          {
+            "runs": [
+              {
+                "marks": {},
+                "text": "<details open>"
+              }
+            ],
+            "type": "#text"
+          },
+          {
+            "attrs": {},
+            "content": [],
+            "type": "hard_break"
+          },
+          {
+            "runs": [
+              {
+                "marks": {},
+                "text": "<summary>Probe O11: Body — image</summary>"
+              }
+            ],
+            "type": "#text"
+          }
+        ],
+        "type": "paragraph"
+      },
+      {
+        "attrs": {
+          "alt": "Probe image in O11",
+          "contentAttribution": {
+            "actorType": "user",
+            "userId": "b7607b21-1631-435e-92d8-d6a65286ff77"
+          },
+          "src": "https://uploads.linear.app/d8b4a4c3-5fea-4568-9fdc-e08b7b8ab846/c8db4a33-5f95-4938-af65-173da074eaab/33a88da9-7b47-42ca-b6a6-4879fb8ba752",
+          "uploadState": "finished"
+        },
+        "content": [],
+        "type": "image"
+      },
+      {
+        "attrs": {},
+        "content": [
+          {
+            "runs": [
+              {
+                "marks": {},
+                "text": "End of probe O11."
+              }
+            ],
+            "type": "#text"
+          }
+        ],
+        "type": "paragraph"
+      },
+      {
+        "attrs": {},
+        "content": [
+          {
+            "runs": [
+              {
+                "marks": {},
+                "text": "</details>"
+              }
+            ],
+            "type": "#text"
+          }
+        ],
+        "type": "paragraph"
+      },
+      {
+        "attrs": {},
+        "content": [
+          {
+            "runs": [
+              {
+                "marks": {},
+                "text": "<details open>"
+              }
+            ],
+            "type": "#text"
+          },
+          {
+            "attrs": {},
+            "content": [],
+            "type": "hard_break"
+          },
+          {
+            "runs": [
+              {
+                "marks": {},
+                "text": "<summary>Probe O12: Body — table</summary>"
+              }
+            ],
+            "type": "#text"
+          }
+        ],
+        "type": "paragraph"
+      },
+      {
+        "attrs": {
+          "sizing": "fit"
+        },
+        "content": [
+          {
+            "attrs": {},
+            "content": [
+              {
+                "attrs": {
+                  "colspan": 1.0,
+                  "rowspan": 1.0
+                },
+                "content": [
+                  {
+                    "attrs": {},
+                    "content": [
+                      {
+                        "runs": [
+                          {
+                            "marks": {},
+                            "text": "Column"
+                          }
+                        ],
+                        "type": "#text"
+                      }
+                    ],
+                    "type": "paragraph"
+                  }
+                ],
+                "type": "table_header"
+              },
+              {
+                "attrs": {
+                  "colspan": 1.0,
+                  "rowspan": 1.0
+                },
+                "content": [
+                  {
+                    "attrs": {},
+                    "content": [
+                      {
+                        "runs": [
+                          {
+                            "marks": {},
+                            "text": "Value"
+                          }
+                        ],
+                        "type": "#text"
+                      }
+                    ],
+                    "type": "paragraph"
+                  }
+                ],
+                "type": "table_header"
+              }
+            ],
+            "type": "table_row"
+          },
+          {
+            "attrs": {},
+            "content": [
+              {
+                "attrs": {
+                  "colspan": 1.0,
+                  "rowspan": 1.0
+                },
+                "content": [
+                  {
+                    "attrs": {},
+                    "content": [
+                      {
+                        "runs": [
+                          {
+                            "marks": {},
+                            "text": "form"
+                          }
+                        ],
+                        "type": "#text"
+                      }
+                    ],
+                    "type": "paragraph"
+                  }
+                ],
+                "type": "table_cell"
+              },
+              {
+                "attrs": {
+                  "colspan": 1.0,
+                  "rowspan": 1.0
+                },
+                "content": [
+                  {
+                    "attrs": {},
+                    "content": [
+                      {
+                        "runs": [
+                          {
+                            "marks": {},
+                            "text": "details-open"
+                          }
+                        ],
+                        "type": "#text"
+                      }
+                    ],
+                    "type": "paragraph"
+                  }
+                ],
+                "type": "table_cell"
+              }
+            ],
+            "type": "table_row"
+          },
+          {
+            "attrs": {},
+            "content": [
+              {
+                "attrs": {
+                  "colspan": 1.0,
+                  "rowspan": 1.0
+                },
+                "content": [
+                  {
+                    "attrs": {},
+                    "content": [
+                      {
+                        "runs": [
+                          {
+                            "marks": {},
+                            "text": "probe"
+                          }
+                        ],
+                        "type": "#text"
+                      }
+                    ],
+                    "type": "paragraph"
+                  }
+                ],
+                "type": "table_cell"
+              },
+              {
+                "attrs": {
+                  "colspan": 1.0,
+                  "rowspan": 1.0
+                },
+                "content": [
+                  {
+                    "attrs": {},
+                    "content": [
+                      {
+                        "runs": [
+                          {
+                            "marks": {},
+                            "text": "O12"
+                          }
+                        ],
+                        "type": "#text"
+                      }
+                    ],
+                    "type": "paragraph"
+                  }
+                ],
+                "type": "table_cell"
+              }
+            ],
+            "type": "table_row"
+          }
+        ],
+        "type": "table"
+      },
+      {
+        "attrs": {},
+        "content": [
+          {
+            "runs": [
+              {
+                "marks": {},
+                "text": "End of probe O12."
+              }
+            ],
+            "type": "#text"
+          }
+        ],
+        "type": "paragraph"
+      },
+      {
+        "attrs": {},
+        "content": [
+          {
+            "runs": [
+              {
+                "marks": {},
+                "text": "</details>"
+              }
+            ],
+            "type": "#text"
+          }
+        ],
+        "type": "paragraph"
+      },
+      {
+        "attrs": {},
+        "content": [
+          {
+            "runs": [
+              {
+                "marks": {},
+                "text": "<details open>"
+              }
+            ],
+            "type": "#text"
+          },
+          {
+            "attrs": {},
+            "content": [],
+            "type": "hard_break"
+          },
+          {
+            "runs": [
+              {
+                "marks": {},
+                "text": "<summary>Probe O13: Body — nested</summary>"
+              }
+            ],
+            "type": "#text"
+          }
+        ],
+        "type": "paragraph"
+      },
+      {
+        "attrs": {},
+        "content": [
+          {
+            "runs": [
+              {
+                "marks": {},
+                "text": "<details open>"
+              }
+            ],
+            "type": "#text"
+          },
+          {
+            "attrs": {},
+            "content": [],
+            "type": "hard_break"
+          },
+          {
+            "runs": [
+              {
+                "marks": {},
+                "text": "<summary>Probe O13i: nested inner summary</summary>"
+              }
+            ],
+            "type": "#text"
+          }
+        ],
+        "type": "paragraph"
+      },
+      {
+        "attrs": {},
+        "content": [
+          {
+            "runs": [
+              {
+                "marks": {},
+                "text": "Nested body of probe O13."
+              }
+            ],
+            "type": "#text"
+          }
+        ],
+        "type": "paragraph"
+      },
+      {
+        "attrs": {},
+        "content": [
+          {
+            "runs": [
+              {
+                "marks": {},
+                "text": "</details>"
+              }
+            ],
+            "type": "#text"
+          }
+        ],
+        "type": "paragraph"
+      },
+      {
+        "attrs": {},
+        "content": [
+          {
+            "runs": [
+              {
+                "marks": {},
+                "text": "End of probe O13."
+              }
+            ],
+            "type": "#text"
+          }
+        ],
+        "type": "paragraph"
+      },
+      {
+        "attrs": {},
+        "content": [
+          {
+            "runs": [
+              {
+                "marks": {},
+                "text": "</details>"
+              }
+            ],
+            "type": "#text"
+          }
+        ],
+        "type": "paragraph"
+      }
+    ],
+    "type": "doc"
+  },
+  "blocks": [
+    {
+      "id": "O01",
+      "probe": "summary",
+      "summary_variant": "plain",
+      "body_variant": "paragraph",
+      "parsed_as": "literal text in paragraph",
+      "literal_text": "<details open><summary>Probe O01: Plain summary text</summary>"
+    },
+    {
+      "id": "O02",
+      "probe": "summary",
+      "summary_variant": "entities",
+      "body_variant": "paragraph",
+      "parsed_as": "literal text in paragraph",
+      "literal_text": "<details open><summary>Probe O02: Entities & <tag> in a summary</summary>"
+    },
+    {
+      "id": "O03",
+      "probe": "summary",
+      "summary_variant": "backtick-code",
+      "body_variant": "paragraph",
+      "parsed_as": "literal text in paragraph",
+      "literal_text": "<details open><summary>Probe O03: Inline code copy --dry-run in backticks</summary>"
+    },
+    {
+      "id": "O04",
+      "probe": "summary",
+      "summary_variant": "html-code",
+      "body_variant": "paragraph",
+      "parsed_as": "literal text in paragraph",
+      "literal_text": "<details open><summary>Probe O04: Inline code <code>copy --dry-run</code> as HTML</summary>"
+    },
+    {
+      "id": "O05",
+      "probe": "summary",
+      "summary_variant": "bold",
+      "body_variant": "paragraph",
+      "parsed_as": "literal text in paragraph",
+      "literal_text": "<details open><summary>Probe O05: Bold text in a summary</summary>"
+    },
+    {
+      "id": "O06",
+      "probe": "summary",
+      "summary_variant": "html-strong",
+      "body_variant": "paragraph",
+      "parsed_as": "literal text in paragraph",
+      "literal_text": "<details open><summary>Probe O06: <strong>Bold</strong> as HTML</summary>"
+    },
+    {
+      "id": "O07",
+      "probe": "body",
+      "summary_variant": "plain",
+      "body_variant": "paragraph",
+      "parsed_as": "literal text in paragraph",
+      "literal_text": "<details open><summary>Probe O07: Body — paragraph</summary>"
+    },
+    {
+      "id": "O08",
+      "probe": "body",
+      "summary_variant": "plain",
+      "body_variant": "lists",
+      "parsed_as": "literal text in paragraph",
+      "literal_text": "<details open><summary>Probe O08: Body — lists</summary>"
+    },
+    {
+      "id": "O09",
+      "probe": "body",
+      "summary_variant": "plain",
+      "body_variant": "headings",
+      "parsed_as": "literal text in paragraph",
+      "literal_text": "<details open><summary>Probe O09: Body — headings</summary>"
+    },
+    {
+      "id": "O10",
+      "probe": "body",
+      "summary_variant": "plain",
+      "body_variant": "fenced-code",
+      "parsed_as": "literal text in paragraph",
+      "literal_text": "<details open><summary>Probe O10: Body — fenced code</summary>"
+    },
+    {
+      "id": "O11",
+      "probe": "body",
+      "summary_variant": "plain",
+      "body_variant": "image",
+      "parsed_as": "literal text in paragraph",
+      "literal_text": "<details open><summary>Probe O11: Body — image</summary>"
+    },
+    {
+      "id": "O12",
+      "probe": "body",
+      "summary_variant": "plain",
+      "body_variant": "table",
+      "parsed_as": "literal text in paragraph",
+      "literal_text": "<details open><summary>Probe O12: Body — table</summary>"
+    },
+    {
+      "id": "O13",
+      "probe": "body",
+      "summary_variant": "plain",
+      "body_variant": "nested",
+      "parsed_as": "literal text in paragraph",
+      "literal_text": "<details open><summary>Probe O13: Body — nested</summary>"
+    }
+  ],
+  "rewrite": {
+    "sent_markdown": "Expandable-blocks spike probe record — form O, `<details open>`: the authored form with the `open` attribute. Every block's summary starts `Probe <id>:` and every body ends with the line `End of probe <id>.`, so each block can be found again whether it renders collapsed or as literal text. Probes 01–06 vary the summary over a paragraph body; probes 07–13 vary the body under a plain summary.\n\n**What you should see:** Expanded on load (not collapsed), summary visible, body rendered.\n\n<details open>\n<summary>Probe O01: Plain summary text</summary>\n\nA paragraph with *emphasis* and [a link](<https://github.com/nickderobertis/onetaskgraph-live-scratch>) in probe O01.\n\nEnd of probe O01.\n\n</details>\n\n<details open>\n<summary>Probe O02: Entities & <tag> in a summary</summary>\n\nA paragraph with *emphasis* and [a link](<https://github.com/nickderobertis/onetaskgraph-live-scratch>) in probe O02.\n\nEnd of probe O02.\n\n</details>\n\n<details open>\n<summary>Probe O03: Inline code `copy --dry-run` in backticks</summary>\n\nA paragraph with *emphasis* and [a link](<https://github.com/nickderobertis/onetaskgraph-live-scratch>) in probe O03.\n\nEnd of probe O03.\n\n</details>\n\n<details open>\n<summary>Probe O04: Inline code <code>copy --dry-run</code> as HTML</summary>\n\nA paragraph with *emphasis* and [a link](<https://github.com/nickderobertis/onetaskgraph-live-scratch>) in probe O04.\n\nEnd of probe O04.\n\n</details>\n\n<details open>\n<summary>Probe O05: **Bold** text in a summary</summary>\n\nA paragraph with *emphasis* and [a link](<https://github.com/nickderobertis/onetaskgraph-live-scratch>) in probe O05.\n\nEnd of probe O05.\n\n</details>\n\n<details open>\n<summary>Probe O06: <strong>Bold</strong> as HTML</summary>\n\nA paragraph with *emphasis* and [a link](<https://github.com/nickderobertis/onetaskgraph-live-scratch>) in probe O06.\n\nEnd of probe O06.\n\n</details>\n\n<details open>\n<summary>Probe O07: Body — paragraph</summary>\n\nA paragraph with *emphasis* and [a link](<https://github.com/nickderobertis/onetaskgraph-live-scratch>) in probe O07.\n\nEnd of probe O07.\n\n</details>\n\n<details open>\n<summary>Probe O08: Body — lists</summary>\n\n* First bullet\n* Second bullet\n\n1. First step\n2. Second step\n\nEnd of probe O08.\n\n</details>\n\n<details open>\n<summary>Probe O09: Body — headings</summary>\n\n### A third-level heading in probe O09\n\nText under the third-level heading.\n\n#### A fourth-level heading in probe O09\n\nText under the fourth-level heading.\n\nEnd of probe O09.\n\n</details>\n\n<details open>\n<summary>Probe O10: Body — fenced code</summary>\n\n```python\ndef probe():\n    return \"O10\"\n```\n\nEnd of probe O10.\n\n</details>\n\n<details open>\n<summary>Probe O11: Body — image</summary>\n\n![Probe image in O11](https://uploads.linear.app/d8b4a4c3-5fea-4568-9fdc-e08b7b8ab846/c8db4a33-5f95-4938-af65-173da074eaab/33a88da9-7b47-42ca-b6a6-4879fb8ba752)\n\nEnd of probe O11.\n\n</details>\n\n<details open>\n<summary>Probe O12: Body — table</summary>\n\n| Column | Value |\n| -- | -- |\n| form | details-open |\n| probe | O12 |\n\nEnd of probe O12.\n\n</details>\n\n<details open>\n<summary>Probe O13: Body — nested</summary>\n\n<details open>\n<summary>Probe O13i: nested inner summary</summary>\n\nNested body of probe O13.\n\n</details>\n\nEnd of probe O13.\n\n</details>",
+    "stored_markdown": "Expandable-blocks spike probe record — form O, `<details open>`: the authored form with the `open` attribute. Every block's summary starts `Probe <id>:` and every body ends with the line `End of probe <id>.`, so each block can be found again whether it renders collapsed or as literal text. Probes 01–06 vary the summary over a paragraph body; probes 07–13 vary the body under a plain summary.\n\n**What you should see:** Expanded on load (not collapsed), summary visible, body rendered.\n\n<details open>\n<summary>Probe O01: Plain summary text</summary>\n\nA paragraph with *emphasis* and [a link](<https://github.com/nickderobertis/onetaskgraph-live-scratch>) in probe O01.\n\nEnd of probe O01.\n\n</details>\n\n<details open>\n<summary>Probe O02: Entities & <tag> in a summary</summary>\n\nA paragraph with *emphasis* and [a link](<https://github.com/nickderobertis/onetaskgraph-live-scratch>) in probe O02.\n\nEnd of probe O02.\n\n</details>\n\n<details open>\n<summary>Probe O03: Inline code `copy --dry-run` in backticks</summary>\n\nA paragraph with *emphasis* and [a link](<https://github.com/nickderobertis/onetaskgraph-live-scratch>) in probe O03.\n\nEnd of probe O03.\n\n</details>\n\n<details open>\n<summary>Probe O04: Inline code <code>copy --dry-run</code> as HTML</summary>\n\nA paragraph with *emphasis* and [a link](<https://github.com/nickderobertis/onetaskgraph-live-scratch>) in probe O04.\n\nEnd of probe O04.\n\n</details>\n\n<details open>\n<summary>Probe O05: **Bold** text in a summary</summary>\n\nA paragraph with *emphasis* and [a link](<https://github.com/nickderobertis/onetaskgraph-live-scratch>) in probe O05.\n\nEnd of probe O05.\n\n</details>\n\n<details open>\n<summary>Probe O06: <strong>Bold</strong> as HTML</summary>\n\nA paragraph with *emphasis* and [a link](<https://github.com/nickderobertis/onetaskgraph-live-scratch>) in probe O06.\n\nEnd of probe O06.\n\n</details>\n\n<details open>\n<summary>Probe O07: Body — paragraph</summary>\n\nA paragraph with *emphasis* and [a link](<https://github.com/nickderobertis/onetaskgraph-live-scratch>) in probe O07.\n\nEnd of probe O07.\n\n</details>\n\n<details open>\n<summary>Probe O08: Body — lists</summary>\n\n* First bullet\n* Second bullet\n\n1. First step\n2. Second step\n\nEnd of probe O08.\n\n</details>\n\n<details open>\n<summary>Probe O09: Body — headings</summary>\n\n### A third-level heading in probe O09\n\nText under the third-level heading.\n\n#### A fourth-level heading in probe O09\n\nText under the fourth-level heading.\n\nEnd of probe O09.\n\n</details>\n\n<details open>\n<summary>Probe O10: Body — fenced code</summary>\n\n```python\ndef probe():\n    return \"O10\"\n```\n\nEnd of probe O10.\n\n</details>\n\n<details open>\n<summary>Probe O11: Body — image</summary>\n\n![Probe image in O11](https://uploads.linear.app/d8b4a4c3-5fea-4568-9fdc-e08b7b8ab846/c8db4a33-5f95-4938-af65-173da074eaab/33a88da9-7b47-42ca-b6a6-4879fb8ba752)\n\nEnd of probe O11.\n\n</details>\n\n<details open>\n<summary>Probe O12: Body — table</summary>\n\n| Column | Value |\n| -- | -- |\n| form | details-open |\n| probe | O12 |\n\nEnd of probe O12.\n\n</details>\n\n<details open>\n<summary>Probe O13: Body — nested</summary>\n\n<details open>\n<summary>Probe O13i: nested inner summary</summary>\n\nNested body of probe O13.\n\n</details>\n\nEnd of probe O13.\n\n</details>",
+    "stored_unchanged": true,
+    "node_types_unchanged": true,
+    "node_types": {
+      "top_level": [
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "bullet_list",
+        "ordered_list",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "heading",
+        "paragraph",
+        "heading",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "code_block",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "image",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "table",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph"
+      ],
+      "all": [
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "hard_break",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "hard_break",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "hard_break",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "hard_break",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "hard_break",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "hard_break",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "hard_break",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "hard_break",
+        "bullet_list",
+        "list_item",
+        "paragraph",
+        "list_item",
+        "paragraph",
+        "ordered_list",
+        "list_item",
+        "paragraph",
+        "list_item",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "hard_break",
+        "heading(level 3.0)",
+        "paragraph",
+        "heading(level 4.0)",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "hard_break",
+        "code_block(language python)",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "hard_break",
+        "image",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "hard_break",
+        "table",
+        "table_row",
+        "table_header",
+        "paragraph",
+        "table_header",
+        "paragraph",
+        "table_row",
+        "table_cell",
+        "paragraph",
+        "table_cell",
+        "paragraph",
+        "table_row",
+        "table_cell",
+        "paragraph",
+        "table_cell",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "hard_break",
+        "paragraph",
+        "hard_break",
+        "paragraph",
+        "paragraph",
+        "paragraph",
+        "paragraph"
+      ]
+    }
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "about": "A third pass of the board #1 to TES2 copy, as a dry run (writes nothing), taken by hand from the harness's own sandbox after `run.sh` finished, to see whether the second pass's `updated` repeats.",
+  "taken": "2026-11-11T00:00:07+00:00",
+  "runs": [
+    {
+      "command": [
+        "onetaskgraph",
+        "--output",
+        "json",
+        "project",
+        "copy",
+        "board:I_kwDOU_sxG88AAAABeJrOUg",
+        "--to",
+        "linear",
+        "--dry-run"
+      ],
+      "exit": 0,
+      "stdout": {
+        "items": [
+          {
+            "source": "board:I_kwDOU_sxG88AAAABeJrOUg",
+            "action": "updated",
+            "destination": "linear:6ee13ffd-504d-48a2-ab71-3825825424c2",
+            "via": "link"
+          },
+          {
+            "source": "board:I_kwDOU_sxG88AAAABeJrP9g",
+            "action": "unchanged",
+            "destination": "linear:2d6e0937-ffc8-49a2-a8d2-0dc723fca5e4",
+            "via": "link",
+            "skipped": false
+          }
+        ],
+        "spent": {
+          "requests": 5,
+          "budgets": [
+            {
+              "budget": "graphql",
+              "unit": "points",
+              "amount": 5,
+              "lower_bound": true
+            },
+            {
+              "budget": "rest",
+              "unit": "requests",
+              "amount": 0,
+              "lower_bound": false
+            }
+          ]
+        }
+      },
+      "stderr": ""
+    },
+    {
+      "command": [
+        "onetaskgraph",
+        "--output",
+        "json",
+        "document",
+        "copy",
+        "board:I_kwDOU_sxG88AAAABeJrURg",
+        "--to",
+        "linear",
+        "--dry-run"
+      ],
+      "exit": 0,
+      "stdout": {
+        "items": [
+          {
+            "source": "board:I_kwDOU_sxG88AAAABeJrURg",
+            "action": "unchanged",
+            "destination": "linear:cababebc-3b00-4e3f-babc-ace6ddd090d0",
+            "via": "link",
+            "skipped": false
+          }
+        ],
+        "spent": {
+          "requests": 2,
+          "budgets": [
+            {
+              "budget": "graphql",
+              "unit": "points",
+              "amount": 2,
+              "lower_bound": true
+            },
+            {
+              "budget": "rest",
+              "unit": "requests",
+              "amount": 0,
+              "lower_bound": false
+            }
+          ]
+        }
+      },
+      "stderr": ""
+    }
+  ]
+}
