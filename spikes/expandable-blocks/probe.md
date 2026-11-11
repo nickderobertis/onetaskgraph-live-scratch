@@ -856,7 +856,7 @@ the authored form inside a fenced code block.
 
 **What you should see:** Shown as code (literal text) everywhere: a fenced block is never parsed.
 
-````markdown
+```markdown
 <details>
 <summary>Probe F01: Plain summary text</summary>
 
@@ -865,9 +865,9 @@ A paragraph with *emphasis* and [a link](https://github.com/nickderobertis/oneta
 End of probe F01.
 
 </details>
-````
+```
 
-````markdown
+```markdown
 <details>
 <summary>Probe F02: Entities &amp; &lt;tag&gt; in a summary</summary>
 
@@ -876,9 +876,9 @@ A paragraph with *emphasis* and [a link](https://github.com/nickderobertis/oneta
 End of probe F02.
 
 </details>
-````
+```
 
-````markdown
+```markdown
 <details>
 <summary>Probe F03: Inline code `copy --dry-run` in backticks</summary>
 
@@ -887,9 +887,9 @@ A paragraph with *emphasis* and [a link](https://github.com/nickderobertis/oneta
 End of probe F03.
 
 </details>
-````
+```
 
-````markdown
+```markdown
 <details>
 <summary>Probe F04: Inline code <code>copy --dry-run</code> as HTML</summary>
 
@@ -898,9 +898,9 @@ A paragraph with *emphasis* and [a link](https://github.com/nickderobertis/oneta
 End of probe F04.
 
 </details>
-````
+```
 
-````markdown
+```markdown
 <details>
 <summary>Probe F05: **Bold** text in a summary</summary>
 
@@ -909,9 +909,9 @@ A paragraph with *emphasis* and [a link](https://github.com/nickderobertis/oneta
 End of probe F05.
 
 </details>
-````
+```
 
-````markdown
+```markdown
 <details>
 <summary>Probe F06: <strong>Bold</strong> as HTML</summary>
 
@@ -920,9 +920,9 @@ A paragraph with *emphasis* and [a link](https://github.com/nickderobertis/oneta
 End of probe F06.
 
 </details>
-````
+```
 
-````markdown
+```markdown
 <details>
 <summary>Probe F07: Body — paragraph</summary>
 
@@ -931,9 +931,9 @@ A paragraph with *emphasis* and [a link](https://github.com/nickderobertis/oneta
 End of probe F07.
 
 </details>
-````
+```
 
-````markdown
+```markdown
 <details>
 <summary>Probe F08: Body — lists</summary>
 
@@ -946,9 +946,9 @@ End of probe F07.
 End of probe F08.
 
 </details>
-````
+```
 
-````markdown
+```markdown
 <details>
 <summary>Probe F09: Body — headings</summary>
 
@@ -963,7 +963,7 @@ Text under the fourth-level heading.
 End of probe F09.
 
 </details>
-````
+```
 
 ````markdown
 <details>
@@ -979,7 +979,7 @@ End of probe F10.
 </details>
 ````
 
-````markdown
+```markdown
 <details>
 <summary>Probe F11: Body — image</summary>
 
@@ -988,9 +988,9 @@ End of probe F10.
 End of probe F11.
 
 </details>
-````
+```
 
-````markdown
+```markdown
 <details>
 <summary>Probe F12: Body — table</summary>
 
@@ -1002,20 +1002,20 @@ End of probe F11.
 End of probe F12.
 
 </details>
-````
+```
 
 ````markdown
 <details>
 <summary>Probe F13: Body — nested</summary>
 
-````markdown
+```markdown
 <details>
 <summary>Probe F13i: nested inner summary</summary>
 
 Nested body of probe F13.
 
 </details>
-````
+```
 
 End of probe F13.
 
